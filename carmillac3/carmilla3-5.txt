@@ -1,362 +1,369 @@
-Carmilla 3.5. 3�͑���
+/*  [amine, translation of chapter3-5, 2019.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 3.5. 3章続き
 I saw the very face which had visited me in my childhood at night,
-���͗c�����镪�Ɏ���K�˂��܂��������̊�������A
+私は幼い時夜分に私を訪ねたまさしくその顔を見た、
 which remained so fixed in my memory,
-�����낻��͎��̋L���ɂ���قǌŒ肳�ꂽ�܂܂ł�������A
+何しろそれは私の記憶にそれほど固定されたままでいたから、
 and on which I had for so many years so often ruminated with horror,
-�����Ď��͂��ꂾ���̔N�����ꂾ���x�X�����Ƃ��Ă���ɂ��Ďv���߂��炵�Ă�������A
+そして私はそれだけの年数それだけ度々ぞっとしてそれについて思いめぐらしていたから、
 when no one suspected of what I was thinking.
-�����Ƃ���������̍l���Ă��鎖�����Â��Ȃ��������B
+もっともだれも私の考えている事を感づかなかったが。
 
 It was pretty,
-����͂��킢�炵���A
+それはかわいらしく、
 even beautiful;
-�����������������B
+美しくさえあった。
 and when I first beheld it,
-�����Ď������߂ĂȂ��߂�ƁA
+そして私が初めてながめると、
 wore the same melancholy expression.
-�ȑO�Ɠ����䂤���ȕ\������Ă����B
+以前と同じゆううつな表情をしていた。
 
 But this almost instantly lighted into a strange fixed smile of recognition.
-����������͂قƂ�Ǒ����Ɍ��o���̂��邶���Ƃ��ē����Ȃ����Ȕ��΂ɋP�����B
+しかしこれはほとんど即座に見覚えのあるじっとして動かない妙な微笑に輝いた。
 
 There was a silence of fully a minute,
-�D�Ɉꕪ�̒��ق�����A
+優に一分の沈黙があり、
 and then at length she spoke;
-���ꂩ��悤�₭�ޏ��͌����������B
+それからようやく彼女は口をきいた。
 I could not.
-���͂ł��Ȃ������B
+私はできなかった。
 
 "How wonderful!" she exclaimed.
-�u���ƕs�v�c�Ȃ��Ƃ��낤�v�Ɣޏ��͊����I�ɋ��񂾁B
+「何と不思議なことだろう」と彼女は感動的に叫んだ。
 "Twelve years ago,
-�u�\��N�O�A
+「十二年前、
 I saw your face in a dream,
-���͂��Ȃ��̂���𖲂Ɍ��āA
+私はあなたのお顔を夢に見て、
 and it has haunted me ever since."
-�����Ĉȗ������Ƃ��ꂪ�v���o����ĂȂ�܂���ł����B�v
+そして以来ずっとそれが思い出されてなりませんでした。」
 
 "Wonderful indeed!" I repeated,
-�u�{���ɕs�v�c�ȁI�v�Ǝ���
+「本当に不思議な！」と私は
 overcoming with an effort the horror that had for a time suspended my utterances.
-�ꎞ���b���~�����Ă������|�ɂނ�ɑł������āA�����ޕԂ��Ɍ������B
+一時発話を停止させていた恐怖にむりに打ち勝って、おうむ返しに言った。
 "Twelve years ago,
-�u�\��N�O�A
+「十二年前、
 in vision or reality,
-���z�ł����ۂɂ��A
+幻想でか実際にか、
 I certainly saw you.
-���͊m���ɂ��Ȃ��ɂ�����܂����B
+私は確かにあなたにお会いしました。
 I could not forget your face.
-���Ȃ��̂���͖Y����܂���ł����B
+あなたのお顔は忘れられませんでした。
 It has remained before my eyes ever since."
-�ȗ������Ɗ�O�Ɏc���Ă��܂��B�v
+以来ずっと眼前に残っています。」
 
 Her smile had softened.
-�ޏ��̔��΂͉��₩�ɂȂ��Ă����B
+彼女の微笑は穏やかになっていた。
 Whatever I had fancied strange in it,
-���̒��Ŗ����Ǝv���Ă������݂̂͂ȁA
+その中で妙だと思っていたものはみな、
 was gone,
-�����āA
+うせて、
 and it and her dimpling cheeks were now delightfully pretty and intelligent.
-�����Ă���Ƃ����ڂ�\�����ق��͍��∤���傤�������ĉ����܂������I�������B
+そしてそれとえくぼを表したほおは今や愛きょうがあって快くまた理性的だった。
 
 I felt reassured,
-���͈��S������ꂽ���������āA
+私は安心させられた感じがして、
 and continued more in the vein which hospitality indicated,
-�q��e�؂ɂ��ĂȂ��ԓx�ŋC������������
+客を親切にもてなす態度で気持ちを示して
 to bid her welcome,
-�ޏ��Ɋ��}�̂��������q�ׂ�̂��A
+彼女に歓迎のあいさつを述べるのを、
 and to tell her how much pleasure her accidental arrival had given us all,
-�܂��ޏ��̋��R�̏o�������F�ɂǂ�Ȃɑ����̊y���݂�^�������A
+また彼女の偶然の出現が我ら皆にどんなに多くの楽しみを与えたか、
 and especially what a happiness it was to me.
-�����ē��ɂ��ꂪ���ɂƂ��ĉ��Ƃ����K�^�ł��邩��`����̂��܂��������B
+そして特にそれが私にとって何という幸運であるかを伝えるのをまた続けた。
 
 I took her hand as I spoke.
-���͔ޏ��̎���Ƃ�Ȃ���b�����B
+私は彼女の手をとりながら話した。
 I was a little shy, as lonely people are,
-�ǓƂȐl�X�������ł���悤�ɁA���͏������C���������A
+孤独な人々がそうであるように、私は少し内気だったが、
 but the situation made me eloquent,
-�󋵂�����Y�قɁA
+状況が私を雄弁に、
 and even bold.
-�܂���_�ɂ����������B
+また大胆にさえさせた。
 She pressed my hand,
-�ޏ��͎��̎�����肵�߁A
+彼女は私の手を握りしめ、
 she laid hers upon it,
-���̏�Ɏ��u�������A
+その上に手を置いたが、
 and her eyes glowed,
-����ƁA
+すると、
 as, looking hastily into mine, she smiled again, and blushed.
-���̖ڂ��}���ł̂����A�Ăє��΂��āA�Ԃ��Ȃ����Ƃ���ɁA�ޏ��̖ڂ͖ڂ̊o�߂�悤�ȐF�ŋP�����B
+私の目を急いでのぞきつつ、再び微笑して、赤くなったとたんに、彼女の目は目の覚めるような色で輝いた。
 
 She answered my welcome very prettily.
-�ޏ��͎��̊��}�̌��t�ɑ傻�����킢�炵���������B
+彼女は私の歓迎の言葉に大そうかわいらしく答えた。
 I sat down beside her,
-���͔ޏ��̂��΂ɂ���������A
+私は彼女のそばにすわったが、
 still wondering;
-����ł���͂�s�v�c�Ɏv���Ă����B
+それでもやはり不思議に思っていた。
 and she said:
-����Ɣޏ��͌������B
+すると彼女は言った。
 "I must tell you my vision about you;
-�u���Ȃ��ɂ��Ă̌��z��ł������˂΂Ȃ�Ȃ��B
+「あなたについての幻想を打ち明けねばならない。
 it is so very strange
 that you and I should have had,
-���Ȃ��Ǝ����A
+あなたと私が、
 each of the other so vivid a dream,
-�݂��ɂ���ȂɑN���Ȗ�����������������Ƃ́A
+互いにそんなに鮮明な夢を見せた事があるとは、
 that each should have seen, I you and you me,
-���̂��̂��A���͂��Ȃ��ɂ����Ă��Ȃ��͎��ɁA
+おのおのが、私はあなたにそしてあなたは私に、
 looking as we do now, when of course we both were mere children.
-������񎄒B�͂Ƃ��Ɏq���ɂ����Ȃ������̂ɁA���̎p�ŁA�������������Ƃ͎��ɕs�v�c�ł��B
+もちろん私達はともに子供にすぎなかったのに、今の姿で、会った事があるとは実に不思議です。
 I was a child,
-���́A
+私は、
 about six years old,
-�Z�΂��炢�̎q���ł������A
+六歳くらいの子供でしたが、
 and I awoke from a confused and troubled dream,
-�߂��Ⴍ����ő��R�Ƃ���������ڂ��o�߂�ƁA
+めちゃくちゃで騒然とした夢から目が覚めると、
 and found myself in a room, unlike my nursery,
-�����̎q���ׂ�Ƃ͈�����A
+自分の子供べやとは違った、
 wainscoted clumsily in some dark wood,
-�����̍����񂾖؍ނł������Ȃ��H�ڂ�\���������ɂ��āA
+何かの黒ずんだ木材でぎこちなく羽目を貼った部屋にいて、
 and with cupboards and bedsteads,
-�˂��ȂƐQ��̂킭�i�Õ��ȐQ��̋�����؂̘g�g�݁j�ƁA
+戸だなと寝台のわく（古風な寝台の金属や木の枠組み）と、
 and chairs,
-�����ƁA
+いすと、
 and benches placed about it.
-�����|�������̏��X�ɒu����Ă��܂����B
+長腰掛けがその所々に置かれていました。
 The beds were,
-�Q��i�����j�́A
+寝台（複数）は、
 I thought,
-���͂����v�����̂ł����A
+私はそう思ったのですが、
 all empty,
-�S������ŁA
+全くからで、
 and the room itself without anyone but myself in it;
-�܂��������̎����g�̊O�͂�������ɂ��܂���ł����B
+また部屋自体私自身の外はだれも中にいませんでした。
 and I,
-�����Ď��́A
+そして私は、
 after looking about me for some time,
-���΂炭���͂ɋC��z��A
+しばらく周囲に気を配り、
 and admiring especially an iron candlestick with two branches,
-���ꂩ���̎}�����S�̂��傭��A
+それから二つの枝を持つ鉄のしょく台、
 which I should certainly know again,
-����͊m���ɍĂєF�߂鎖�ɂȂ����̂ł����A��������ƂɊ��S���ĂȂ��߁A
+それは確かに再び認める事になったのですが、それをことに感心してながめ、
 crept under one of the beds to reach the window;
-����������ɂ��̑��ɒB���邽�߂ɐQ��̈�̉����͂��܂����B
+そうした後にその窓に達するために寝台の一つの下をはいました。
 but as I got from under the bed,
-����ǂ��Q��̉�����o���Ƃ���ɁA
+けれども寝台の下から出たとたんに、
 I heard someone crying;
-���ꂩ�������Ă���̂��������܂����B
+だれかが泣いているのが聞こえました。
 and looking up,
-�����āA
+そして、
 while I was still upon my knees,
-�܂��Ђ��܂����Ă��邤���Ɍ��グ��ƁA
+まだひざまずいているうちに見上げると、
 I saw you--
-���Ȃ����\�\
+あなたが――
 most assuredly you--
-�Ȃɂ����m���ɂ��Ȃ����\�\
+なによりも確かにあなたが――
 as I see you now;
-��������ʂ�Ɍ����܂����B
+今見える通りに見えました。
 a beautiful young lady, with golden hair and large blue eyes,
-���F�̔��Ɛ��傫�Ȗڂ́A�������ߏ삪�A
+金色の髪と青い大きな目の、美しい令嬢が、
 and lips--
-�����Ă����т邪�\�\
+そしてくちびるが――
 your lips--
-���Ȃ��̂����т邪�\�\
+あなたのくちびるが――
 you as you are here.
-���Ȃ킿�A�����ɂ���ʂ�̂��Ȃ����B
+すなわち、ここにいる通りのあなたが。
 
 "Your looks won me;
-�u���͂��Ȃ��̗e�ڂ��Ɍ��������Ƃ���Ă��܂��܂����B
+「私はあなたの容ぼうに口説き落とされてしまいました。
 I climbed on the bed and put my arms about you,
-�Q��ɓo�肻�ꂩ�炠�Ȃ���������̂ł����A
+寝台に登りそれからあなたを抱いたのですが、
 and I think we both fell asleep.
-����Ǝv���ɉ�X�͓�l�Ƃ�����Ɋׂ�܂����B
+すると思うに我々は二人とも眠りに陥りました。
 I was aroused by a scream;
-���͐⋩�ɂ���ċN������܂����B
+私は絶叫によって起こされました。
 you were sitting up screaming.
-���Ȃ��͐⋩���N�����肩�����Ă��܂����B
+あなたは絶叫しつつ起き直りかかっていました。
 I was frightened,
-���͂т����肵�āA
+私はびっくりして、
 and slipped down upon the ground,
-���ɂ��ׂ藎���āA
+床にすべり落ちて、
 and, it seemed to me,
-���ɂ͂����v��ꂽ�̂�����ǁA
+私にはそう思われたのだけれど、
 lost consciousness for a moment;
-������Ƃ̊Ԉӎ��������܂����B
+ちょっとの間意識を失いました。
 and when I came to myself,
-�����Ă��ɕԂ������A
+そしてわれに返った時、
 I was again in my nursery at home.
-���͎���̎q���ׂ�ɖ߂��Ă��܂����B
+私は自宅の子供べやに戻っていました。
 Your face I have never forgotten since.
-���Ȃ��̊�͈ȗ������ƖY��邱�Ƃ͂���܂���ł����B
+あなたの顔は以来ずっと忘れることはありませんでした。
 I could not be misled by mere resemblance.
-�����P�Ȃ鎗��肾�����Ȃ�Ό������͂����Ȃ��B
+もし単なる似寄りだったならば誤解するはずがない。
 *You are* the lady whom I saw then."
-���Ȃ��������������̎�������i���ł��B�v
+あなたこそが私がその時会った淑女です。」
 
-���@����.
+文法メモ.
 I had for so many years so often ruminated with horror,
 when no one suspected of what I was thinking.
-����when�����ɁA�Ƃ����Ӗ����Ƃ���ƁA�N�����Â��Ȃ��������ɁA
-�v���߂��炵�Ă����A�Ƃ悭�Ӗ����킩��Ȃ��Ȃ��Ă��܂��B
-when�ɂ́`�ɂ�������炸�Aalthough �Ƃ����Ӗ�������A���ꂾ�Ǝv���B
+このwhenが時に、という意味だとすると、誰も感づかなかった時に、
+思いめぐらしていた、とよく意味がわからなくなってしまう。
+whenには～にもかかわらず、although という意味があり、これだと思う。
 He sold the house for a thousand yen,
-�ނ͉Ƃ��~�Ŕ������A
+彼は家を千円で売った、
 when he might have sold it for twice the sum.
-���̋��z�̓�{�Ŕ��ꂽ��������Ȃ��̂ɁB
-�����A�����ł͒N�����Â��Ȃ������ɂ�������炸�A�v���߂��炵�Ă����A
-�Ƃ������́Athough�̓ǂ݉����̈Ӗ������Ƃ��c�ł��邪�A�̕����X�ɗǂ��Ǝv���B
-We may escape, though I think not. ���邢�͏����邩������Ȃ��A�ƂĂ����߂Ƃ͎v�����B
-�v���߂��炵�Ă����A�����Ƃ��N�����Â��Ȃ��������B
+その金額の二倍で売れたかもしれないのに。
+ただ、ここでは誰も感づかなかったにもかかわらず、思いめぐらしていた、
+というよりは、thoughの読み下しの意味もっとも…であるが、の方が更に良いと思う。
+We may escape, though I think not. あるいは助かるかもしれない、とてもだめとは思うが。
+思いめぐらしていた、もっとも誰も感づかなかったが。
 continued more in the vein which hospitality indicated,
-���̊֌W�߂̈Ӗ������A���̌`��
+この関係節の意味だが、元の形は
 hospitality indicated the vein
-�̂͂��ŁAhospitality�͋q��e�؂ɂ��ĂȂ��ԓx�A
-vein�͋C�����Ƃ����Ӗ�������A
-�q��e�؂ɂ��ĂȂ��ԓx���C�����������A
-�Ƃ��������낤�Bin the vein �͋C�����ŁA�Ƃ����Ӗ�������A
-�֌W�߂ɂ���ƁA�q��e�؂ɂ��ĂȂ��ԓx�������C�����ŁA
-�ƂȂ�B�����ŁA�ԓx�ŋC�����������āA�Ɩ󂵂��B
+のはずで、hospitalityは客を親切にもてなす態度、
+veinは気持ちという意味だから、
+客を親切にもてなす態度が気持ちを示す、
+という事だろう。in the vein は気持ちで、という意味だから、
+関係節にすると、客を親切にもてなす態度が示す気持ちで、
+となる。そこで、態度で気持ちを示して、と訳した。
 it is so very strange that you and I should have had,
 each of the other so vivid a dream
-"Should"�͉�X�̗\���ɔ����ċ��R�N���鎖�ɑ΂��������⊶�̈ӂ�
-�\�킷���߂ɗp������B
-���� (what is) ���\�� (what should be, �����Ƃ����Ȃ鎖) �ɔ����Ă���
-�Ƃ����Ӗ��B
-���̕��͕��ʎ��̑O�u���ɂ���ē������\�\
+"Should"は我々の予期に反して偶然起こる事に対する驚きや遺憾の意を
+表わすために用いられる。
+現実 (what is) が予期 (what should be, きっとそうなる事) に反している
+という意味。
+この文は普通次の前置きによって導かれる――
 "It is strange........." "I wonder........." "I am surprised";
-"I regret"; "It is a pity"; ���B
-�����̐߂̌�ł������@��p���Ă��ǂ����A
-"should" ��t�����鎖�ɂ���ċ�����⊶�̊T�O����������B
-�`����Ƃ́A�Ɩ󂷁B
-should���Ȃ����have had a dream�Ō��݊�������������A
-����������������A�Ƃ����Ӗ��ŗǂ��Ǝv���B
-�A���A�Ԃ�each of the other�Ƃ��������傪�͂��܂��Ă���B
-have someone a dream �Ƃ����`�����A
-���ׂ�����ǌ�����Ȃ������B
-�߂��̂́`���c�̏�Ԃɒu��
-Have all the windows open. ����S�������Ă����Ȃ���
-�Ƃ����p�@�����邩��A�l�ɖ���������A�Ƃ����Ӗ����낤���B
-�����������Ƃ���ƁAeach of the other �݂͌��ɖ���������A
-�Ƃ����Ӗ��ɂȂ邾�낤����ǁA����͕��ʂ�each other�ł���B
-���̌`�͒��ׂ���������Ȃ������B
-�������Aeach other�̌ꌹ�ɂ��ƁA
-�Ép��iOld English, 700�`1100�j�����ɂ�each to other��each from other���ɂ�����\����
-���݂����B
-��ł����y���邪�A����͗ߏ삪�Ép��̕\����
-�����Ɍ���p��Řb�����Ƃ����A�Ƃ��������Ǝv���B
-�i�Ép��ł�other�̌�`�ω���to other�̂悤�ȈӖ���\�����B
-�ܘ_�������S���قȂ�B������Ƃ�����of the other��
-�����󂵂��A�Ƃ��������Ǝv���B�j
-�����have had, �ƃR���}���ł��Ă���A
-�����ň�u�����Ԃ�����������\�킵�Ă���̂ł́B
-�i���@�I�ɂ͋��炭�R���}��łK�v�͂Ȃ��B�j
-�݂��ɂ���ȂɑN���Ȗ�����������������Ƃ͎��ɕs�v�c���B
+"I regret"; "It is a pity"; 等。
+これらの節の後でも直説法を用いても良いが、
+"should" を付加する事によって驚きや遺憾の概念を強調する。
+～するとは、と訳す。
+shouldがなければhave had a dreamで現在完了時制だから、
+夢を見た事がある、という意味で良いと思う。
+但し、間にeach of the otherという名詞句がはさまっている。
+have someone a dream という形だが、
+調べたけれど見つからなかった。
+近いのは～を…の状態に置く
+Have all the windows open. 窓を全部あけておきなさい
+という用法があるから、人に夢を見せる、という意味だろうか。
+もしそうだとすると、each of the other は互いに夢を見せる、
+という意味になるだろうけれど、それは普通はeach otherである。
+この形は調べたが見つからなかった。
+しかし、each otherの語源によると、
+古英語（Old English, 700～1100）末期にはeach to otherやeach from other等にあたる表現が
+存在した。
+後でも言及するが、これは令嬢が古英語の表現を
+無理に現代英語で話そうとした、という事だと思う。
+（古英語ではotherの語形変化でto otherのような意味を表した。
+勿論文字も全く異なる。それをとっさにof the otherと
+現代語訳した、という事だと思う。）
+それでhave had, とコンマが打ってあり、
+ここで一瞬だけ間があった事を表わしているのでは。
+（文法的には恐らくコンマを打つ必要はない。）
+互いにそんなに鮮明な夢を見せた事があるとは実に不思議だ。
 an iron candlestick with two branches,
 which I should certainly know again,
-����should�͉ߋ������̕����ŁAshould have�Ƃ��Ȃ��Ă��Ȃ�����A
-���݂▢����\������@������@��should�ł͂Ȃ��͂�������A
-�����@��should, ���Ȃ킿shall�̉ߋ��������Ǝv���B
-�����ň��肪����A����p��ł�
-�����@��should�͊Ԑژb�@�ŗp��������̂ŁA
-I said that we should do it the next day. �������悤�ƌ������B
-�Ԑژb�@�łȂ��ꍇ��would�ɂ����Ȃ��B
-would�͒��ژb�@�̗p�@������B
+このshouldは過去時制の文中で、should haveともなっていないから、
+現在や未来を表す仮定法や条件法のshouldではないはずだから、
+直説法のshould, すなわちshallの過去時制だと思う。
+ここで一つ問題があり、現代英語では
+直説法のshouldは間接話法で用いられるもので、
+I said that we should do it the next day. 翌日しようと言った。
+間接話法でない場合はwouldにしかない。
+wouldは直接話法の用法もある。
 I offered him money, but he would not take it. 
-���͔ނɂ�����\���o�����A�󂯎�낤�Ƃ��Ȃ������B
-�Ⴆ�΂���͉ߋ��̈ӎu��\���B
-�������APractical English Grammar, Vol.II��
-���̒��ژb�@��would�̍���(p.264)�̉���
-���l�̂悤�ɏ����Ă��鎖�����A
-�����p��(Middle English, 1100�`1500)��
-�����̋ߐ��p��(Modern English, 1500�`)�ł�
-"shall" �� "will" �̂Ɠ����p�@�̍��ق��A
-"should" �� "would" �Ɋւ��Ă����݂����B
-�i����p��ł͒��ژb�@��would�݂̂ɓ�������Ă��܂����Ƃ��������낤���B�j
+私は彼にお金を申し出たが、受け取ろうとしなかった。
+例えばこれは過去の意志を表す。
+しかし、Practical English Grammar, Vol.IIの
+この直接話法のwouldの項目(p.264)の下に
+備考のように書いてある事だが、
+中世英語(Middle English, 1100～1500)と
+初期の近世英語(Modern English, 1500～)では
+"shall" と "will" のと同じ用法の差異が、
+"should" と "would" に関しても存在した。
+（現代英語では直接話法はwouldのみに淘汰されてしまったという事だろうか。）
 "he (Christ) knew who should betray him" (John 13:11 KJV(1611))
-�u�ށi�L���X�g�j�͎����𗠐؂鎖�ɂȂ�̂͒N����m���Ă����v
-�]���āA�֌W�߂̌��̌`��
+「彼（キリスト）は自分を裏切る事になるのは誰かを知っていた」
+従って、関係節の元の形の
 I should know again the iron candlestick
-���ƁA���͂��̓S�̐C����ĂєF�߂鎖�ɂȂ����A
-�i�����ɂ�����x���āA�ߋ��Ɍ������Ƃ�����Ƃ킩�鎖�ɂȂ����B
-���̖��̒��Ō����̂ƁA���V�����X�̒��Ō����̂ƁB�j
-�Ƃ����Ӗ��ł͂Ȃ����Ǝv���B
-�X�Ɋ֌W�߂ɂȂ�ƁA�S�̐C��A
-����͊m���ɍĂєF�߂鎖�ɂȂ����̂ł����A
-�i�m���ɂ��̌��z�Ō����C�䂾�Ƃ킩��C����Ăь��鎖�ɂȂ����j
-�킩��ɂ�����ɂȂ��Ă��܂������A���̂܂܂ɂ����B
-�A�������ŁACarmilla�������ꂽ�̂�1872�N�̎���
-�֓��搶��Practical English Grammar (1898) ��
-�����Ă��������������Ƒ�̓������Ȃ̂ŁA
-�ܘ_���ʂ͂���Ȓ����̌��t�������������Ă��Ă͂��������B
-�������A���́A���̗ߏ�i�����炭���o���A
-�ɂ�������炸���̎�l���̎q�̓R���b�Ɗۂߍ��܂�Ă��܂��A
-�������݂ƕS�����������炵�Ă���j
-�������̌��t���g�����A�Ƃ������Ȃ̂ł͂Ȃ����Ǝv���B
-���ۃV�����X�₱�̕ӂ��т̏铙�͒�����
-9-15���I�̕��ŏ��Ȃ��Ƃ��l�ܕS�N�͌o���Ă���̂ŁA
-���̗ߏ삪�V�����X�₱�̕ӂ��т̏铙�Ƌ��ɐ����Ă������݂ł���
-�Ƃ����Î��Ȃ̂ł͂Ȃ����Ǝv���B
-�Ép�ꖖ���ł���Δ��S�N���炢�B
-�܂����̐C��͏o�ė��Ă��Ȃ����A�ߏ�̖����ɘX�C���_���Ă���
-�Ə����Ă���B�܂�1�͂̊��܂ꂽ�b�ł͎��ۂɁA�o���O��
-�u�����s�ӂɉs�������o������A
-���邢�͐s�����������X�C�̂��߂������x�b�h�̎l���̒��̉e���A��ɋ߂��ǂ̏�ɂ����h�点�鎞��
-����z�c�ŕ����B�������؂̓`���I�m����m��Ȃ��悤�O����ɕۂ���Ă���K�^�Ȏq���̒��̈�l�������v
-�Ƃ������������������A����͎��ۂɐQ��̉��ӂ��
-�C�䂪�������Ƃ�������������Ȃ��B
-�i�܂��X�C�̂��߂��͖ڊo�߂�O�ɔ��������J��������\���Ă���̂�������Ȃ��B�j
+だと、私はその鉄の燭台を再び認める事になった、
+（未来にもう一度見て、過去に見たことがあるとわかる事になった。
+この夢の中で見たのと、今シュロスの中で見たのと。）
+という意味ではないかと思う。
+更に関係節になると、鉄の燭台、
+それは確かに再び認める事になったのですが、
+（確かにその幻想で見た燭台だとわかる燭台を再び見る事になった）
+わかりにくい訳になってしまったが、このままにした。
+但しここで、Carmillaが書かれたのは1872年の事で
+斎藤先生がPractical English Grammar (1898) を
+書いていらっしゃった時と大体同じ頃なので、
+勿論普通はこんな中世の言葉遣いが混ざっていてはおかしい。
+しかし、今は、この令嬢（おそらくヤバい、
+にもかかわらずこの主人公の子はコロッと丸め込まれてしまい、
+おかしみと百合感をもたらしている）
+が中世の言葉を使った、という事なのではないかと思う。
+実際シュロスやこの辺り一帯の城等は中世の
+9-15世紀の物で少なくとも四五百年は経っているので、
+この令嬢がシュロスやこの辺り一帯の城等と共に生きてきた存在である
+という暗示なのではないかと思う。
+古英語末期であれば八百年くらい。
+まだこの燭台は出て来ていないが、令嬢の枕元に蝋燭が点けてある
+と書いてある。また1章の噛まれた話では実際に、出現前に
+「扉が不意に鋭い音を出したり、
+あるいは尽きかかった蝋燭のゆらめく光がベッドの四隅の柱の影を、顔に近い壁の上にゆらゆら揺らせる時に
+頭を布団で覆い隠させる一切の伝承的知識を知らないよう念入りに保たれている幸運な子供の中の一人だった」
+という説明があったが、これは実際に寝台の横辺りに
+燭台があったという事かもしれない。
+（また蝋燭のゆらめきは目覚める前に扉か窓が開いた事を表しているのかもしれない。）
 I saw you--most assuredly you--as I see you now;
 a beautiful young lady, with golden hair and large blue eyes,
 and lips--your lips--
 you as you are here.
-��s�ڂ̋��F�̔��Ɛ��傫�Ȗڂ́A�������ߏ�A
-�Ƃ����̂͗ǂ��̂����A�i��s�ڈȉ��ɂ͓������Ȃ����߁A
+二行目の金色の髪と青い大きな目の、美しい令嬢、
+というのは良いのだが、（二行目以下には動詞がないため、
 (I saw) a beautiful young lady,
-���������ߏ삪�������A�Ƃ����Ӗ��̏ȗ����Ǝv���B�j
-�O�s�ڂ�lips�����Ɩڂ�and�ŕ��ׂĂ���Ƃ���ƁA
-���F�̔��ŁA���傫�ȖڂŁA�u�ǂ�ȁv�O���������A�Ƃ���
-�`�e���K�v�Ȃ͂��ŁA�O�̂���ߏ�A�Ƃ����̂ł͓�����O������
-���������Ȃ��Ă��܂��B
-�i���������Ȃ��̐O���������A�Ƃ������ɂȂ��Ă��܂��A
-���X���Ȃ��Ȃ̂����瓖����O�ł���B�j
-�]���ĎO�s�ڂ͓�s�ڑS�̂�and�Ōq���ł���Ƃ��������Ǝv���B
-�ߏ삪�������A�����ĐO���i���Ȃ��̐O���j�������A
-�Ƃ����\���Ȃ̂ł͂Ȃ����ƁB
-�X�Ɏl�s�ڂ�and���Ȃ����Aa beautiful young lady = you
-�Ȃ̂�����A����͓��i�̈Ӗ��Œu����Ă���̂��Ǝv���B
-�������ߏ삪�A���Ȃ킿�A�����ɂ���ʂ�̂��Ȃ����B
-1,2,4�s�ڂ͑S�Ă��Ȃ����������A�Ƃ����Ӗ��ŁA
-�Ԃ�3�s�ڂ����O���������A�Ƃ����̂����܂��Ă��āA
-4�s�ڂł͌����������A�Ƃ����\���ɂȂ��Ă���Ǝv���B
-����I�ɂȂ�����������Ƃ�����ł��Ȃ��A
-�Â��ɘb���Ă��āA
-�킴�ƌ������̂����Ȃ̂��A�����l���Ă���̂��S���킩��Ȃ��A
-�s�v�c�Ȑ��i��\���Ă���Ǝv���B
-�i���ێ�l�����A�����I�ň��S�ł���l�A�Ƃ������ɏ�Ō����Ă���B�j
+そういう令嬢が見えた、という意味の省略だと思う。）
+三行目のlipsも髪と目とandで並べてあるとすると、
+金色の髪で、青い大きな目で、「どんな」唇だったか、という
+形容が必要なはずで、唇のある令嬢、というのでは当たり前だから
+おかしくなってしまう。
+（しかもあなたの唇を持った、という事になってしまい、
+元々あなたなのだから当たり前である。）
+従って三行目は二行目全体とandで繋いであるという事だと思う。
+令嬢が見えた、そして唇が（あなたの唇が）見えた、
+という表現なのではないかと。
+更に四行目はandもないが、a beautiful young lady = you
+なのだから、これは同格の意味で置かれているのだと思う。
+美しい令嬢が、すなわち、ここにいる通りのあなたが。
+1,2,4行目は全てあなたが見えた、という意味で、
+間の3行目だけ唇が見えた、というのが挟まっていて、
+4行目では言い直した、という構成になっていると思う。
+感情的になり口が滑ったという訳でもなく、
+静かに話していて、
+わざと言ったのか何なのか、何を考えているのか全くわからない、
+不思議な性格を表していると思う。
+（実際主人公も、理性的で安心できる人、という風に上で言っている。）
 you were sitting up screaming
-�O�Ɉ�x�܂Ƃ߂���������Ȃ����A
-sit up �N������A�͏u�ԓI����Ȃ̂ŁA
-�i�s�`�͂��̓���̎n�܂���Ӗ�����B
-The man is dying. ���ɂ������Ă���
-�N�����肩�����Ă����B
+前に一度まとめたかもしれないが、
+sit up 起き直る、は瞬間的動作なので、
+進行形はその動作の始まりを意味する。
+The man is dying. 死にかかっている
+起き直りかかっていた。
 slipped down upon the ground,
-ground�͒n�ʂƂ����Ӗ������A
-On the ground!�@���ɕ�����I
-�Ƃ����悤�ɁA�����̏��Ƃ����Ӗ��Ŏg����������炵���B
-�Ȃ̂ő�������͒n�ʂɗ������̂ł͂Ȃ��āA
-�Q�䂩�珰�ɂ��ׂ藎�����A�Ƃ����Ӗ��B
+groundは地面という意味だが、
+On the ground!　床に伏せろ！
+というように、部屋の床という意味で使う事もあるらしい。
+なので多分これは地面に落ちたのではなくて、
+寝台から床にすべり落ちた、という意味。
 *You are* the lady whom I saw then
-�����ł̓C�^���b�N�̂ɂȂ��Ă���̂����A
-���܂Œm��Ȃ���������ǂ����\������@�\���Ȃ����ł́A
-��������**�ŋ���ŕ\���̂������B
-�y�ʃ}�[�N�A�b�v����Markdown�ł�
-*italic* �� _italic_ ���Άi�ǂ���ł��ǂ��j�A**bold** �� __bold__ �������B
-�����email�ł̏K�����痈�Ă���炵���B
+原文ではイタリック体になっているのだが、
+今まで知らなかったけれどそれを表示する機能がない環境では、
+こうして**で挟んで表すのだそう。
+軽量マークアップ言語Markdownでは
+*italic* か _italic_ が斜体（どちらでも良い）、**bold** か __bold__ が太字。
+これはemailでの習慣から来ているらしい。
 Answer: Why are _ and * used equally for bold and italics in markdown? https://stackoverflow.com/a/46058126?stw=2
-���܂ł͉��ƂȂ��啶���ɂ��Ă����̂����A
-��������Ƌ���ł���Ƃ����悤�ȈӖ��ɂȂ�炵���̂ŁA
-�����̈Ӗ��Ŏg���̂͊ԈႢ�ŁA�Α̂Ȃǂ��g���ׂ��炵���B
-�Α̂̓C���g�l�[�V�������g���Ĕ������������Ȃ̂��낤���H
+今までは何となく大文字にしていたのだが、
+そうすると叫んでいるというような意味になるらしいので、
+強調の意味で使うのは間違いで、斜体などを使うべきらしい。
+斜体はイントネーションを使って発音した感じなのだろうか？
 
-�Ȃ񂾂낤�c�F�X�Ȍ��t����󋵂𐄑�����A
-���������̂悤�Ȏ������܂���
+なんだろう…色々な言葉から状況を推測する、
+推理小説のような趣もありますね
