@@ -1,269 +1,276 @@
-Carmilla 3.6. 3�͑���
+/*  [amine, translation of chapter3-6, 2019.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 3.6. 3章続き
 It was now my turn to relate my corresponding vision,
-���ꂩ�獡�x�͎��������̑Ή����錶�z��b���Ԃ��������A
+それから今度は私が自分の対応する幻想を話す番だったが、
 which I did,
-����ƁA
+すると、
 to the undisguised wonder of my new acquaintance.
-�V�����m�l�͋������B���Ȃ��قǂ������B
+新しい知人は驚きを隠さないほどだった。
 
 "I don't know which should be most afraid of the other," she said,
-�u������ł��|�����Ă���͂��������̂͂ǂ��炩�킩��܂���v�ƁA�ޏ��́A
+「相手を最も怖がっているはずだったのはどちらかわかりません」と、彼女は、
 again smiling--
-�܂��ɂ�����Ə΂��������\�\
+またにっこりと笑いつつ言った――
 "If you were less pretty
-�u�������Ȃ�����������炵���Ȃ������Ȃ��
+「もしあなたがそれ程可愛らしくなかったならば
 I think I should be very much afraid of you,
-�v���Ɏ��͂��Ȃ����ƂĂ��|���������ł��傤����ǁA
+思うに私はあなたがとても怖かった事でしょうけれど、
 but being as you are,
-���Ȃ��͂��̒ʂ�ŁA
+あなたはこの通りで、
 and you and I both so young,
-�����Ă��Ȃ��Ǝ��͓�l�Ƃ����ɎႢ����A
+そしてあなたと私は二人とも実に若いから、
 I feel only that I have made your acquaintance twelve years ago,
-���ƂȂ�������̂͂����\��N�O�ɂ��Ȃ��ƒm�荇���ɂȂ��Ă��āA
+何となく感じるのはただ十二年前にあなたと知り合いになっていて、
 and have already a right to your intimacy;
-���ɍ��ӂɂȂ錠���������Ă���Ƃ����������ł��B
+既に懇意になる権利を持っているという事だけです。
 at all events it does seem
-���ɂ��Ă��{����
+何にしても本当に
 as if we were destined,
-���傤�ǉ�X�́A
+ちょうど我々は、
 from our earliest childhood,
-�ق�̕��S��������������A
+ほんの物心がついた時分から、
 to be friends.
-�F�����ɂȂ�悤�^���Â����Ă��邩�̂悤�Ɏv���܂��B
+友だちになるよう運命づけられているかのように思われます。
 I wonder whether you feel as strangely drawn towards me as I do to you;
-���������ł���̂Ɠ����ʊ�ɂ��Ȃ��͎��̕��ɐS�������v��������̂�����B
+私がそうであるのと同じ位奇妙にあなたは私の方に心引かれる思いがするのかしら。
 I have never had a friend--
-���͂܂���x���F������������������܂���\�\
+私はまだ一度も友だちがいた事がありません――
 shall I find one now?"
-����l�������������ɂȂ�̂ł��傤���H�v
+今一人を見いだす事になるのでしょうか？」
 She sighed,
-�ޏ��͂��ߑ������A
+彼女はため息をつき、
 and her fine dark eyes gazed passionately on me.
-���ꂩ��ޏ��̌����ȍ����ڂ͎���M��I�ɂ����ƂȂ��߂��B
+それから彼女の見事な黒い目は私を熱情的にじっとながめた。
 
 Now the truth is,
-���Ď��́A
+さて実は、
 I felt rather unaccountably towards the beautiful stranger.
-���͔������q�ɑ΂��Ċ����s�v�c�����������B
+私は美しい客に対して幾分不思議さを感じた。
 I did feel, as she said, "drawn towards her,"
-�ޏ��̌����ʂ�A���͖{���ɁA�u�ޏ��̕��ɐS�������v�v������������ǂ��A
+彼女の言う通り、私は本当に、「彼女の方に心引かれる」思いがしたけれども、
 but there was also something of repulsion.
-�ǂ�������_���܂��������B
+どこか拒絶点もまたあった。
 In this ambiguous feeling,
-���̗��ӂɎ���C�����̒��ŁA
+この両意に取れる気持ちの中で、
 however, 
-�������A
+しかし、
 the sense of attraction immensely prevailed.
-�����t�����銴�������ɗD���������B
+引き付けられる感じが非常に優勢だった。
 She interested and won me;
-�ޏ��͂������낭�Đ������Ƃ��ꂽ�B
+彼女はおもしろくて説き落とされた。
 she was so beautiful and so indescribably engaging.
-���ɔ������܂����Ɍ��t�Ō����\�킹�Ȃ��قǐl����������̂������B
+実に美しくまた実に言葉で言い表わせないほど人を引きつけるのだった。
 
 I perceived now something of languor and exhaustion stealing over her,
-���̎����͂ǂ������邳�Ƌɓx�̔�J�����̊Ԃɂ��ޏ��ɏP���Ă���̂��Ŏ悵�āA
+その時私はどこかだるさと極度の疲労がいつの間にか彼女に襲っているのを看取して、
 and hastened to bid her good night.
-���}�����x�݂Ȃ����ƌ������B
+取り急ぎお休みなさいと言った。
 
 "The doctor thinks," I added,
-�u����҂���̂��l���ł́v�ƁA���͌����������A
+「お医者さんのお考えでは」と、私は言いたした、
 "that you ought to have a maid to sit up with you tonight;
-�u���Ȃ��͏����ɍ���Q���Ɉꏏ�ɂ��Ă��炤�ׂ����Ƃ������ł��B
+「あなたは女中に今夜寝ずに一緒にいてもらうべきだという事です。
 one of ours is waiting,
-���̈�l���҂��󂯂Ă��܂����A
+その一人が待ち受けていますが、
 and you will find her a very useful and quiet creature."
-�ޏ����܂��Ƃɏ����ɂȂ�܂��Â��Ȑl���Ƃ킩��ł��傤�B�v
+彼女がまことに助けになりまた静かな人だとわかるでしょう。」
 
 "How kind of you,
-�u�܂����Ƃ��e�؂ɁA
+「まあ何とご親切に、
 but I could not sleep,
-���������͂��ꂾ�Ɩ���܂���A
+しかし私はそれだと眠れません、
 I never could with an attendant in the room.
-���͕����ɕt�Y�l������Ɩ��ꂽ��������܂���B
+私は部屋に付添人がいると眠れた事がありません。
 I shan't require any assistance--
-���������͂�v���鎖�ɂ͂Ȃ�Ȃ��ł��傤�\�\
+少しも助力を要する事にはならないでしょう――
 and,
-�����āA
+そして、
 shall I confess my weakness,
-���̎コ�����������Ă��������܂����A
+私の弱さを告白させていただけますか、
 I am haunted with a terror of robbers.
-���͋����̋��|�ɕt���܂Ƃ��Ă���̂ł��B
+私は強盗の恐怖に付きまとわれているのです。
 Our house was robbed once,
-��X�̉Ƃ͐̂��鎞���D����A
+我々の家は昔ある時強奪され、
 and two servants murdered,
-��l�̌ق��l���S�E���ꂽ�̂ŁA
+二人の雇い人が惨殺されたので、
 so I always lock my door.
-���͏�Ɏ����̕����̂Ƃт�ɏ����|����̂ł��B
+私は常に自分の部屋のとびらに錠を掛けるのです。
 It has become a habit--
-���ꂪ�ȂɂȂ��Ă��܂��܂����\�\
+それが癖になってしまいました――
 and you look so kind
-�����Ă��Ȃ��͔��ɗD������������
+そしてあなたは非常に優しそうだから
 I know you will forgive me.
-�����Ă������邾�낤���͂킩���Ă��܂��B
+許してくださるだろう事はわかっています。
 I see there is a key in the lock."
-���Ɍ��������Ă���̂��F�߂��܂��B�v
+錠に鍵が入っているのが認められます。」
 
 She held me close in her pretty arms for a moment
-�ޏ��͂�����Ƃ̊Ԏ������킢�炵���r�̓��ɂ�����ƕ�����
+彼女はちょっとの間私をかわいらしい腕の内にぎゅっと抱いて
 and whispered in my ear,
-�����Ď��Ɏ��ł������A
+そして私に耳打ちした、
 "Good night, darling,
-�u���x�݂Ȃ����A���Ƃ����l�A
+「お休みなさい、いとしい人、
 it is very hard to part with you,
-���Ȃ��ƕʂ��̂͂ƂĂ��炢�ł�����ǁA
+あなたと別れるのはとてもつらいですけれど、
 but good night;
-�Ƃ��������x�݂Ȃ����B
+ともかくお休みなさい。
 tomorrow,
-�����A
+明日、
 but not early,
-�����ł͂Ȃ�����ǁA
+早くではないけれど、
 I shall see you again."
-�܂�������鎖�ɂȂ�ł��傤�B�v
+またお会いする事になるでしょう。」
 
 She sank back on the pillow with a sigh,
-�ޏ��͂��ߑ������Ă܂���̏�ɂǂ���Ƃ��������ɂȂ�A
+彼女はため息をついてまくらの上にどさりとあお向けになり、
 and her fine eyes followed me with a fond and melancholy gaze,
-���ꂩ�猩���Ȗڂ��D�������v���ɒ���ł����Ǝ���ǂ��A
+それから見事な目が優しく物思いに沈んでじっと私を追い、
 and she murmured again
-�����Ĕޏ��͂܂�
+そして彼女はまた
 "Good night, dear friend."
-�u���x�݂Ȃ����A���Ƃ����F��v�Ə����Ō������B
+「お休みなさい、いとしい友よ」と小声で言った。
 
 Young people like, and even love, on impulse.
-�Ⴂ�l�����́A�Փ��ɂ���čD�݁A�܂�������������B
+若い人たちは、衝動によって好み、また愛しさえする。
 I was flattered by the evident, though as yet undeserved, fondness she showed me.
-���͔ޏ������������炩�ȁA���܂ł̂Ƃ���ł͕��O�ł͂��邯��ǂ��A�i���ϓI�E���s�s�ȁj���ɂ��ꂵ���Ȃ����B
+私は彼女が示した明らかな、今までのところでは分外ではあるけれども、（直観的・理不尽な）愛にうれしくなった。
 I liked the confidence with which she at once received me.
-���͔ޏ��������Ɏ����󂯓��ꂽ���Ȃ̐M�p���D�񂾁B
+私は彼女がすぐに私を受け入れた所以の信用を好んだ。
 She was determined that we should be very near friends.
-�ޏ����ł����S�����͉̂�X���܂��Ƃɐe���ȗF�����ɂȂ�Ƃ������������B
+彼女が固く決心したのは我々がまことに親密な友だちになるという事だった。
 
 Next day came and we met again.
-���̓����߂����ė��Ă����ĉ�X�͂܂�������B
+次の日がめぐって来てそして我々はまた会った。
 I was delighted with my companion;
-���͋��R�̗F���C�ɓ������B
+私は偶然の友が気に入った。
 that is to say,
-���Ȃ��Ƃ��A
+少なくとも、
 in many respects.
-�����̓_�ŁB
+多くの点で。
 
 Her looks lost nothing in daylight--
-�ޏ��̗e�ڂ��͒��Ԃł���������Ȃ������\�\
+彼女の容ぼうは昼間でも何も失わなかった――
 she was certainly the most beautiful creature I had ever seen,
-�ޏ��قǔ������l�͊ԈႢ�Ȃ��������Ƃ��Ȃ������A
+彼女ほど美しい人は間違いなく見たことがなかった、
 and the unpleasant remembrance of the face presented in my early dream,
-�����ėc������̖��Ō�����̂���ȋL���́A
+そして幼いころの夢で見た顔のいやな記憶は、
 had lost the effect of the first unexpected recognition.
-�ŏ��̎v�������Ȃ����o���̌��ʂ������Ă����B
+最初の思いもよらない見覚えの効果を失っていた。
 
 She confessed that
-�ޏ��͍��������̂���
+彼女は告白したのだが
 she had experienced a similar shock on seeing me,
-�ޏ������ɉ�Ɠ����ɓ��l�̋������A
+彼女も私に会うと同時に同様の驚きを、
 and precisely the same faint antipathy that had mingled with my admiration of her.
-�����Ď��̔ޏ��ւ̊��Q�ƍ��������������ȁi���܂���́A���邢�͍��[���j������Ƃ��傤�Ǔ��������o�����Ă����B
+そして私の彼女への感嘆と混ざったかすかな（生まれつきの、あるいは根深い）悪感情とちょうど同じ物を経験していた。
 We now laughed together over our momentary horrors. 
-��X�͍���ق�̈ꎞ�̋��|�ɂ��ď΂��Ȃ���c�_���������B
+我々は今やほんの一時の恐怖について笑いながら議論し合った。
 
-���@����.
+文法メモ.
 to the undisguised wonder of my new acquaintance
-to a wonder�͋����قǁA�Ƃ����Ӗ�������A
-of�ȉ����s�׎҂�\���Ă��āA�V�����m�l�������قǁB
-undisguised�͂����炳�܂́A�B���Ȃ��A�Ƃ����Ӗ�������A
-�B���Ȃ������A�������B���Ȃ��قǂ������A�Ɩ󂵂��B
+to a wonderは驚くほど、という意味だから、
+of以下が行為者を表していて、新しい知人が驚くほど。
+undisguisedはあからさまの、隠さない、という意味だから、
+隠さない驚き、驚きを隠さないほどだった、と訳した。
 I don't know which should be most afraid of the other
-����should�́A�������
+このshouldは、すぐ後の
 I should be very much afraid of you
-�ƑS�������`�ŗp�����Ă���̂ŁA
-����@�̏����߂��ȗ�����Ă���̂��Ǝv���B
-����͏����@�����Ƃ����`�ŁA
-"Should" �� "Would" �̎�Ȏg�����̈�B
-���ۂ̎��Ԃ͌��݂������̂ǂ��炩�B
-�����߂̓����́AIf you were less pretty�Ɖ���@�ߋ��B
-�����߂�����Ȃ�΁A"should" �܂��� "would" ��
-���݂̔ے��\�킷�B
-���̏ꍇ���A"Should" �� "Would" �� "Shall" �� "Will"
-�̋K���ɏ]���B
-I should be able to do it, if I tried. �������݂��Ȃ�΁A�ł��鎖�ł��傤����ǁB
-�����߂͋��炭�������Ȃ�����������炵���Ȃ������Ȃ�΁A
-�̂悤�Ȍ��t�ŗǂ��Ǝv���̂ŁAshall�̎����̈ӎu�ɂ��Ȃ��Ӗ���
-�`�̂͂��������Ɩ󂵂āA
-������ł��|�����Ă���͂��������̂͂ǂ��炩
-�Ɩ󂵂��B
+と全く同じ形で用いられているので、
+仮定法の条件節が省略されているのだと思う。
+これは条件法未来という形で、
+"Should" と "Would" の主な使われ方の一つ。
+実際の時間は現在か未来のどちらか。
+条件節の動詞は、If you were less prettyと仮定法過去。
+条件節が仮定ならば、"should" または "would" は
+現在の否定を表わす。
+この場合も、"Should" と "Would" は "Shall" と "Will"
+の規則に従う。
+I should be able to do it, if I tried. もし試みたならば、できる事でしょうけれど。
+条件節は恐らくもしあなたがそれ程可愛らしくなかったならば、
+のような言葉で良いと思うので、shallの自分の意志によらない意味を
+～のはずだったと訳して、
+相手を最も怖がっているはずだったのはどちらか
+と訳した。
 but being as you are, and you and I both so young,
-�܂�but�̌�ɕ����\���ɂȂ��Ă��邪�A
-but�͑O�̕��Ƃ��̕����\�����܂ތ�̕��S�̂�
-�傫���Ȃ��ł��邾�����Ǝv���B
-�����\���͎��ԁA�����◝�R�A������������Ӗ�����ꍇ������A
-�����◝�R�̏ꍇ��"as"�ɓ������}����I�Ȑ߂���ɔ�����������B
+まずbutの後に分詞構文になっているが、
+butは前の文とこの分詞構文を含む後の文全体を
+大きくつないでいるだけだと思う。
+分詞構文は時間、原因や理由、条件や譲歩を意味する場合があり、
+原因や理由の場合は"as"に導かれる挿入句的な節が後に伴う事がある。
 Living, as I do, (= As I live) at such a distance from town, I rarely have visitors.
-�����炱��قǉ����ɏZ��ł���̂ŁA���ɂ͂߂����ɗ��q������܂���B
-�A������͕����\���̈Ӗ���̎��(you, you and I)�Ǝ�߂̎�� I ���قȂ邯��ǁA
-���������ᕶ���������̂ŁA�Ɨ������\���̂悤�ɋ������̂��Ǝv���B
+町からこれほど遠方に住んでいるので、私にはめったに来客がありません。
+但し今回は分詞構文の意味上の主語(you, you and I)と主節の主語 I が異なるけれど、
+そういう例文もあったので、独立分詞構文のように許されるのだと思う。
 being as you are (so pretty), and you and I (are) both so young,
-�̏ȗ����Ǝv���̂ŁA�������̋K���łȂ�����
+の省略だと思うので、これを上の規則でなおすと
 As you are (so pretty), and you and I both (are) so young,
-���Ȃ��͎��ɉ��炵���āA���Ȃ��Ǝ��͓�l�Ƃ����ɎႢ����
-����ł������ďȗ�����Ă��邾�낤���t���A���̒ʂ�ŁA�Ɩ󂵂��B
-���ꂩ��A��ʓI�ɉp��͂ǂ�ǂ�Z���ȒP�ȕ��ɂȂ����̂ŁA
-�t�ɒ����ĕ��G�ȕ��͌Õ��Ō��ꂵ���\���ł���B
-�i�ܘ_����ł��A��V���������Ȃ��Ƃ����Ȃ����ł́A
-�K�x�Ȓ����ƓK�x�ɕ��G�ȕ\�����p������B
-�ܘ_�K�x�̊�͎���ɂ���ĈႤ����ǂ��B�j
-�ߏ�̕��͈ꕶ�����̂������������@�I�ɂ�����A
-�i������u���ɍl���Ȃ���b���Ă���Ǝv���ƃ��o�����킩��j
-��l���̎q�͔�r�I�Z���ĊȒP���Ƃ킩��B
-���܂ł̓o��l���̒��ł��S���Ȃ������ق�
-�ߏ�̘b�����͓���Ǝv���̂ŁA
-���̎���ł��s�v�c�Ȃ̂ł͂Ȃ����Ǝv���B
-���̎q����Ɉ����t������ƌ����Ă���̂́A
-��ɂ͂��̗ߏ�̘b�����e�̕s�v�c��������̂ł͂Ȃ����Ǝv���B
-�܂��A����ł��C�M���X�ƃA�����J�ȊO�̃��[���b�p���̐l��
-�p����g���ƁA���������Õ��Ō��ꂵ���\���ɂȂ鎖������B
-De Lafontaine��͂����炭�t�����X�l��
-��������̓h�C�c�l�Ə�����Ă����̂ŁA
-���̐l�̘b�����ɂ͂��������w�i������̂ł͂Ȃ����Ǝv���B
+あなたは実に可愛らしくて、あなたと私は二人とも実に若いから
+それでこうして省略されているだろう言葉を、この通りで、と訳した。
+それから、一般的に英語はどんどん短く簡単な文になりつつあるので、
+逆に長くて複雑な文は古風で堅苦しい表現である。
+（勿論現代でも、礼儀正しくしないといけない文では、
+適度な長さと適度に複雑な表現も用いられる。
+勿論適度の基準は時代によって違うけれども。）
+令嬢の文は一文がものすごく長く文法的にも難しく、
+（これを瞬時に考えながら話していると思うとヤバさがわかる）
+主人公の子は比較的短くて簡単だとわかる。
+今までの登場人物の中でも全くなかったほど
+令嬢の話し方は難しいと思うので、
+この時代でも不思議なのではないかと思う。
+この子が奇妙に引き付けられると言っているのは、
+一つにはこの令嬢の話す内容の不思議さもあるのではないかと思う。
+また、現代でもイギリスとアメリカ以外のヨーロッパ圏の人は
+英語を使うと、そうした古風で堅苦しい表現になる事がある。
+De Lafontaine嬢はおそらくフランス人で
+お父さんはドイツ人と書かれていたので、
+この人の話し方にはそういう背景もあるのではないかと思う。
 I see there is a key in the lock.
-see�ɂ͌�����Ƃ����Ӗ��ȊO�ɁA������A�C�Â��Ƃ����Ӗ�������A
-�����ł͕����̌���ߏ�ɓn������ŏ��ɓ������܂܎c���Ă����
-���낤����ǁA����ɋC���t���Ă��܂��A�Ƃ����Ӗ����낤����A
-���̕����ǂ��̂ł͂Ȃ����Ǝv���B
-���ہA
-He saw at once that he had made a mistake. �ԈႢ���������Ƃɂ����C�Â���
-�Ƃ������� see ������ �Ƃ����`������̂ŁB
-�������ɓ����Ă��鎖���F�߂���A�Ɩ󂵂��B
+seeには見えるという意味以外に、見つける、気づくという意味があり、
+ここでは部屋の鍵を令嬢に渡すつもりで錠に入ったまま残してあるの
+だろうけれど、それに気が付いています、という意味だろうから、
+その方が良いのではないかと思う。
+実際、
+He saw at once that he had made a mistake. 間違いをしたことにすぐ気づいた
+という風に see 名詞節 という形があるので。
+鍵が錠に入っている事が認められる、と訳した。
 but good night
-but �͕����łƂ����� (in any case, anyhow) �Ƃ����Ӗ������邪
-Anyhow, let us begin. �Ƃɂ�����肩���낤
-�Ƃ����悤�ɌĊ|���Ŏg���_�����Ă���̂ŁA����ł͂Ȃ����Ǝv���B
-�P�ɐڑ����Ȃ̂�������Ȃ�����ǁA
-good night �͔��΂̌��Ƃ����ƈႤ�C�����邵�A
-�܂����̑O�Ŏ�l����
+but は副詞でともかく (in any case, anyhow) という意味があるが
+Anyhow, let us begin. とにかく取りかかろう
+というように呼掛けで使う点が似ているので、これではないかと思う。
+単に接続詞なのかもしれないけれど、
+good night は反対の語句というと違う気もするし、
+またその前で主人公が
 hastened to bid her good night
-���}�����x�݂Ȃ����ƌ������A�̎��}���A
-�ɑΉ����Ă��鎖�����邵�A�����ƕ����ł͂Ȃ����Ǝv���B
-���̓�l�͐F�X�ƑΉ�����悤�ɏ�����Ă���B
-�O�͂̑薼��We Compare Notes��
-�Ԉ���ĉ�X�͋L�^���r�����Ə���������ǁA
-����͐��傪�����āAcompare notes �ňӌ�����������A
-���z���q�׍����A�Ƃ����Ӗ��������B
-����͂��̏�ʂ̎��Ȃ̂��A���邢�͍ŏ���
-�����ɂ��Ęb�������Ă����ʂ̎��Ȃ̂��B
-�����A���܂ł̑薼���S��
-An Early Fright �����̋��|
-A Guest �����ꂽ�q
-�Ƃ������ɗߏ�̎����w���Ă���̂ŁA
-������ߏ�Ɗ��z���q�׍������A�Ƃ����Ӗ���������Ȃ��B
-���ہACollins COBUILD�Œ��ׂ�ƁA
+取り急ぎお休みなさいと言った、の取り急ぎ、
+に対応している事もあるし、きっと副詞ではないかと思う。
+この二人は色々と対応するように書かれている。
+三章の題名のWe Compare Notesは
+間違って我々は記録を比較したと書いたけれど、
+これは成句があって、compare notes で意見を交換する、
+感想を述べ合う、という意味だった。
+それはこの場面の事なのか、あるいは最初の
+事件について話し合っている場面の事なのか。
+ただ、今までの題名も全て
+An Early Fright 早朝の恐怖
+A Guest 招かれた客
+という風に令嬢の事を指しているので、
+今回も令嬢と感想を述べ合った、という意味かもしれない。
+実際、Collins COBUILDで調べると、
 If you **compare notes** with someone on a particular subject,
-�N���Ɠ��ʂȘb��ɂ��āu���z���q�׍����v�Ƃ����̂́A
+誰かと特別な話題について「感想を述べ合う」というのは、
 you talk to them
-���̐l�Ƙb����
+その人と話して
 and find out whether their opinion, information, or experience is the same as yours.
-���̐l�̌����A����o���������̂Ɠ������ǂ����������o���A�Ƃ�������
-�Ƃ���̂ŁA��͂��l���������z (���z����Ȃ����낤���ǂ���) �������ƌ����̂��A
-�����Ɠ������e�������̂��b���������A�Ƃ����Ӗ����낤�Ǝv���B
-���� tomorrow, but not early, �����
-�����ƕ���tomorrow��not early���q���ł���̂ŁA
-�ڑ����ŗǂ��Ǝv���B�����A�����������ł͂Ȃ��B
-�����ǂ񂾂Ǝv�����̂ł����A�܂��o������΂���Ȃ̂ł���
+その人の見解、情報や経験が自分のと同じかどうか答えを出す、ということ
+とあるので、やはり二人が同じ幻想 (幻想じゃないだろうけどｗｗ) を見たと言うのが、
+自分と同じ内容だったのか話し合った、という意味だろうと思う。
+次の tomorrow, but not early, これは
+ちゃんと副詞tomorrowとnot earlyを繋いでいるので、
+接続詞で良いと思う。明日、しかし早くではなく。
+随分読んだと思ったのですが、まだ出会ったばかりなのですね
