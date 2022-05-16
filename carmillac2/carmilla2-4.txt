@@ -1,154 +1,161 @@
-Carmilla 2.4. 2�͑���
+/*  [amine, translation of chapter2-4, 2018.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 2.4. 2章続き
 Madame Perrodon was fat, middle-aged, and romantic,
-Perrodon�v�l�͑����Ă��āA���N�ŁA��z�I�ŁA
+Perrodon夫人は太っていて、中年で、空想的で、
 and talked and sighed poetically.
-���I�Ɍ�肽�ߑ��������B
+詩的に語りため息をついた。
 Mademoiselle De Lafontaine--
-De Lafontaine��́\�\
+De Lafontaine嬢は――
 in right of her father who was a German,
-�h�C�c�l�ł���ޏ��̕��̌̂ɁA
+ドイツ人である彼女の父の故に、
 assumed to be psychological, metaphysical,
-�S���w�I�A�`����I�ŁA
+心理学的、形而上的で、
 and something of a mystic--
-�����_���`�҂̂ӂ�����ā\�\
+少し神秘主義者のふりをして――
 now declared that
-���̎��f�������̂�
+その時断言したのは
 when the moon shone with a light so intense
-��������قǋ���Ȍ��ŋP������
+月がこれほど強烈な光で輝く時は
 it was well known that it indicated a special spiritual activity.
-���ʂȐS���̊����̒m�点���ƌ��������ǂ��m���Ă���Ƃ������������B
+特別な心霊上の活動の知らせだと言う事が良く知られているという事だった。
 The effect of the full moon in such a state of brilliancy was manifold.
-���̂悤�ȋP���̏�Ԃɂ��閞���̌��ʂ͑��l�ł���B
+このような輝きの状態にある満月の効果は多様である。
 It acted on dreams,
-����͖��ɉe�����y�ڂ��A
+それは夢に影響を及ぼし、
 it acted on lunacy,
-����͊Ԍ������_�a�i�̌��̉e���ɂ���Đ�����ƐM����ꂽ�j�ɉe�����y�ڂ��A
+それは間欠性精神病（昔月の影響によって生じると信じられた）に影響を及ぼし、
 it acted on nervous people,
-����͋������₷���l�X�ɉe�����y�ڂ��A
+それは興奮しやすい人々に影響を及ぼし、
 it had marvelous physical influences connected with life.
-����͌��C�Ɋ֌W���Ă���s�v�c�Ȑg�̓I�e�����y�ڂ��B
+それは元気に関係している不思議な身体的影響を及ぼす。
 Mademoiselle related that her cousin,
-�ߏ�̕����ɂ͔ޏ��̂��Ƃ��́A
+令嬢の物語るには彼女のいとこは、
 who was mate of a merchant ship,
-���D�̍q�C�m�����A
+商船の航海士だが、
 having taken a nap on deck on such a night,
-���������ӓ����Ńf�b�L�ɏo�āA
+こういう晩当直でデッキに出て、
 lying on his back,
-�����ɁA
+仰向けに、
 with his face full in the light of the moon,
-��ɂ��傤�ǌ��̌����󂯂Ă������Q���Ă�����A
+顔にちょうど月の光を受けてうたた寝していたら、
 had wakened, after a dream of an old woman clawing him by the cheek,
-�ނ̖j���߂ł���ł���V�w�l�̖��̌�A
+彼の頬をつめでつかんでいる老婦人の夢の後、
 with his features horribly drawn to one side;
-�e�e���Б��֐g�̖т��悾�قǈ����䂪�߂��āA�ڂ��o�܂����B
+容貌が片側へ身の毛もよだつほど引きゆがめられて、目を覚ました。
 and his countenance had never quite recovered its equilibrium.
-�����Ĕނ̊���͊��S�ɂ͋ύt�����߂��Ȃ������B
+そして彼の顔つきは完全には均衡を取り戻さなかった。
 
 "The moon, this night,"
-�u�����A����́A�v��
+「月が、今夜は、」と
 she said,
-�ޏ��͌��������A
+彼女は言ったが、
 "is full of idyllic and magnetic influence--
-�u�q�̓I�ōÖ��͂̂��銴���́i�V�̂��痬��ė����t���l�̐��i�E�^���Ȃǂɗ^����Ƃ����j�ɖ����Ă���\�\
+「牧歌的で催眠力のある感応力（天体から流れて来る霊液が人の性格・運命などに与えるという）に満ちている――
 and see,
-�����āA
+そして、
 when you look behind you at the front of the schloss
-�U��Ԃ��ăV�����X�̐��ʂ�������
+振り返ってシュロスの正面を見たら
 how all its windows flash and twinkle with that silvery splendor,
-���̑S�Ă̑���
+その全ての窓が
 as if unseen hands had lighted up the rooms to receive fairy guests."
-���傤�ǖڂɌ����Ȃ��肪�d���̋q���}���邽�߂ɕ������Ɩ��������̂悤�ɁA���̋┒�̋P���̌̂ɂǂ����肫��߂��Ă��邩�m�肽�܂��B�v
+ちょうど目に見えない手が妖精の客を迎えるために部屋を照明したかのように、あの銀白の輝きの故にどう光りきらめいているか知りたまえ。」
 
 There are indolent styles of the spirits in which, indisposed to talk ourselves,
-�����������b���đӑĂȎ�ނ̋C���ɂȂ�̂͋C��肪���Ȃ��āA
+自分たちが話して怠惰な種類の気分になるのは気乗りがしなくて、
 the talk of others is pleasant to our listless ears;
-���̐l�B�̘b�����������̂��̂����Ȏ��ɂ������悢��������B
+他の人達の話が自分たちのものうげな耳にここちよい事がある。
 and I gazed on,
-�����Ď���
+そして私は
 pleased with the tinkle of the ladies' conversation.
-��������̂悤�Ȍy�����񂾐��̏i���B�̒k�b���C�ɓ����āA�V�����X�̐��ʂ������ƌ��߂��B
+小さい鈴のような軽く澄んだ声の淑女達の談話が気に入って、シュロスの正面をじっと見つめた。
 
 "I have got into one of my moping moods tonight," said my father, after a silence,
-��������ق�����A�u����͎��́i����I�ȁj�ӂ������݂̈�ɂȂ��Ă��܂����v�ƁA���̕��͌����āA
+一座が沈黙した後、「今夜は私の（発作的な）ふさぎ込みの一つになってしまった」と、私の父は言って、
 and quoting Shakespeare, whom, by way of keeping up our English, he used to read aloud,
-Shakespeare�̕���������āA����́A��X�̉p����ێ����邽�߂ɁA�ނ����ǂ���K�����������A
+Shakespeareの文句を引いて、それは、我々の英語を維持するために、彼が音読する習慣だったが、
 he said:
-�ނ͌������B
+彼は言った。
 "'In truth I know not why I am so sad.
-�u�w����ȂɎ����߂������R���S���킩��Ȃ��B
+「『そんなに私が悲しい理由が全くわからない。
 It wearies me:
-���ꂪ�������点��B
+それが私を困らせる。
 you say it wearies you;
-�N�͂��ꂪ���������点��ƌ������B
+君はそれが自分を困らせると言うが。
 But how I got it--came by it.'
-�ǂ����Ă���ɜ�����̂��\�\����𓾂��̂��B�x
+どうしてそれに罹ったのか――それを得たのか。』
 
 "I forget the rest.
-�u���Ƃ͎v���o���Ȃ��B
+「あとは思い出せない。
 But I feel as if some great misfortune were hanging over us.
-�����������d��ȍГ��X�ɔ����Ă��邩�̂悤�ȋC������B
+しかし何か重大な災難が我々に迫っているかのような気がする。
 I suppose the poor General's afflicted letter has had something to do with it."
-�v���ɋC�̓łȏ��R�̋ꂵ���莆������Ɋ֌W���Ă���̂��B�v
+思うに気の毒な将軍の苦しい手紙がそれに関係しているのだ。」
 
 At this moment
-���̎�
+この時
 the unwonted sound of carriage wheels and many hoofs upon the road,
-���ɂ��Ȃ��n�Ԃ̎ԗւƑ����̂Ђ��߂��i�މ���
+いつにもない馬車の車輪と多くのひずめが進む音が
 arrested our attention.
-��X�̒��ӂ��������B
+我々の注意を引いた。
 
 They seemed to be approaching from the high ground overlooking the bridge,
-�����͋��������낵�Ă��鍂�n����߂Â��Ă���悤���������A
+それらは橋を見下ろしている高地から近づいているようだったが、
 and very soon the equipage emerged from that point.
-���ꂩ�炫��߂Ă����������܂߂Ċ��S�ɑ��������n�Ԃ����̒n�_���猻�ꂽ�B
+それからきわめてすぐ供回りを含めて完全に装備した馬車がその地点から現れた。
 Two horsemen first crossed the bridge,
-��l�̏�n�҂��ŏ��ɋ���n��A
+二人の乗馬者が最初に橋を渡り、
 then came a carriage drawn by four horses,
-���ɗ����͎̂l���̔n�Ɉ����ꂽ�n�ԂƁA
+次に来たのは四頭の馬に引かれた馬車と、
 and two men rode behind.
-���ɏ悹��ꂽ��l�̒j�������B
+後ろに乗せられた二人の男だった。
 
-���@����. so intense
-����قǁAto that extent �Ƃ����Ӗ������A
-�Ԑژb�@�̒��Ȃ̂ŁA���̒��ژb�@�ɒ����ƁA����قǁA�Ƃ����Ӗ����Ǝv���B
-���̌�̓񕶂͉ߋ��`�ɂȂ��Ă���A
-�܂��_��I�ȓ��e�Ȃ̂ŁA�Ԑژb�@�̑������Ɨ����ďq�ׂ��Ă���Ǝv���B
+文法メモ. so intense
+それほど、to that extent という意味だが、
+間接話法の中なので、元の直接話法に直すと、これほど、という意味かと思う。
+その後の二文は過去形になっており、
+また神秘的な内容なので、間接話法の続きが独立して述べられていると思う。
 There are indolent styles of the spirits in which,
 indisposed to talk ourselves,
 the talk of others is pleasant to our listless ears;
-�܂��������������݌`�ɂȂ��Ă���̂́A
-���ՓI�Ȑ^���A���Ȃ킿���ł������������q�ׂĂ���̂��낤�B
-indolent styles of the spirits �͑ӑĂȎ�ނ̋C���A�Ƃ����Ӗ����Ǝv���B
-�Ȃ��Ȃ�΁Ain which �̌��̌` in the spirits ���Ӗ����Ȃ��Ȃ��Ă͂Ȃ炸�A
-����́i�`�ȁj�C���ŁA�Ƃ����Ӗ��A
-in good spirits �����ȋC���ŁB
-����� styles �͎�� kinds �Ƃ����Ӗ����炢�����Ȃ��̂ŁB
-�iin which �ȉ��ɂ���Đ��������j�ӑĂȎ�ނ̋C��������A�Ƃ����̂���߁B
-�֌W�߂̈Ӗ����l����ƁA
+まずここだけが現在形になっているのは、
+普遍的な真理、すなわちいつでも正しい事を述べているのだろう。
+indolent styles of the spirits は怠惰な種類の気分、という意味だと思う。
+なぜならば、in which の元の形 in the spirits が意味をなさなくてはならず、
+これは（～な）気分で、という意味、
+in good spirits 快活な気分で。
+すると styles は種類 kinds という意味くらいしかないので。
+（in which 以下によって制限される）怠惰な種類の気分がある、というのが主節。
+関係節の意味を考えると、
 Indisposed to talk ourselves,
-�͓Ɨ������\���ŁA�`����C�������Ȃ��āA
-�Ƃ����Ӗ�������A��̕��̎���
-���̐l�B�̒k�b�A�Ƃ͎�ꂪ�قȂ�͂��ŁA
-���̏ꍇ�́A"we," "you," "I" �����ĉ��߂����B
-�i�����������j�`����C�������Ȃ��āA
-���̐l�B�̒k�b�����������̂��̂����Ȏ��ɂ������悢�B
-���́Ain the sprits �����̂ǂ��ɂ���̂��A
-�����������Ȃ��Ă͕s���S�ȕ����͂ǂ����Ƃ����������A
-talk ourselves �̂悤�Ɏ�ꎩ�g���ړI��ɂȂ��Ă���̂��ċA�p�@�ƌ����A
-����͓��ʂȈӖ�������A���̏ꍇ��
-�b���ā`�ɂȂ�A�Ƃ����Ӗ��B
+は独立分詞構文で、～する気が向かなくて、
+という意味だから、後の文の主語の
+他の人達の談話、とは主語が異なるはずで、
+この場合は、"we," "you," "I" を補って解釈される。
+（自分たちが）～する気が向かなくて、
+他の人達の談話が自分たちのものうげな耳にここちよい。
+問題は、in the sprits がこのどこにあるのか、
+即ちこれを補わなくては不完全な部分はどこかという事だが、
+talk ourselves のように主語自身が目的語になっているのを再帰用法と言い、
+これは特別な意味があり、この場合は
+話して～になる、という意味。
 He talked himself hoarse = He made himself hoarse by talking
-����ׂ��Đ������ꂽ�B
-�]���Ă���talk ourselves �ɘb���Ăǂ��Ȃ�̂��������Ă���B
-in the spirits �͂����ɕ₢�Atalk ourselves in the spirits
-�b���āi�`�ȁj�C���ɂȂ�A�Ƃ����Ӗ��ɂȂ�Ǝv���B
-�����������b���đӑĂȎ�ނ̋C���ɂȂ�̂͋C��肪���Ȃ��āA
-���̐l�B�̒k�b�����������̂��̂����Ȏ��ɂ������悢�B
-�������߂ɖ߂��ƁA�b���Ă����Ȃ�̂��C��肪���Ȃ�
-�ӑĂȎ�ނ̋C��������A�Ƃ����Ӗ��ɂȂ�Ǝv�����A
-���������������������A�Ɩ󂷂��Ƃɂ����B
-���̕����͔��ɓ�������B
+しゃべって声がかれた。
+従ってこのtalk ourselves に話してどうなるのかが欠けている。
+in the spirits はここに補い、talk ourselves in the spirits
+話して（～な）気分になる、という意味になると思う。
+自分たちが話して怠惰な種類の気分になるのは気乗りがしなくて、
+他の人達の談話が自分たちのものうげな耳にここちよい。
+これを主節に戻すと、話してそうなるのが気乗りがしない
+怠惰な種類の気分がある、という意味になると思うが、
+これをそういう事がある、と訳すことにした。
+この部分は非常に難しかった。
 In truth I know not
-know not �� do not know �̌Â��`�B
+know not は do not know の古い形。
 THE MERCHANT OF VENICE
-�ꖋ�`��ANTONIO�̑䎌����B
+一幕冒頭ANTONIOの台詞から。
