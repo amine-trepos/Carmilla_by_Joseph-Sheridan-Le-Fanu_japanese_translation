@@ -1,206 +1,213 @@
-Carmilla 3.3. 3�͑���
+/*  [amine, translation of chapter3-3, 2019.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 3.3. 3章続き
 "Did you remark a woman in the carriage, after it was set up again,
-�u�n�Ԃ����ƒʂ�ɂ܂������ɐ�����ꂽ��ɁA���̒��ɂ��鏗���ɋC�Â��܂������H
+「馬車がもと通りにまっすぐに据えられた後に、その中にいる女性に気づきましたか？
 who did not get out," inquired Mademoiselle,
-�ޏ��͏o�Ȃ��āv�ƁADe Lafontaine��͐q�˂��A
+彼女は出なくて」と、De Lafontaine嬢は尋ねた、
 "but only looked from the window?"
-�u�����炽���������������������B�v
+「窓からただ見えただけだったが。」
 
 "No, we had not seen her."
-�u�������A�C�Â��܂���ł����B�v
+「いいえ、気づきませんでした。」
 
 Then she described a hideous black woman,
-���ꂩ��ޏ��͔��������낵��������`�ʂ������A
+それから彼女は薄黒い恐ろしい女性を描写したが、
 with a sort of colored turban on her head,
-���̐l�͈��̐F���̃^�[�o�����̕w�l�X�i18���I�̏I��肩��19���I�̏����ɗ��s�����j�𓪂ɂ��Ԃ�A
+その人は一種の色物のターバン風の婦人帽（18世紀の終わりから19世紀の初期に流行した）を頭にかぶり、
 and who was gazing all the time from the carriage window,
-�n�Ԃ̑����炻�̊Ԃ����ƁA
+馬車の窓からその間ずっと、
 nodding and grinning derisively towards the ladies,
-�i����̕��։�߂���������悤�Ɏ��������Ăɂ��Ə΂��Ȃ���A
+淑女らの方へ会釈しあざけるように歯を見せてにっと笑いながら、
 with gleaming eyes and large white eyeballs, 
-������ƌ���ڂƑ傫�Ȕ����ዅ�ŁA
+きらっと光る目と大きな白い眼球で、
 and her teeth set as if in fury.
-���傤�ǌ��{���Ă��邩�̂悤�Ɏ���H�����΂��āA�����ƌ��߂Ă����B
+ちょうど激怒しているかのように歯を食いしばって、じっと見つめていた。
 
 "Did you remark what an ill-looking pack of men the servants were?" asked Madame.
-�u�]�҂炪�ǂ�Ȃɋ��낵���l�q�̒j�̈ꖡ���������C�����܂������H�v�ƕv�l�͐q�˂��B
+「従者らがどんなに恐ろしい様子の男の一味だったか気がつきましたか？」と夫人は尋ねた。
 
 "Yes," said my father,
-�u�����ɂ��v�ƁA���͌��������A
+「いかにも」と、父は言ったが、
 who had just come in,
-�ނ͂��̎��͂����ė����΂��肾�����A
+彼はその時はいって来たばかりだった、
 "ugly, hang-dog looking fellows as ever I beheld in my life.
-�u���܂�Ă��猩�������Ȃ��قǕ����ȁA���т�����̑e��Ȓj�炾�����B
+「生まれてから見た事がないほど物騒な、げびた顔つきの粗野な男らだった。
 I hope they mayn't rob the poor lady in the forest.
-�ނ炪�X�̒��ŋC�̓łȋM�w�l���狭�D���Ȃ���Ηǂ����B
+彼らが森の中で気の毒な貴婦人から強奪しなければ良いが。
 They are clever rogues, however;
-�������ނ�͎�ۂ̑N�₩�Ȉ��}���B
+しかし彼らは手際の鮮やかな悪党だ。
 they got everything to rights in a minute."
-�����ɂ������蒼���Ă��܂����B�v
+直ちにすっかり直してしまった。」
 
 "I dare say they are worn out with too long traveling," said Madame.
-�u�����ނ�͂ƂĂ��������s�ł��������ɔ��Ă���ł��傤�v�ƁA�v�l�͌������B
+「多分彼らはとても長い旅行でくたくたに疲れているでしょう」と、夫人は言った。
 
 "Besides looking wicked,
-�u���ӂ̂���悤�Ɍ������ɁA
+「悪意のあるように見える上に、
 their faces were so strangely lean, and dark, and sullen.
-�ނ�̊���͂Ђǂ���ɂ₹�Ă��āA�A�C�ŁA�ނ��肵�Ă����B
+彼らの顔つきはひどく奇妙にやせていて、陰気で、むっつりしていた。
 I am very curious, I own;
-���󂵂܂����A���͂܂��Ƃɒm�肽���ł��B
+白状しますが、私はまことに知りたいです。
 but I dare say the young lady will tell you all about it tomorrow, if she is sufficiently recovered."
-�������A�����ߏ삪�\���ɉ񕜂�����A�����ޏ����疾������ɂ��Ă������肨�����ɂȂ�ł��傤�B�v
+しかし、もし令嬢が十分に回復したら、多分彼女から明日それについてすっかりお聞きになるでしょう。」
 
 "I don't think she will," said my father,
-�u���͔ޏ�����������Ƃ͎v��Ȃ��v�ƁA���́A
+「私は彼女がそうするとは思わない」と、父は、
 with a mysterious smile,
-�킯�̂��肻���ɂɂ����肵�āA
+わけのありそうににっこりして、
 and a little nod of his head,
-�������Ȃ����āA
+少しうなずいて、
 as if he knew more about it than he cared to tell us.
-���傤�ǂ���ɂ��Ęb�������Ȃ�����m���Ă��邩�̂悤�Ɍ������B
+ちょうどそれについて話したくない事を知っているかのように言った。
 
 This made us all the more inquisitive
-����ɂ���ĉ�X��
+これによって我々は
 as to what had passed between him and the lady in the black velvet,
-�ނƍ��F�̃x���x�b�g�𒅂��M�w�l�̊Ԃ�
+彼と黒色のベルベットを着た貴婦人の間に
 in the brief but earnest interview that had immediately preceded her departure.
-�o���̒��O�̒Z���Ԃ�����ǐ^���ȑΒk�ł��킳�ꂽ���Ƃɂ��ĂȂ���w�m�肽���Ȃ����B
+出発の直前の短時間だけれど真剣な対談でかわされたことについてなお一層知りたくなった。
 
 We were scarcely alone,
-��X����ۂƂȂ�ƂقƂ�Ǔ����ɁA
+我々が一丸となるとほとんど同時に、
 when I entreated him to tell me.
-���͑ł������ĂƔނɗ��񂾁B
+私は打ち明けてと彼に頼んだ。
 He did not need much pressing.
-�ނ͂��܂蔗��K�v���Ȃ������B
+彼はあまり迫る必要がなかった。
 
 "There is no particular reason why I should not tell you.
-�u�ł������Ă͂����Ȃ�����Ƃ������R���Ȃ��B
+「打ち明けてはいけないこれという理由もない。
 She expressed a reluctance
-�ޏ���
+彼女は
 to trouble us with the care of her daughter,
-�������̂����b�̂��Ƃŉ�X��S�z������̂͋C���i�܂Ȃ��Ƃ̈ӂ�\���Ȃ���
+ご息女のお世話のことで我々を心配させるのは気が進まないとの意を表しながら
 saying she was in delicate health, and nervous,
-�����̂����A�������͂��̂�����ŁA�_�o��������ǁA
+仰ったのだが、ご息女はお体が虚弱で、神経質だけれど、
 but not subject to any kind of seizure--
-�ǂ�Ȏ�ނ̕a�C�ɓˑR������₷���Ƃ�����ł��Ȃ��\�\
+どんな種類の病気に突然かかりやすいという訳でもなく――
 she volunteered that--
-�ޏ�������i��ŋ����̂����\�\
+彼女が自ら進んで仰ったのだが――
 nor to any illusion;
-���炩�̌��o�ɂ�����₷���Ƃ�����ł��Ȃ��B
+何らかの幻覚にかかりやすいという訳でもない。
 being, in fact, perfectly sane."
-�v����ɁA�S�R���C�Ȃ̂��B�v
+要するに、全然正気なのだ。」
 
 "How very odd to say all that!" I interpolated.
-�u�����������Ƃ��F��Ƃ͉��ƕ��ς�Ȃ��Ƃł��傤�I�v�Ǝ��͂����͂���Ō������B
+「そういうことを皆仰るとは何と風変りなことでしょう！」と私はさしはさんで言った。
 "It was so unnecessary."
-�u����͂����ɂ��s�K�v���B�v
+「それはいかにも不必要だ。」
 
 "At all events it WAS said," he laughed,
-�u�Ƃɂ������������̂����v�ƁA�ނ͏΂��Č����A
+「とにかくそう仰ったのだし」と、彼は笑って言い、
 "and as you wish to know
-�u�N���m�鎖�����]�݂̒ʂ�
+「君が知る事をお望みの通り
 all that passed,
-�N���������̑S�Ă��A
+起こった事の全てを、
 which was indeed very little,
-����͖{���ɂ킸�������A
+それは本当にわずかだが、
 I tell you.
-���͑ł������悤�B
+私は打ち明けよう。
 She then said,
-�ޏ��͂��ꂩ��A
+彼女はそれから、
 'I am making a long journey of VITAL importance--
-�w���͂���߂ďd��ȁ\�\
+『私はきわめて重大な――
 she emphasized the word--
-�ޏ��͂��̌�����߂Č��������\�\
+彼女はその語を強めて言ったが――
 rapid and secret;
-�}���Ŕ閧�̒��������Ă���̂ł��B
+急ぎで秘密の長旅をしているのです。
 I shall return for my child in three months;
-�O�����̌�Ɏ��̎q�̂��߂ɖ߂邱�ƂɂȂ�܂��B
+三か月の後に私の子のために戻ることになります。
 in the meantime,
-�Ƃ������邤���ɁA
+とかくするうちに、
 she will be silent as to who we are,
-�ޏ��͉�X�����҂ł��邩�A
+彼女は我々が何者であるか、
 whence we come,
-��������藈����A
+いずこより来たり、
 and whither we are traveling.'
-�����Ă������֗��s���Ă���̂��ɂ��Ē��ق�����Ă���ł��傤�B�x
+そしていずこへ旅行しているのかについて沈黙を守っているでしょう。』
 That is all she said.
-���ꂪ�ޏ��������S�Ă��B
+それが彼女が仰った全てだ。
 She spoke very pure French.
-�ޏ��͂���߂ď����ȃt�����X���b�����B
+彼女はきわめて純正なフランス語を話した。
 When she said the word 'secret,'
-�w�閧�́x�Ƃ���������������A
+『秘密の』という語を言った時、
 she paused for a few seconds,
-�ޏ��͂�����Ƃ̊ԁA
+彼女はちょっとの間、
 looking sternly,
-���낵��������āA
+恐ろしい顔をして、
 her eyes fixed on mine.
-���̉Ƒ��ɖڂ𒍂��ŁA���߂�����B
+私の家族に目を注いで、ためらった。
 I fancy she makes a great point of that.
-�ޏ��͂������ɏd�����Ă���悤�ȋC������B
+彼女はそれを非常に重視しているような気がする。
 You saw how quickly she was gone.
-�ޏ����ǂ�Ȃɑ����߂����������������낤�B
+彼女がどんなに速く過ぎ去ったか見ただろう。
 I hope I have not done a very foolish thing, in taking charge of the young lady."
-�ߏ��a�����������A���ɂ΂��ȍs�ׂ������̂łȂ���Ηǂ����B�v
+令嬢を預かった事が、非常にばかな行為だったのでなければ良いが。」
 
-���@����. 
+文法メモ. 
 who did not get out,
 but only looked from the window
-�ޏ��͏o�Ȃ��āA����"looked from the window"�����������A
-�Ƃ����Ӗ��ɂȂ邪�A
-����look�͌���A�Ƃ����Ӗ����Ƃ���ƁA
-was looking ���Ă����A�ƂȂ�Ȃ��Ƃ����Ȃ��͂��ŁA���������Ȃ��Ă��܂��B
-����́A�i�c��ʂ��āA����o�āj������A�Ƃ����Ӗ����Ǝv���B
-His toes look out through the shoe. ���̔j�ꂩ�瑫�w���̂����Ă���
-�����猩��������������
+彼女は出なくて、ただ"looked from the window"だけだった、
+という意味になるが、
+このlookは見る、という意味だとすると、
+was looking 見ていた、とならないといけないはずで、おかしくなってしまう。
+これは、（…を通して、から出て）見える、という意味だと思う。
+His toes look out through the shoe. くつの破れから足指がのぞいている
+窓から見えただけだった
 she described a hideous black woman,
 with a sort of colored turban on her head,
 and who was gazing
-�Ō�� and who �ȉ��������p�@���񐧌��p�@���Ƃ����������A
-a hideous black woman �� a hideous black woman, who was gazing
-�͓����l�ŁAand who �ȉ��𖳂������Ƃ��Ă��A
-���������낵��������`�ʂ����A�ƂȂ���
-�Ӗ��͂��������Ȃ�Ȃ�����A�񐧌��p�@���Ǝv���B
-���������낵���A�Ƃ������̑��ɁA�X�q�����Ă���Ƃ��A
-�ǂ�ȗl�q�Ō��߂Ă������Ƃ����`�ʓ��e��������Ă���A
-�Ƃ��������낤�B
-woman�̌�ɃR���}������A
-and ��with�ȉ��̖X�q�̐����ƁA
-who was gazing �ȉ������Ԑڑ���������A
-with �ȉ����񐧌��p�@�̈ꕔ�ƍl�����B
+最後の and who 以下が制限用法か非制限用法かという事だが、
+a hideous black woman と a hideous black woman, who was gazing
+は同じ人で、and who 以下を無くしたとしても、
+薄黒い恐ろしい女性を描写した、となって
+意味はおかしくならないから、非制限用法だと思う。
+薄黒い恐ろしい、という事の他に、帽子を被っているとか、
+どんな様子で見つめていたかという描写内容が書かれている、
+という事だろう。
+womanの後にコンマがあり、
+and はwith以下の帽子の説明と、
+who was gazing 以下を結ぶ接続詞だから、
+with 以下も非制限用法の一部と考えた。
 he knew more about it than he cared to tell us
-�b������������w�����̎���m���Ă���A�Ƃ����`�����A
-�ے�̂悤�ȈӖ��ɂȂ�B
-There is more in it than you imagine. ����ɂ͌N�̑z���̋y�΂Ȃ��Ƃ��낪����
-�b�������Ȃ�����m���Ă���B
+話したいよりも一層多くの事を知っている、という形だが、
+否定のような意味になる。
+There is more in it than you imagine. それには君の想像の及ばないところがある
+話したくない事を知っている。
 We were scarcely alone,
 when I entreated him to tell me.
-�܂�scarcely...when ��...�����ۂ�B
-He had scarcely escaped when he was recaptured. �ނ͓����邩�����Ȃ������ɂ܂����܂����B
-����alone���ǂ������Ӗ����Ƃ����������A
-�����̐l��alone�Ƃ����̂́A���ɂ͒N�������킹���A�����̐l���ꏏ�ɂ���A�Ƃ����Ӗ������A
-My brother and I were alone with Vincent. �Z�Ǝ�������Vincent�Ƌ��ɂ���
-�Ƃ������ɁA��X�������A�Ƃ����Ӗ��ɂȂ�悤�������B
-����alone�͈�ۂƂȂ��āA�Ƃ����悤�ȈӖ��ł͂Ȃ����Ǝv�������A
-���������Ӗ��ɂ͂Ȃ�Ȃ������Ȃ̂ŁA�悭�킩��Ȃ������B
+まずscarcely...when は...するや否や。
+He had scarcely escaped when he was recaptured. 彼は逃げるか逃げないうちにまたつかまった。
+問題はaloneがどういう意味かという事だが、
+複数の人がaloneというのは、他には誰も居合わせず、それらの人が一緒にいる、という意味だが、
+My brother and I were alone with Vincent. 兄と私だけがVincentと共にいた
+という風に、我々だけが、という意味になるようだった。
+このaloneは一丸となって、というような意味ではないかと思ったが、
+そういう意味にはならなさそうなので、よくわからなかった。
 all that passed,
 which was indeed very little,
 I tell you.
-��s�ڂ̔񐧌��p�@�̊֌W�߂́A
-�N���������̑S�Ă��A����͖{���ɂ킸�������A
-�ƕ⑫���Ă��邾���Ȃ̂ŁA�Ȃ��ƁA
-all that passed I tell you �ŁA
+二行目の非制限用法の関係節は、
+起こった事の全てを、それは本当にわずかだが、
+と補足しているだけなので、省くと、
+all that passed I tell you で、
 I tell you all that passed
-�̖ړI���|�u���ċ��������`�B
-���͑ł������悤�AI will tell you �ƂȂ�ׂ��Ɍ����関���̎��Ȃ̂ɁA
-tell �����ݎ����ɂȂ��Ă���̂́A
-���ݕs�莞���͐��������������t�Â����ł͖��������̑���Ɏg����:
-Stop! or you are a dead man. �~�܂�I�����Ȃ��Ǝ��l�ɂȂ�B
-���ꂾ�Ǝv���B
-�N���������̑S�Ă��A
-����͖{���ɂ킸�������A
-���͑ł������悤�B
+の目的語を倒置して強調した形。
+私は打ち明けよう、I will tell you となるべきに見える未来の事なのに、
+tell が現在時制になっているのは、
+現在不定時制は生き生きした言葉づかいでは未来時制の代わりに使われる:
+Stop! or you are a dead man. 止まれ！さもないと死人になる。
+これだと思う。
+起こった事の全てを、
+それは本当にわずかだが、
+私は打ち明けよう。
 You saw how quickly she was gone.
-���Ȃ��͔ޏ����ǂ�Ȃɑ����߂��������������A
-�Ƃ����`�����A�����ł��傤�A�Ƃ������ӂ����߂�悤��
-�Ӗ�������̂ł͂Ȃ����Ǝv���B
-�������A�����������p�@�͒��ׂ����悭�킩��Ȃ������B
+あなたは彼女がどんなに速く過ぎ去ったか見た、
+という形だが、見たでしょう、という同意を求めるような
+意味があるのではないかと思う。
+しかし、そういった用法は調べたがよくわからなかった。
