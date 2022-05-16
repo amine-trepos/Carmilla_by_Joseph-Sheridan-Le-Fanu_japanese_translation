@@ -1,238 +1,245 @@
-Carmilla 2.6. 2�͑���
+/*  [amine, translation of chapter2-6, 2018.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 2.6. 2章続き
 She was what is called a fine looking woman for her time of life,
-�ޏ��͂�����N�̍��̊��ɂ͊i�D�ǂ��w�l�ŁA
+彼女はいわゆる年の頃の割には格好良い婦人で、
 and must have been handsome;
-���e�������ɂ������Ȃ������B
+美貌だったにちがいなかった。
 she was tall,
-�ޏ��͐g����������������ǁA
+彼女は身長が高かったけれど、
 but not thin,
-�₹�Ă͂Ȃ��A
+やせてはなく、
 and dressed in black velvet,
-���F�̃x���x�b�g�̃h���X�𒅂Ă��āA
+黒色のベルベットのドレスを着ていて、
 and looked rather pale,
-������F�������������A
+幾分顔色が悪かったが、
 but with a proud and commanding countenance,
-�ւ�ƈЌ���������������������������Ă����A
+誇りと威厳をもった落ち着いた顔つきをしていた、
 though now agitated strangely.
-�����Ƃ����▭�ɓ��h���Ă���悤���������B
+もっとも今や妙に動揺しているようだったが。
 
 "Who was ever being so born to calamity?"
-�u��̒N�����̂悤�ɕs�K�ɏ��荇���Ă������H�v
+「一体誰がこのように不幸に巡り合っていたか？」
 I heard her say, with clasped hands, as I came up.
-�߂Â������A�ޏ��������Ǝ�����荇�킹�āA�����̂𕷂����B
+近づいた時、彼女がぐっと手を握り合わせて、言うのを聞いた。
 "Here am I, on a journey of life and death,
-�u�����Ɏ��́A�����ɂ�����闷�̓r���ŁA
+「ここに私は、死活にかかわる旅の途中で、
 in prosecuting which to lose an hour is possibly to lose all.
-����𐋍s���鎖�͈ꎞ�Ԃ̑r�������ɂ��Ɩ����̑r���ɂȂ�Ƃ������Ȃ̂ł��B
+それを遂行する事は一時間の喪失が事によると万事の喪失になるという事なのです。
 My child will not have recovered sufficiently to resume her route for who can say how long.
-���̎q�͂����ƌ�܂ōĂї��H�𑱂���ɏ\���ɂ͉񕜂��Ă��܂��Ă��Ȃ��ł��傤�B
+私の子はずっと後まで再び旅路を続けるに十分には回復してしまっていないでしょう。
 I must leave her:
-���͔ޏ���u���čs���Ȃ���΂Ȃ�Ȃ��B
+私は彼女を置いて行かなければならない。
 I cannot, dare not, delay.
-���͎�Ԏ�鎖�͂ł��Ȃ��A�����Ă�������E�C���Ȃ��B
+私は手間取る事はできない、あえてそうする勇気がない。
 How far on, sir, can you tell, is the nearest village?
-���̐�ǂ̂��炢�ɁAsir, �i�j�ɑ΂��鑸�̓I�܂��͌`���I�Ċ|���j�Ŋ��̑�������̂��A���������������܂����B
+この先どのくらいに、sir, （男に対する尊称的または形式的呼掛け）最寄りの村があるのか、お教えいただけますか。
 I must leave her there;
-���͂����ɔޏ���u���čs���Ȃ���΂Ȃ�Ȃ��B
+私はそこに彼女を置いて行かなければならない。
 and shall not see my darling, or even hear of her till my return, three months hence."
-�����č�����O������ɁA�A�҂���܂Ŏ��̂��킢���l�ɉ���Ƃ��A���������𕷂����Ƃ����Ȃ��ł��傤�B�v
+そして今から三か月後に、帰還するまで私のかわいい人に会うことも、いえ消息を聞くことさえないでしょう。」
 
 I plucked my father by the coat,
-���͕��̏�߂�������ƈ����āA
+私は父の上衣をぎゅっと引いて、
 and whispered earnestly in his ear:
-�ނɔM�S�Ɏ��ł������B
+彼に熱心に耳打ちした。
 "Oh! papa,
-�u�����I�p�p�A
+「おお！パパ、
 pray ask her to let her stay with us--
-�ǂ����ޏ������B�̏��ɔ��߂�悤����Ł\�\
+どうか彼女を私達の所に泊めるよう頼んで――
 it would be so delightful.
-�������Ă��炦��Ȃ�A�{���Ɋy�����ł��傤�ɁB
+そうしてもらえるなら、本当に楽しいでしょうに。
 Do, pray."
-�˂��A����ŁB�v
+ねえ、頼んで。」
 
 "If Madame will entrust her child to the care of my daughter, and of her good gouvernante, Madame Perrodon,
-�u�������l�����q��������̖��ƁA�ޏ��̗L�\�ȉƒ닳�t�APerrodon�v�l�ɑ����Ă�������A
+「もし奥様がお子さんを私の娘と、彼女の有能な家庭教師、Perrodon夫人に託してくださり、
 and permit her to remain as our guest, under my charge, until her return,
-��X�̂��q�Ƃ��āA���̊ē̉��ɁA�񕜂���܂ő؍݂��邱�Ƃ�����������������΁A
+我々のお客として、私の監督の下に、回復するまで滞在することをお許しいただければ、
 it will confer a distinction and an obligation upon us,
-�h�_���邱�Ƃł���܂������㓖�R�̂��Ƃł�����A
+栄誉あることでありまた道徳上当然のことでもあり、
 and we shall treat her with all the care and devotion which so sacred a trust deserves."
-��X�͂��̂悤�ɑ����M�����󂯂�ɑ��邠������T�d�Ȍ��g�������đҋ����鎖�ɂȂ�܂��B�v
+我々はそのように尊い信頼が受けるに足るあらん限り慎重な献身をもって待遇する事になります。」
 
 "I cannot do that, sir,
-�u����͂ł��܂���Asir,
+「それはできません、sir,
 it would be to task your kindness and chivalry too cruelly," 
-��������Ȏ������Ă�����������A�M���l�̐e�ؐS�`���S�����܂�ɍ��g�������鎖�ł��傤�v�ƁA
+もしそんな事をしていただいたら、貴方様の親切心義侠心をあまりに酷使しすぎる事でしょう」と、
 said the lady, distractedly.
-�M�w�l�́A�S����藐�����悤�Ɍ������B
+貴婦人は、心を取り乱したように言った。
 
 "It would, on the contrary,
-�u�Ƃ��낪����ǂ��납�A
+「ところがそれどころか、
 be to confer on us a very great kindness at the moment when we most need it.
-��X�ɂƂ��Ĕ��Ȑe�؂���ԕK�v�Ƃ��Ă��鎞�ɂ��Ă��������Ƃ������ɂȂ�ł��傤�B
+我々にとって非常な親切を一番必要としている時にしていただくという事になるでしょう。
 My daughter has just been disappointed by a cruel misfortune,
-���̖��͖��c�ȕs�K�ɂ���āA
+私の娘は無残な不幸によって、
 in a visit from which she had long anticipated a great deal of happiness.
-��ςȍK���𒷂炭�y���݂ɂ��đ҂��Ă������K�Ɏ��]�����΂���ł����B
+大変な幸福を長らく楽しみにして待っていた来訪に失望したばかりでした。
 If you confide this young lady to our care
-���������̂��ߏ�����ɑ����Ă���������Ȃ��
+もしもこのご令嬢を我らに託していただけるならば
 it will be her best consolation.
-����͎��̖��̍ŗǂ̈��S�ƂȂ�ł��傤�B
+それは私の娘の最良の慰藉となるでしょう。
 The nearest village on your route is distant,
-���̐�̍Ŋ��̑��͉����A
+この先の最寄りの村は遠く、
 and affords no such inn as you could think of placing your daughter at;
-��������n�����Ƃ��l���ɂȂ��悤�ȏh���͂������܂���B
+ご息女を渡そうとお考えになれるような宿屋はございません。
 you cannnot allow her to continue her journey for any considerable distance without danger.
-���Ȃ���ʋ����̊ԗ��𑱂������邱�Ƃ͊댯�Ȃ��ɂ͂ł��܂���B
+少なからぬ距離の間旅を続けさせることは危険なしにはできません。
 If, as you say, you cannot suspend your journey,
-�������A��悤�ɁA�����ꎞ���~�Ȃ���͕̂s�\�ł�����A
+もしも、仰るように、旅を一時中止なさるのは不可能でしたら、
 you must part with her tonight,
-����͂��̕��Ƃ��ʂ�ɂȂ�Ȃ��ẮA
+今夜はこの方とお別れにならなくては、
 and nowhere could you do so with more honest assurances of care and tenderness than here."
-�����ĐT�d�ł₳���������鎖���������������Ȋm�M�������Ă��ʂ�ɂȂ�鏊�͂ǂ��ɂ��������܂���B�v
+そして慎重でやさしく扱われる事をここよりも率直な確信をもってお別れになれる所はどこにもございません。」
 
 
-���@����. for her time of life
-for �́`�ɂ��ẮA�`�̊��ɂ́A�Ƃ����Ӗ��B
-He is tall for his age. �N�̊��ɂ͔w�������B
+文法メモ. for her time of life
+for は～にしては、～の割には、という意味。
+He is tall for his age. 年の割には背が高い。
 looked rather pale,...
-���� but with... �� but (looked) with a proud and commanding countenance,
-�̏ȗ��Ǝv���̂ŁAwith �����͕�����̈Ӗ��A
-countenance �͊�ɕ\�ꂽ���������A
-with a good countenance �������������āB
-�]���Čւ�������Ќ��̂��闎��������
-�ւ�ƈЌ������������������ŁB
-look �́`�̊��������Ƃ����Ӗ�������A
-�������������������A�Ɩ󂵂��B
-���� though �����l�ŁA
-though �ɔ��Ȃ��]�߂ł͂��΂��Ώȗ��@���s����B
+次の but with... は but (looked) with a proud and commanding countenance,
+の省略と思うので、with 名詞は副詞句の意味、
+countenance は顔に表れた落ち着き、
+with a good countenance 落ち着き払って。
+従って誇りをもち威厳のある落ち着き→
+誇りと威厳をもった落ち着きで。
+look は～の顔つきをするという意味だから、
+落ち着いた顔つきをする、と訳した。
+次の though も同様で、
+though に伴なう従節ではしばしば省略法が行われる。
 though now (looked) agitated strangely.
-be agitated over �Ł`�ɂ��ē��h���Ă���A�Ƃ����Ӗ��Ȃ̂ŁA
-���h���Ă���悤���A�Ɩ󂵂��B
+be agitated over で～について動揺している、という意味なので、
+動揺しているようだ、と訳した。
 "Who was ever being so born to calamity?"
-�܂� ever �͋^�⎌�����߂�B��̒N���H
-be born to calamity �͔߉^�A�s�K�ɐ��܂���A�Ƃ����Ӗ��ŁA
-�ꌩ�i�s�`�ƂȂ肦�Ȃ��悤�Ɏv���邪�A
-����͋��炭�Ӗ��Ƃ��ẮA�s�K�ɑ����Ƃ����Ӗ��Ȃ̂ŁA
-�i�s�`�ɂ���ƁA�i���j�s�K�ɂ����Ă���A�Ƃ����Ӗ��ɂȂ�̂��Ǝv�����B
-�����ŉ^���Ƃ����Ӗ����c���A���荇���Ă���A�Ɩ󂵂��B
+まず ever は疑問詞を強める。一体誰が？
+be born to calamity は悲運、不幸に生まれつく、という意味で、
+一見進行形となりえないように思われるが、
+これは恐らく意味としては、不幸に遭うという意味なので、
+進行形にすると、（今）不幸にあっている、という意味になるのかと思った。
+そこで運命という意味を残し、巡り合っている、と訳した。
 in prosecuting which to lose an hour is possibly to lose all.
-�������̑O��"In"�͓��삻�̂��̂ɒ��ӂ𑣂��B
-����̂����A�ᕶ�ɏ�����Ă���̂�
+動名詞の前の"In"は動作そのものに注意を促す。
+難しいのだが、例文に書かれているのは
 In calling in the aid of the Saxons,
 the Britons had invited a worse enemy.
 = Their calling in the aid of the Saxons was inviting a worse enemy.
-�u���g���l���T�N�\���l�̏��������߂����͂����ƈ����G���������������B
-���Ȃ킿�AIn �`ing...,�\�\ �ŁA�`���鎖�́A�\�\ �Ƃ��������A�Ƃ����Ӗ��B
-which �͑O��journey���s���Ƃ���֌W�߂�����Ă���Ǝv���̂ŁA
-����𐋍s���鎖�́A�ƑO��������󂵂��B
-���̗��𐋍s���鎖�́A�ꎞ�Ԃ̑r�������ɂ��Ɩ����̑r���ɂȂ�Ƃ��������B
+ブリトン人がサクソン人の助けを求めた事はもっと悪い敵を招く事だった。
+すなわち、In ～ing...,―― で、～する事は、―― という事だ、という意味。
+which は前のjourneyを先行詞とする関係節を作っていると思うので、
+それを遂行する事は、と前半部分を訳した。
+その旅を遂行する事は、一時間の喪失が事によると万事の喪失になるという事だ。
 My child will not have recovered sufficiently to resume her route for who can say how long.
-�܂� will have recovered �͖������������ŁA
-�u�Ȃ�炩�̖��L���ꂽ�����̎������O�ɓ��삪�������鎖�v��\���B
-���̎q�́i���鎞�����O�ɂ́j�Ăї��H�𑱂���ɏ\���ɂ͉񕜂��Ă��܂��Ă��Ȃ��ł��傤�B
-�]���āAfor who can say how long �͂��́u���L���ꂽ�����̎��v�łȂ���΂Ȃ�Ȃ��Ǝv�����A
-���̈Ӗ������ׂ����ǂ�������Ȃ������B
-for long ���ƒ����ԁA�Ƃ������ɂȂ�̂ŁA�����ƌ�܂ŁA�Ƃ����Ӗ����낤���B
+まず will have recovered は未来完了時制で、
+「なんらかの明記された未来の時よりも前に動作が完了する事」を表す。
+私の子は（ある時よりも前には）再び旅路を続けるに十分には回復してしまっていないでしょう。
+従って、for who can say how long はその「明記された未来の時」でなければならないと思うが、
+この意味が調べたが良く分からなかった。
+for long だと長い間、という事になるので、ずっと後まで、という意味だろうか。
 How far on
-further on �������Ɛ�ŁA�����Ɛi��ł���A�Ƃ����Ӗ������A
-far on ���Ɛ�ŁA�Ƃ����Ӗ��ɂȂ�̂��낤���B
-���ׂ����킩��Ȃ������̂ŁA���̐�ǂ̈ʂɁA�Ƃ����B
+further on がもっと先で、もっと進んでから、という意味だが、
+far on だと先で、という意味になるのだろうか。
+調べたがわからなかったので、この先どの位に、とした。
 shall not see my darling, or even hear of her
-"Shall" �� "Will" �̈Ӗ�
-�����̌�͋K���ω��̖������������ۂ�
-�p������B
-�����������͒P�Ȃ関���̑���
-����玩�g�Ӗ�������A
-�����𐳂����p����ɂ͏��Ȃ���ʍ������B
-"Shall" �͖{���u�؂肪���邱�Ɓv�u�`�������邱�Ɓv
-���Ӗ����Ă���B
-����p��ł́A
-���̊��S�Ȍ�`�͎����Ă��܂������A
-��������ɋ`�����邢�͕K�R�̊ϔO�������ɕt������A
-����傪�O���̐��䂠�邢�͋����̂��Ƃɂ��鎖���Ӗ�����B
-I shall go. = ���͍s�����A�Ȃ��Ȃ�΂��ꂪ�K�v������A���邢�͂��ꂪ���̋`��������B
-"Will," ����́u�]�ނ��Ɓv���Ӗ����邪�A
-�����̈ӎu���邢�͑I���Ɉˑ����関����\���B
-"Will" �́A����䂦�ɁA���ʓ���𓮍��̎��R�ӎu�A�I���A���f�ɋA����B
-I will go. = ���͍s�����ƂɌ��߂�A���邢�͂�����悭�s���B
-�i�Ȃ��A����p��A���ɃA�����J�p��ł́A
-������Ӌ`�p�@��ʂ��� shall �� will �ɓ��ꂳ��悤�Ƃ���X��������B�j
-�����̕w�l�͍s���Ȃ��Ă͂Ȃ�Ȃ��̂ŁA
-���������ĉ�Ȃ��Ȃ�̂��K�R�Ȃ̂ŁA
-shall ���g���Ă���̂��Ǝv���B
-������Ȃ��ł��傤�A�Ɩ󂵂��B
-or �͂܂��́A�Ƃ����Ӗ��ł͂Ȃ��āA
-�����̈Ӗ��ŁA
-����͂Ȃ��A����A�����𕷂��������Ȃ��B
+"Shall" と "Will" の意味
+これらの語は規則変化の未来時制を作る際に
+用いられる。
+しかしこれらは単なる未来の他に
+それら自身意味があり、
+これらを正しく用いるには少なからぬ困難がある。
+"Shall" は本来「借りがあること」「義務があること」
+を意味している。
+現代英語では、
+その完全な語義は失われてしまったが、
+しかし常に義務あるいは必然の観念が未来に付加され、
+動作主が外部の制御あるいは強制のもとにある事を意味する。
+I shall go. = 私は行くが、なぜならばそれが必要だから、あるいはそれが私の義務だから。
+"Will," これは「望むこと」を意味するが、
+動作主の意志あるいは選択に依存する未来を表す。
+"Will" は、それゆえに、普通動作を動作主の自由意志、選択、決断に帰する。
+I will go. = 私は行くことに決める、あるいはこころよく行く。
+（なお、現代英語、特にアメリカ英語では、
+あらゆる意義用法を通じて shall は will に統一されようとする傾向がある。）
+今この婦人は行かなくてはならないので、
+したがって会えなくなるのも必然なので、
+shall が使われているのだと思う。
+会う事もないでしょう、と訳した。
+or はまたは、という意味ではなくて、
+訂正の意味で、
+会う事はない、いや、消息を聞く事さえない。
 pray ask her to let her stay with us
-pray �� I pray you �̏ȗ��ŁA��킭�́A�ǂ���(please)
-�ǂ����ޏ��ɗ���ł��������B
-stay with us �͉�X�̏��ɋq�Ƃ��Ĕ��܂�B
-let her �����킹��Δޏ�����X�̏��ɔ��߂�ƂȂ邪�A
-����her�͗ߏ�̎��ł���A
-ask her �ŗ��ސl�͉��l�Ȃ̂ŁA���her�͎w���l���Ⴄ�Ǝv���B
+pray は I pray you の省略で、願わくは、どうぞ(please)
+どうぞ彼女に頼んでください。
+stay with us は我々の所に客として泊まる。
+let her も合わせれば彼女を我々の所に泊めるとなるが、
+このherは令嬢の事であり、
+ask her で頼む人は奥様なので、二つのherは指す人が違うと思う。
 it would be so delightful.
-����@(Subjunctive Mood)��
-���̕\�������Ԃ��A
-1. �����Ƃ͔��΂̑z���Ƃ����A
-�܂���
-2. �͂�����킩�炸�\�m���ł��Ȃ��Ƃ����A
-�b�҂̐S�I�ԓx�����������̌�`�ω��ł���B
-�����ł͓��ɉ���@�ߋ��ł���A
-If �߂Ɍ`����ߋ��`�̓�����u���A�i�Ӗ��͌��݁j
-1s. If I were rich, ���������������Ȃ�΁A
-��߂ɏ����� "Should," "Would," "Could," "Might"
-��u���ċA����\���B�i���̎�߂̓����͎��ۂɂ͏����@(Conditional Mood)�Ƃ����B�j
-1c. I would buy a yacht. ���b�g�𔃂��̂��낤���B
-���̗�� If �߂��P�Ȃ�z����\���Ă��āA
-��߂� would �͌��݂̔ے���Ӗ����Ă���B
-�i���͔���Ȃ��A�Ȃ��Ȃ�������ł͂Ȃ�����B�j
-�ł͕s�m���Ȏ���\���ꍇ�Ƃ͂ǂ̂悤�ȕ����B
-����ɂ� If �߂Ɂu����@��"Would"�v(Subjunctive "Would")�Ƃ�������u���B
-�i��̎�߂̏����@��would�ł͂Ȃ��AIf�ߓ��ɒu���Ƃ������B�j
-2s. if you would grant my request. �������̊肢�����e���Ă��炦��Ȃ�΁B
-��߂ɂ͕��ʂɏ����@�̏����� "should," "would," "could," "might" ��u���B
-2c. I should esteem it a particular favour ���ɂ��肪���������܂�
-If �߂̉���@��Would�͓����(you)�̎��������Ӗ����Ă���A
-����傪������i���e���邩�ۂ��j�����߂�B
-���������@�ߋ��ƍl�����Ă���B
-���� If you would �͘b���������Ă���l��
-�]�ނ��]�܂Ȃ����ɂ��Ă̕s�m�������Ӗ�����B
-�]���Ă����ł�2�̓����̈ӎv�̕s�m������\������@�E�����@�ł���B
-If she would let her stay with us, �����ޏ����ߏ����X�̏��ɔ��߂Ă����Ȃ�΁A
-it would be so delightful. �{���Ɋy�����ł��傤�ɁB
-If �߂͊��S�ɍ폜����邱�Ƃ�����A�����ł���߂������c�����̂��Ǝv���B
+仮定法(Subjunctive Mood)は
+その表す動作状態が、
+1. 事実とは反対の想像という、
+または
+2. はっきりわからず予知もできないという、
+話者の心的態度を示す動詞の語形変化である。
+ここでは特に仮定法過去であり、
+If 節に形式上過去形の動詞を置き、（意味は現在）
+1s. If I were rich, もし私が金持ちならば、
+主節に助動詞 "Should," "Would," "Could," "Might"
+を置いて帰結を表す。（この主節の動詞は実際には条件法(Conditional Mood)という。）
+1c. I would buy a yacht. ヨットを買うのだろうが。
+この例は If 節が単なる想像を表していて、
+主節の would は現在の否定を意味している。
+（私は買わない、なぜなら金持ちではないから。）
+では不確かな事を表す場合とはどのような物か。
+これには If 節に「仮定法の"Would"」(Subjunctive "Would")という物を置く。
+（上の主節の条件法のwouldではなく、If節内に置くという事。）
+2s. if you would grant my request. もし私の願いを許容してもらえるならば。
+主節には普通に条件法の助動詞 "should," "would," "could," "might" を置く。
+2c. I should esteem it a particular favour 誠にありがたく存じます
+If 節の仮定法のWouldは動作主(you)の自発性を意味しており、
+動作主が今動作（許容するか否か）を決める。
+これも仮定法過去と考えられている。
+この If you would は話しかけられている人が
+望むか望まないかについての不確かさを意味する。
+従ってここでは2の動作主の意思の不確かさを表す仮定法・条件法である。
+If she would let her stay with us, もし彼女が令嬢を我々の所に泊めてくれるならば、
+it would be so delightful. 本当に楽しいでしょうに。
+If 節は完全に削除されることがあり、ここでも主節だけが残ったのだと思う。
 
-���@��������.
+文法メモ続き.
 If Madame will entrust her child to the care of my daughter,
-�܂�entrust�`to... �́`��...�ɑ����Ƃ����Ӗ�������A
-her child �͗ߏ�̎��łȂ��Ă͂Ȃ炸�A
-�M�w�l�ɘb�������Ă���Ȃ��your child�ƂȂ�Ȃ��Ă͂Ȃ�Ȃ��Ǝv���̂����A
-���ꂪher�ɂȂ��Ă��闝�R���ǂ�������Ȃ������B
-���̍ŏ��̕����ł͖��Ɍ������Ęb���n�߁A���̂����ォ��M�w�l�̕��֌������A
-�Ƃ��������낤���Ƃ��v�������A�ǂ�������Ȃ��B
+まずentrust～to... は～を...に託すという意味だから、
+her child は令嬢の事でなくてはならず、
+貴婦人に話しかけているならばyour childとならなくてはならないと思うのだが、
+これがherになっている理由が良く分からなかった。
+この最初の部分では娘に向かって話し始め、そのすぐ後から貴婦人の方へ向いた、
+という事だろうかとも思ったが、良く分からない。
 it will confer a distinction and an obligation upon us
-confer�`upon... ��...�Ɂ`��������B
-confer a medal upon a person �l�ɌM�͂�������
-distinction �ɂ͉h�_�Ƃ����Ӗ�������A�h�_�������邾����A
-�h�_���鎖�ł���A�Ɩ󂵂��B
-obligation �͓�����̋`���Ƃ����Ӗ�������̂ŁA
-�����㓖�R�̎��ŁA�Ɩ󂵂��B 
+confer～upon... は...に～を授ける。
+confer a medal upon a person 人に勲章を授ける
+distinction には栄誉という意味があり、栄誉を授けるだから、
+栄誉ある事であり、と訳した。
+obligation は道徳上の義務という意味があるので、
+道徳上当然の事で、と訳した。 
 with all the care and devotion
-the��and�̌��devotion�ɂ͕t���Ă��Ȃ��̂ŁA
-����and��care��devotion����҈�̂Ƃ��������Ӗ����Ă���A
-�T�d�Ȍ��g�Ɩ󂵂��B
-a carriage and four �l�����Ă̔n��
+theがandの後のdevotionには付いていないので、
+このandはcareとdevotionが二者一体という事を意味しており、
+慎重な献身と訳した。
+a carriage and four 四頭立ての馬車
 it would be to task your kindness and chivalry too cruelly
-�܂� it �͖��𔑂߂Ă��炤���A�ł���A
-�]���� be to �͖�����\�� be+�s�莌�ł͂Ȃ��āA
-�P�ɖ��𔑂߂Ă��炤���́Ato�s�莌�̖����߂ł���A�Ƃ����`���Ǝv���B
-task �͍��g����A�ߘJ������Ƃ����Ӗ��A
-task one's energies �S�͂��X����
-�]���āA����@���Ȃ���΁A
-���𔑂߂Ă��炤���́A���Ȃ��̐e�ؐS�`���S�����܂�ɍ��g�������鎖�ł���B
-����ɏ�Ɠ����ŁA�������Ȃ�������Ȏ������Ă�����������A�Ƃ���
-�����̈ӎv�̕s�m������\������@���ȗ�����Ă��āA
-��߂ɏ����@�� would ���t���Ă���Ǝv���B
-��������Ȏ������Ă�����������A�`�ł��傤�B
+まず it は娘を泊めてもらう事、であり、
+従って be to は未来を表す be+不定詞ではなくて、
+単に娘を泊めてもらう事は、to不定詞の名詞節である、という形だと思う。
+task は酷使する、過労させるという意味、
+task one's energies 全力を傾ける
+従って、仮定法がなければ、
+娘を泊めてもらう事は、あなたの親切心義侠心をあまりに酷使しすぎる事である。
+それに上と同じで、もしあなたがそんな事をしてくださったら、という
+動作主の意思の不確かさを表す仮定法が省略されていて、
+主節に条件法の would が付いていると思う。
+もしそんな事をしていただいたら、～でしょう。
