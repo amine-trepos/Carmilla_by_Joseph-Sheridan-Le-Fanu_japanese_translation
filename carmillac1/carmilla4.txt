@@ -1,152 +1,159 @@
-Carmilla 4. 1�͑���
+/*  [amine, translation of chapter1-3, 2018.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 4. 1章続き
 My gouvernantes had just so much control over me
-���̉ƒ닳�t���
+私の家庭教師らは
 as you might conjecture such sage persons would have in the case of a rather spoiled girl,
-�������������Ȑl�B�����Â₩���ꂽ�����̏ꍇ�ɂǂ����邩�����ɂ����@���̒ʂ�̊Ǘ����������A
+そういう賢明な人達がやや甘やかされた少女の場合にどうするかいかにもお察しの通りの管理をしたが、
 whose only parent allowed her pretty nearly her own way in everything. 
-�B��̐e�͖����قƂ�ǎv���悤�ɂ����Ă����B
+唯一の親は万事ほとんど思うようにさせていた。
 
 The first occurrence in my existence,
-���̐����̒��ɋN�������ŏ��̎����́A
+私の生活の中に起こった最初の事件は、
 which produced a terrible impression upon my mind,
-�L���ɋ��낵����ۂ������N�����A
+記憶に恐ろしい印象を引き起こし、
 which, in fact, never has been effaced,
-���̋L���́A���ہA�����������Ȃ��̂����A
+その記憶は、実際、消えた事がないのだが、
 was one of the very earliest incidents of my life which I can recollect.
-���U�Ŏv���o�������ł������̏o�����̈���B
+生涯で思い出せる限り最も初期の出来事の一つだ。
 Some people will think it so trifling that it should not be recorded here.
-����͂����ɋL�^�����ׂ��łȂ��قǎ��ɑ���Ȃ������Ǝv���l�����邾�낤�B
+それはここに記録されるべきでないほど取るに足らない事だと思う人もあるだろう。
 You will see, however, by-and-by, why I mention it.
-�������A�₪�āA�Ȃ���������������̂��킩�邾�낤�B
+しかし、やがて、なぜ私がそれを書くのかわかるだろう。
 The nursery, as it was called, though I had it all to myself,
-�q�������́A����͂����Ă΂�Ă������A������������Ɛ肵�Ă����ɂ�������炸�A
+子供部屋は、それはそう呼ばれていたが、私がすっかり独占していたにもかかわらず、
 was a large room in the upper story of the castle, with a steep oak roof.
-�@��̏�K�ɂ���A�}���z�̃I�[�N���̉����̂����L�������������B
+邸宅の上階にある、急勾配のオーク製の屋根のついた広い部屋だった。
 I can't have been more than six years old, 
-6�Έȏゾ�����͂��͂Ȃ����A
+6歳以上だったはずはないが、
 when one night I awoke,
-�����ڂ��o�߂����A
+ある夜目が覚めた時、
 and looking round the room from my bed,
-�x�b�h���畔�������񂷂ƁA
+ベッドから部屋を見回すと、
 failed to see the nursery maid.
-�q�珗������������Ȃ������B
+子守女中が見当たらなかった。
 Neither was my nurse there;
-���̓�������Ȃ��āA
+私の乳母もいなくて、
 and I thought myself alone.
-�����͓Ƃ肾�Ǝv�����B
+自分は独りだと思った。
 I was not frightened,
-���͂��т��Ă͂��Ȃ������B
+私はおびえてはいなかった。
 for I was one of those happy children who are studiously kept in ignorance of ghost stories, of fairy tales, and of all such lore
-�����뎄�͉��k��A���Ƃ��b�A���̑�
+何しろ私は怪談や、おとぎ話、その他
 as makes us cover up our heads when the door cracks suddenly,
-�����s�ӂɉs�������o������A
+扉が不意に鋭い音を出したり、
 or the flicker of an expiring candle makes the shadow of a bedpost dance upon the wall, nearer to our faces.
-���邢�͐s�����������X�C�̂��߂������x�b�h�̎l���̒��̉e���A��ɋ߂��ǂ̏�ɂ����h�点�鎞��
-����z�c�ŕ����B�������؂̓`���I�m����m��Ȃ��悤�O����ɕۂ���Ă���K�^�Ȏq���̒��̈�l����������B
+あるいは尽きかかった蝋燭のゆらめく光がベッドの四隅の柱の影を、顔に近い壁の上にゆらゆら揺らせる時に
+頭を布団で覆い隠させる一切の伝承的知識を知らないよう念入りに保たれている幸運な子供の中の一人だったから。
 I was vexed and insulted at finding myself, as I conceived, neglected,
-�����������Ă�����Ă��āA���͂����v�����̂����A�����������J���󂯂��B
+自分が放っておかれていて、私はそう思ったのだが、腹が立ち侮辱を受けた。
 and I began to whimper, preparatory to a hearty bout of roaring;
-�����ĐS����ЂƂ�����ق���ɐ旧���āA�������������n�߂��B
+そして心からひとしきりほえるに先立って、しくしく泣き始めた。
 when to my surprise,
-����Ƃ��̎��ɁA���������Ƃɂ́A
+するとその時に、驚いたことには、
 I saw a solemn, but very pretty face looking at me from the side of the bed.
-���̓x�b�h�̂͂����玩���̕������Ă��邵���߂炵���A����ǂ܂��Ƃɉ��炵����������B
+私はベッドのはたから自分の方を見ているしかつめらしい、けれどまことに可愛らしい顔を見た。
 It was that of a young lady who was kneeling, with her hands under the coverlet.
-����͗�����x�b�h�̏�|���̉��ɓ���āA�Ђ��܂����Ă���ߏ�̂��ꂾ�����B
+それは両手をベッドの上掛けの下に入れて、ひざまずいている令嬢のそれだった。
 I looked at her with a kind of pleased wonder,
-���͂��ꂵ�������̂悤�Ȏv���Ŕޏ��̕������āA
+私はうれしい驚きのような思いで彼女の方を見て、
 and ceased whimpering.
-�������������̂���߂��B
+しくしく泣くのをやめた。
 She caressed me with her hands,
-�ޏ��͎�Ŏ����������āA
+彼女は手で私を愛撫して、
 and lay down beside me on the bed,
-�x�b�h�̏�Ɏ��̂��΂ŉ��ɂȂ�A
+ベッドの上に私のそばで横になり、
 and drew me towards her, smiling;
-���͔��΂��Ă���ޏ��̕��ցA�����t����ꂽ�B
+私は微笑している彼女の方へ、引き付けられた。
 I felt immediately delightfully soothed,
-���͒����ɂ����񂪗ǂ��Ȃ��āA
+私は直ちにきげんが良くなって、
 and fell asleep again.
-�Ăі���Ɋׂ����B
+再び眠りに陥った。
 I was wakened by a sensation as if two needles ran into my breast very deep at the same moment,
-���͂��傤�Ǔ�̐j�������ɋ��ɔ��ɐ[�������������̂悤�Ȋ��o�ɂ���Ėڂ����܂������āA
+私はちょうど二つの針が同時に胸に非常に深く当たったかのような感覚によって目をさまさせられて、
 and I cried loudly.
-�����ɋ��񂾁B
+声高に叫んだ。
 The lady started back, with her eyes fixed on me,
-�i���͎��ɖڂ𒍂����܂܁A��т̂��A
+淑女は私に目を注いだまま、飛びのき、
 and then slipped down upon the floor,
-���ꂩ�珰�Ɋ���~��A
+それから床に滑り降り、
 and, as I thought, hid herself under the bed.
-�����āA���͂����v�����̂����A�x�b�h�̉��ɉB�ꂽ�B
+そして、私はそう思ったのだが、ベッドの下に隠れた。
 
 I was now for the first time frightened,
-���͂��̎����߂Ăт����肵�āA
+私はその時初めてびっくりして、
 and I yelled with all my might and main.
-�͈�t���񂾁B
+力一杯叫んだ。
 Nurse, nursery maid, housekeeper, all came running in,
-����A�q�珗���A�Ɛ��w�A�F�������ē����Ă��āA
+乳母、子守女中、家政婦、皆が走って入ってきて、
 and hearing my story, they made light of it, 
-���̘b�𕷂��A������y���������A
+私の話を聞き、それを軽視したが、
 soothing me all they could meanwhile.
-�����Ȃ��߂鎖���������Ă���Ԃɔނ炪�ł����S�Ă������B
+私をなだめる事がそうしている間に彼らができた全てだった。
 But, child as I was, I could perceive
-�������A�q���Ȃ�����A�Ŏ�ł����̂����A
+しかし、子供ながらも、看取できたのだが、
 that their faces were pale with an unwonted look of anxiety,
-�ނ�̊�͂��ɂ��Ȃ��s���Ȋ�F�Ő��߂Ă��āA
+彼らの顔はいつにもない不安な顔色で青ざめていて、
 and I saw them look under the bed, and about the room,
-���͔ނ炪�x�b�h�̉������āA���������񂵁A
+私は彼らがベッドの下を見て、部屋を見回し、
 and peep under tables and pluck open cupboards;
-���̉����̂����˒I�������J����̂������B
+机の下をのぞき戸棚を引き開けるのを見た。
 and the housekeeper whispered to the nurse:
-�����ĉƐ��w�͓���ɏ����Řb�����B
+そして家政婦は乳母に小声で話した。
 "Lay your hand along that hollow in the bed;
-�u�x�b�h�̒��̂��̂���ɉ����Ď��u���ĉ������B
+「ベッドの中のあのうろに沿って手を置いて下さい。
 someone did lie there, so sure as you did not;
-���Ȃ����v��Ȃ������قǊm���ɁA�{���ɒN���������ɉ��ɂȂ����̂ł��B
+あなたが思わなかったほど確かに、本当に誰かがそこに横になったのです。
 the place is still warm."
-���̏ꏊ�͂܂��������B�v
+あの場所はまだ温かい。」
 
-���@����. I can't have been more than six years old
-����͉\����\���\�@�Ƃ��������̕ω��ŁA
-�\�@���݊����Ƃ����A
-�ߋ��̓���̕s�\����\�����B
+文法メモ. I can't have been more than six years old
+これは可能性を表す可能法という動詞の変化で、
+可能法現在完了という、
+過去の動作の不可能性を表す物。
 It is impossible that I was more than six years old.
-6�Έȏゾ�����͂����Ȃ��B
-�ibe �͓���łȂ���Ԃ����A����ł��ǂ��̂��낤���H�j
-���ʂ��Ă���̂͌��݂Ȃ̂ŁAcan't�ɂȂ��Ă��āA
-����������It is impossible�ɂȂ��Ă���B
-�@�imood�j�͂��̕\�������Ԃɑ΂���b�҂̐S�I�ԓx�A
-�����ł͐��ʁA��\�����邽�߂̓����ω��ł���B
-when �ڑ����́A�������ɋ����n�߂��A�Ƃ����Ӗ��ł͂Ȃ��̂ŁA
-�����n�߂��A����Ƃ��̎������A�Ƃ����Ӗ��A
-���Ȃ킿�֌W���̔񐧌��I�p�@�A=and then I saw
+6歳以上だったはずがない。
+（be は動作でなく状態だが、それでも良いのだろうか？）
+推量しているのは現在なので、can'tになっていて、
+言い換えもIt is impossibleになっている。
+法（mood）はその表す動作状態に対する話者の心的態度、
+ここでは推量、を表明するための動詞変化である。
+when 接続詞の、見た時に泣き始めた、という意味ではないので、
+泣き始めた、するとその時見た、という意味、
+すなわち関係詞の非制限的用法、=and then I saw
 The nursery, as it was called,
-����as�͊֌W�㖼���̔񐧌��p�@�̂悤�Ȃ̂����A
-it was called so ���֌W�߂ɂ������̂Ǝv���B
-�����������Ƃ���ƁAso�͖{�����̂悤�ɁAin that manner,
-�Ƃ������������Acall it so, think so �̂悤�ɖ����̑���ɗp�����Ă���̂ŁA
-�֌W�߉�����ƁAin the manner in which it was called = as it was called
-�ƂȂ����̂��Ǝv���A���̂悤�ɖ󂵂��B
+このasは関係代名詞の非制限用法のようなのだが、
+it was called so を関係節にしたものと思う。
+もしそうだとすると、soは本来そのように、in that manner,
+という副詞だが、call it so, think so のように名詞の代わりに用いられているので、
+関係節化すると、in the manner in which it was called = as it was called
+となったのだと思い、そのように訳した。
 Nurse, nursery maid, housekeeper, all came running in,
-�܂��Anurse������ł�my��the�����Ă����̂ɂ����ł͖������Ȃ̂́A
-all��both���g���ꍇ�������Ȃ����ꍇ������A���̈��ł͂Ȃ����Ǝv���B
-came running ���ݕ����͕s���S�����̕��Ƃ��ėp������ꍇ������B
-�����ė���B
-an expiring candle �̂悤�ɖ����̑O�ɒu���Ă���͕̂����`�e���Ƃ������ŁA
-face looking at me �̂悤�Ɍ�ɒu���Ă���̂͌��ݕ����ł���B
-���ݕ����� face which was looking at me �̂悤�ɁA
-�i�s�`�̊֌W�߂��Ȗ񂵂����̂ŁA���Ă����Ƃ����Ӗ��B
-Birds singing on the tree �؂̏�Ŗ��Ă��钹�A���̊Ԃ̏�Ԃ�\���B
-����ɑ΂��āA�����`�e���͉i���I�Ȑ�����\���̂ŁA
-expiring �͐s�����������A���Ȃ킿�Z���Ȃ����X�C�Ƃ����Ӗ��ɂȂ�Ǝv���B
-Singing birds �����B
+まず、nurse等が上ではmyやtheがついていたのにここでは無冠詞なのは、
+allやbothを使う場合冠詞が省かれる場合があり、その一種ではないかと思う。
+came running 現在分詞は不完全動詞の補語として用いられる場合がある。
+走って来る。
+an expiring candle のように名詞の前に置いてあるのは分詞形容詞という物で、
+face looking at me のように後に置いてあるのは現在分詞である。
+現在分詞は face which was looking at me のように、
+進行形の関係節を簡約したもので、見ている顔という意味。
+Birds singing on the tree 木の上で鳴いている鳥、つかの間の状態を表す。
+それに対して、分詞形容詞は永続的な性質を表すので、
+expiring は尽きかかった、すなわち短くなった蝋燭という意味になると思う。
+Singing birds 鳴き鳥。
 soothing me all they could meanwhile.
 and soothing me was all they could (do) meanwhile
-��Ɨ������\���ɂ������̂�������Ȃ��Ǝv�����A
-being �����S�Ɏ���Ă��܂���������̂��A�ǂ�������Ȃ������B
-pluck open �� force open �����J����A�̂悤�ɁA
-�`�e����open�𑫂��������J����A�Ƃ����Ӗ����B
+を独立分詞構文にしたものかもしれないと思うが、
+being を完全に取ってしまう事があるのか、良く分からなかった。
+pluck open は force open こじ開ける、のように、
+形容詞のopenを足した引き開ける、という意味か。
 so sure as you did not 
-sure �͕����ŁA�m���ɁB�]����so-as�͂��̒��x�̈Ⴂ�A
-�Ɛ��w���m���߂��m�����Ɠ��ꂪ�v�����m���炵���Ƃ̍��A��\�����ƂɂȂ�A
-did not �̌��think�̂悤�ȓ������ȗ�����Ă���̂��Ǝv���B
+sure は副詞で、確かに。従ってso-asはその程度の違い、
+家政婦が確かめた確実性と乳母が思った確からしさとの差、を表すことになり、
+did not の後にthinkのような動詞が省略されているのだと思う。
 you did not think it had occurred sure.
