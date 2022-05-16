@@ -1,420 +1,427 @@
-Carmilla 4.2. 4�͑���
+/*  [amine, translation of chapter4-2, 2020.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 4.2. 4章続き
 There was a coldness,
 it seemed to me, beyond her years,
-�ޏ��̔N��ȏ�́A�Ǝ��ɂ͎v��ꂽ�̂����A��Ȃ����A
+彼女の年齢以上の、と私には思われたのだが、つれなさが、
 in her smiling melancholy persistent refusal
-�ޏ������΂��Ă䂤���ɂ��񂱂�
+彼女が微笑してゆううつにがんこに
 to afford me the least ray of light.
-����𖾂�����������ł��Ȃ������Ă����̂����ޏ��ɂ������B
+謎を解明する光を少しでもなげかけてくれるのを拒む所にあった。
 
 I cannot say we quarreled upon this point,
-���̓_�ɂ��Č����������Ƃ͌����Ȃ��A
+この点について言い争ったとは言えない、
 for she would not quarrel upon any.
-������ޏ��͉��ɂ��Ă��������Ƃ͂Ȃ���������B
+何しろ彼女は何についても争うことはなかったから。
 It was, 
 of course,
-�������A
+もちろん、
 very unfair of me to press her,
-�����ޏ��ɂ����񂾂̂͂܂��Ƃɕs���������A
+私が彼女にせがんだのはまことに不正だった、
 very ill-bred,
-�܂��Ƃɖ���@����������ǂ��A
+まことに無作法だったけれども、
 but I really could not help it;
-���͑S���̂Ƃ��낻�����Ȃ��킯�ɂ͂����Ȃ������B
+私は全くのところそうしないわけにはいかなかった。
 and I might just as well have let it alone.
-�����ĂЂ���Ƃ����炻��͂��̂܂܂ɂ��Ă����Ă��S���悩�������낤�ɁB
+そしてひょっとしたらそれはそのままにしておいても全くよかっただろうに。
 
 What she did tell me amounted,
-�ޏ������Ɏ��ۂɑł����������́A
+彼女が私に実際に打ち明けた事は、
 in my unconscionable estimation--
-���̔�ǐS�I�Ȍ����ł́\�\
+私の非良心的な見方では――
 to nothing.
-���̐^�����Ȃ��Ƃ����ɓ����������B
+何の真実もないというに等しかった。
 
 It was all summed up in three very vague disclosures:
-����͎O�̂���߂Ă΂��R�Ƃ����Ŗ����b�ɂ�������v�񂳂ꂽ�B
+それは三つのきわめてばく然とした打明け話にすっかり要約された。
 
 First--
-���Ɂ\�\
+第一に――
 Her name was Carmilla.
-�ޏ��̖��O��Carmilla�ł���B
+彼女の名前はCarmillaである。
 
 Second--
-���Ɂ\�\
+第二に――
 Her family was very ancient and noble.
-�ޏ��̉ƕ��͑傻���Â��܂����M�ł���B
+彼女の家柄は大そう古くまた高貴である。
 
 Third--
-��O�Ɂ\�\
+第三に――
 Her home lay in the direction of the west.
-�ޏ��̉Ƃ͐��̕��ɂ���B
+彼女の家は西の方にある。
 
 She would not tell me the name of her family,
-�ޏ��͎����̈ꑰ�̖����A
+彼女は自分の一族の名も、
 nor their armorial bearings,
-���̖�͂��A
+その紋章も、
 nor the name of their estate,
-���̒n���̖����A
+その地所の名も、
 nor even that of the country they lived in.
-�ނ炪���Z���鍑�̖��O�����������Ă���鎖�͂Ȃ������B
+彼らが居住する国の名前さえも教えてくれる事はなかった。
 
 You are not to suppose that
 I worried her incessantly on these subjects.
-���������̘b��ɂ��ĂЂ�����Ȃ��ɔޏ��ɂ����񂾂Ƃ��l���ɂȂ��Ă͂����܂���B
+私がこれらの話題についてひっきりなしに彼女にせがんだとお考えになってはいけません。
 I watched opportunity,
-���͋@����������������A
+私は機会をうかがったし、
 and rather insinuated than urged my inquiries.
-�܂������̖₢�����v�����Ƃ������͂ނ��낻��ƂȂ��������B
+また自分の問いを強要したというよりはむしろそれとなく言った。
 Once or twice,
-���x�A
+一二度、
 indeed,
-�����ɂ��A
+いかにも、
 I did attack her more directly.
-���͊m���ɔޏ�����蒼�ڂɔ����B
+私は確かに彼女をより直接に非難した。
 But no matter what my tactics,
-���������̍��������ł��낤�Ƃ��A
+しかし私の策略が何であろうとも、
 utter failure was invariably the result.
-���܂��đS���̎��s�����̌��ʂ������B
+きまって全くの失敗がその結果だった。
 Reproaches and caresses were all lost upon her.
-���ƈ����͔ޏ��ɂ͑S���ނ��������B
+非難と愛撫は彼女には全くむだだった。
 But I must add this,
-�������̎��͌��������Ȃ��Ă͂Ȃ�Ȃ��A
+だがこの事は言いたさなくてはならない、
 that her evasion was conducted with so pretty a melancholy and deprecation,
-���Ȃ킿�ޏ��̓�������͔��ɂ��킢�炵���ӂ������݂ƈ���𔺂��āA
+すなわち彼女の逃げ口上は非常にかわいらしいふさぎ込みと哀願を伴って、
 with so many, and even passionate declarations of her liking for me, and trust in my honor,
-���ɑ����́A�������M��ł������鎄���D�����Ƃ����A�����Ď��̐M�p���d�񂶂�S��M���Ă���Ƃ����錾�𔺂��āA
+非常に多くの、しかも熱烈でさえある私を好きだという、そして私の信用を重んじる心を信じているという宣言を伴って、
 and with so many promises
-������
+そして
 that I should at last know all,
-�u���͌��ǂ͂��Ȃ��ɖ����������܂��v�A�Ƃ́A
+「私は結局はあなたに万事を教えます」、との、
 that I could not find it in my heart long to be offended with her.
-�u�����Ɏ��ɕ��𗧂Ă�C�ɂ͂Ȃ�Ȃ��Ȃ�܂��v�A�Ƃ̔��ɂ�������̖񑩂𔺂��čs��ꂽ�B
+「じきに私に腹を立てる気にはなれなくなります」、との非常にたくさんの約束を伴って行われた。
 
 She used to place her pretty arms about my neck,
-�ޏ��͂��킢�炵���r�����̎�̉��ɒu���āA
+彼女はかわいらしい腕を私の首の回りに置いて、
 draw me to her,
-���������̕��ֈ����񂹁A
+私を自分の方へ引き寄せ、
 and laying her cheek to mine,
-�����Ăق��������Ǝ��̂ւ���������A
+そしてほおをそっと私のへくっつけた後、
 murmur with her lips near my ear,
-�����т�����̎��ɋ߂Â��āA
+くちびるを私の耳に近づけて、
 "Dearest, your little heart is wounded;
-�u�ň��̐l�A���Ȃ��̂��킢�����ȐS���������Ă���̂ł��ˁB
+「最愛の人、あなたのかわいそうな心が傷つけられているのですね。
 think me not cruel
 because I obey the irresistible law of my strength and weakness;
-���������̋����Ǝ�X�����̒�R�ł��Ȃ��@���ɏ]������Ƃ�����
-���𖳎��߂��Ƃ��l���ɂȂ�Ȃ��ŉ������B
+私が自分の強さと弱々しさの抵抗できない法則に従うからといって
+私を無慈悲だとお考えにならないで下さい。
 if your dear heart is wounded,
-�������Ȃ��̂��Ƃ����S���������Ă���Ȃ�΁A
+もしあなたのいとしい心が傷つけられているならば、
 my wild heart bleeds with yours.
-���̎�ɕ����Ȃ��S�͂��Ȃ��̂Ƌ��ɒɂ݂܂��B
+私の手に負えない心はあなたのと共に痛みます。
 In the rapture of my enormous humiliation
-���͔��Ȓp�̂��߂Ɋ��삵��
+私は非常な恥のために歓喜して
 I live in your warm life,
-���Ȃ��̒g���������Ő����Ă��āA
+あなたの暖かい生命で生きていて、
 and you shall die--
-�����Ă��Ȃ������Ȃ��Ă��܂��\�\
+そしてあなたを死なせてしまう――
 die, sweetly die--
-���Ȃ��Ă��܂��A�Â��Ɏ��Ȃ��Ă��܂��\�\
+死なせてしまう、静かに死なせてしまい――
 into mine.
-���̂��̂ɂ��Ă��܂��B
+私のものにしてしまう。
 I cannot help it;
-�d��������܂���B
+仕方がありません。
 as I draw near to you,
-�������Ȃ��Ɉ������悤�ɋߊ��悤�ɁA
+私があなたに引かれるように近寄るように、
 you,
-���Ȃ��́A
+あなたは、
 in your turn,
-���x�͂��Ȃ����A
+今度はあなたが、
 will draw near to others,
-���ꂩ���̐l�����Ɉ������悤�ɋߊ��A
+だれか他の人たちに引かれるように近寄り、
 and learn the rapture of that cruelty,
-���̖����߂ȍs�ׁA
+その無慈悲な行為、
 which yet is love;
-����͂���ɂ�������炸���ł��邪�A���̂��߂̊����m��ł��傤�B
+それはそれにもかかわらず愛であるが、そのための歓喜を知るでしょう。
 so,
-���ꂾ����A
+それだから、
 for a while,
-���΂炭�̊ԁA
+しばらくの間、
 seek to know no more of me and mine,
-���Ǝ��̉Ƒ��̎҂����̂��Ƃ�����ȏ�m�낤�Ǝ��݂�̂ł͂Ȃ��āA
+私と私の家族の者たちのことをそれ以上知ろうと試みるのではなくて、
 but trust me with all your loving spirit."
-���Ȃ��̎����ɖ������S��������Ď���M���Ȃ����Ă��������B�v
-�Ə����Ō����̂���ł������B
+あなたの慈愛に満ちた全霊をもって私を信頼なさってください。」
+と小声で言うのが常であった。
 
-���@����.
+文法メモ.
 There was a coldness,
 it seemed to me, beyond her years,
-�܂��Ԃɋ��܂��Ă���it seemed to me,
-�͎��ɂ͂����v��ꂽ�̂����A
-�Ƃ����O�u���ŁA���̌��beyond her years
-���ǂ��v��ꂽ�̂��Ƃ������e�ɂȂ�͂��B
-��������ƁAbeyond�́`�ȏ�́A�Ƃ����Ӗ��ŁA
-years�͔N��Ƃ����Ӗ��B
-�ޏ��̔N��ȏ�́A�Ǝ��ɂ͎v��ꂽ�̂����A
-��Ȃ����������B
+まず間に挟まっているit seemed to me,
+は私にはそう思われたのだが、
+という前置きで、その後のbeyond her years
+がどう思われたのかという内容になるはず。
+そうすると、beyondは～以上の、という意味で、
+yearsは年齢という意味。
+彼女の年齢以上の、と私には思われたのだが、
+つれなさがあった。
 smiling melancholy persistent refusal
-���΂����A�䂤���ȁA���񂱂ȁA
-�͑S�ċ��ۂɌW��`�e�����낤�B
-���̂܂܂��ƈӖ���������ɂ������A
-���� refuse to �`����̂����ށA
-�Ƃ���������������A�����͕����������낤����A
-���΂��ċ��ۂ���A�J�T�ɋ��ۂ���A��łɋ��ۂ���A
-�ƂȂ�B�]���āA����𖼎������āA
-���΂��ċ��ۂ��邱�ƁA�Ƃ������ɖ󂵂��B
+微笑した、ゆううつな、がんこな、
+は全て拒否に係る形容詞だろう。
+このままだと意味が分かりにくいが、
+もし refuse to ～するのを拒む、
+という動詞だったら、これらは副詞だったろうから、
+微笑して拒否する、憂鬱に拒否する、頑固に拒否する、
+となる。従って、これを名詞化して、
+微笑して拒否すること、という風に訳した。
 ray of light
-light �͖��Ȃǂ��𖾂���i��g�I�ȈӖ��ł́j���A�����A
-�Ƃ����Ӗ��B
-ray ����]�Ȃǂ̌��A�Ƃ����Ӗ��Ȃ̂����A
-a ray of truth �ꓹ�̐^���̌���
-a ray of intelligence ���m�̂Ђ�߂�
-�Ƃ������ɁA�i�����j�������ƁA�Ђ�߂����ƁA�Ƃ��������I��
-�Ӗ��Ȃ̂ł͂Ȃ����Ǝv���B
-afford me the ray of light �ŁA
-�u����𖾂�����v���u�Ȃ������āv�u�����v�A
-�Ɩ󂵂��B
+light は問題などを解明する（比喩的な意味での）光、光明、
+という意味。
+ray も希望などの光、という意味なのだが、
+a ray of truth 一道の真理の光明
+a ray of intelligence 理知のひらめき
+という風に、（光が）差すこと、ひらめくこと、という動詞的な
+意味なのではないかと思う。
+afford me the ray of light で、
+「謎を解明する光」を「なげかけて」「くれる」、
+と訳した。
 It was, of course,
 very unfair of me to press her,
-�Ԃɋ��܂��Ă���A�������A�͗ǂ��Ƃ��āA
-of �͍s�׎҂�\���B
-I took it kind of him to tell me. �ނ����������Ă��ꂽ�̂͐e�؂��Ȃ��Ǝv�����B
-������to�ȉ��͎��ۂɂ�����������A
-press her �Ŕޏ��ɂ����񂾁A�Ƃ������ɂȂ�A
-�O�ɂ͂͂�����Ǝ��₵���Ƃ͏����Ă��Ȃ����A
-���ۂɂ͐F�X���₵�Ă��܂����A�Ƃ������ɂȂ�Ǝv���B
-�����ޏ��ɂ����񂾂̂͂܂��Ƃɕs���������A�Ɩ󂵂��B
+間に挟まっている、もちろん、は良いとして、
+of は行為者を表す。
+I took it kind of him to tell me. 彼がそう言ってくれたのは親切だなあと思った。
+ここでto以下は実際にした事だから、
+press her で彼女にせがんだ、という事になり、
+前にははっきりと質問したとは書いていないが、
+実際には色々質問してしまった、という事になると思う。
+私が彼女にせがんだのはまことに不正だった、と訳した。
 I might just as well have let it alone
-�܂��Alet it alone �͂�������̂܂܂ɂ��Ă����B
-might have let �͉\�@�ߋ������ŁA
-�Ђ���Ƃ����炻�̂܂܂ɂ��Ă����Ă悩�������낤�ɁA
-�Ƃ����Ӗ��ŁA���ۂɂ͔��΂����������Ӗ�����B
-�i���̂܂܂ɂ��Ă����Ȃ������B�j
-might have been ��
-���ۂɂ͂��܂������Ȃ������ꍇ�̌���i�`���������낤�Ɂj��
-��Ȃ����𓦂�邱�Ƃ��ł����ꍇ�̓��S�̊�сi�`�������Ƃ��낾�����j
-��\���퓅��ŁA���̏ꍇ�������\���Ă���B
-as well �� as �͔�r�̎w�������Ƃ������ŁA
-�O���邢�͔O���ɂ��镨�Ɣ�ׂāA
-to that degree or extent�@���̒��x�܂ŁA�Ƃ����Ӗ��B
-A pencil will do quite as well. ���M�ɂĂ��S���Ԃɍ����܂��B
-(= equally well �O���ɂ���M�L��Ɣ�ׂē����ɁA���h�Ɂi�𗧂j)
-may as well ��...���Ă��悢�A...����̂������Ȃ��A
-�i�ʂ̕��@���l�����邯��ǁj�Ƃ����Ӗ��B
-����ŁAmight just as well ���A
-���̂܂܂ɂ��Ă����Ă��S���悩�������낤�ɁA�Ɩ󂵂��B
+まず、let it alone はそれをそのままにしておく。
+might have let は可能法過去完了で、
+ひょっとしたらそのままにしておいてよかっただろうに、
+という意味で、実際には反対だった事を意味する。
+（そのままにしておかなかった。）
+might have been は
+実際にはうまくいかなかった場合の後悔（～だっただろうに）や
+危ない所を逃れることができた場合の内心の喜び（～だったところだった）
+を表す常套句で、この場合も後悔を表している。
+as well の as は比較の指示副詞という物で、
+前あるいは念頭にある物と比べて、
+to that degree or extent　その程度まで、という意味。
+A pencil will do quite as well. 鉛筆にても全く間に合います。
+(= equally well 念頭にある筆記具と比べて同等に、立派に（役立つ）)
+may as well で...してもよい、...するのも悪くない、
+（別の方法も考えられるけれど）という意味。
+それで、might just as well を、
+そのままにしておいても全くよかっただろうに、と訳した。
 nothing
-�́A�ł����������͉����Ȃ��A�Ƃ����Ӗ��ł͂Ȃ��āA
-�����l�A���Ӗ��A�Ƃ����Ӗ�������A���ꂾ�Ǝv���B
-There is nothing in it. ����ɂ͉��̐^�����Ȃ��i�܂�ł������A�S�����ɑ���Ȃ��j
-�]���āA�ߏ�͉����𓚂������A�R�̗l�������A
-�Ƃ��������Ǝv���B
-�����������Ƃ���ƁAunconscionable estimation
-��ǐS�I�Ȍ����ł́A�Ƃ����̂��A
-�R���ƍl���Ă��܂������̌�����\�����Ă��āA
-���R�ł���Ǝv���B
+は、打ち明けた事は何もない、という意味ではなくて、
+無価値、無意味、という意味があり、これだと思う。
+There is nothing in it. それには何の真実もない（まるでうそだ、全く取るに足らない）
+従って、令嬢は何かを答えたが、嘘の様だった、
+という事だと思う。
+もしそうだとすると、unconscionable estimation
+非良心的な見方では、というのも、
+嘘だと考えてしまった私の見方を表現していて、
+自然であると思う。
 the name of her family,
 nor their armorial bearings
-��s�ڂ�their�́Afamily�̑㖼���ŁA
-�ނ�̖�́A�Ƃ����Ӗ����낤�B
-family�͒P���`�Ȃ̂ɁA
-���̑㖼����their�ƕ����`�ɂȂ��Ă���B
-����́Afamily���W�������Ƃ�����������ł���B
+二行目のtheirは、familyの代名詞で、
+彼らの紋章、という意味だろう。
+familyは単数形なのに、
+その代名詞はtheirと複数形になっている。
+これは、familyが集合名詞という物だからである。
 People, nation, family, clan, mob, army,
-�l�X, ����, �Ƒ�, �ꑰ, �\�k, �R,
+人々, 国家, 家族, 一族, 暴徒, 軍,
 infantry, crew, assembly, parliament, committee, cattle.
-����, ��g��, �W��, �c��, �ψ���, �{��.
-�܂��A�W�������͕����`�Ŏg�������A
+歩兵, 乗組員, 集合, 議会, 委員会, 畜牛.
+まず、集合名詞は複数形で使う事も、
 Nations, armies, families,--
-�P���`�ŁA�s�芥������鎖���o����
+単数形で、不定冠詞を取る事も出来る
 A nation, an army, a family.
-�������A�d�v�Ȃ̂́A
-�Ώۂ̏W����
-(a) �c�����������܂�Ƃ��āA��c�Ƃ��ĐU�����Ă���
-�ƌ��������o���邵�A
-(b) ���A���Ȃ킿�X�ʁX�ɐU�����Ă���
-�ƌ��������o����Ƃ������Ƃł���B
-(a)�̏ꍇ�́A���̏W�������͒P�����ʖ����ł���A
-���Ɠ����A���邢�͐�s���Ƒ㖼���́A�P���ň�v����B
+しかし、重要なのは、
+対象の集合は
+(a) 団結したかたまりとして、一団として振舞っている
+と言う事も出来るし、
+(b) 一つ一つ、すなわち個々別々に振舞っている
+と言う事も出来るということである。
+(a)の場合は、その集合名詞は単数普通名詞であり、
+主語と動詞、あるいは先行詞と代名詞は、単数で一致する。
 The *cavalry* *was* repulsed with a heavy loss.
-�R���͂Ђǂ����������Č��ނ��ꂽ�B
-(b)�̏ꍇ�́A���̏W�������͕������ʖ����Ɠ����ł���A
-���Ɠ����A���邢�͐�s���Ƒ㖼���́A�����ň�v����B
-�����**������v**�ƌĂ΂��B
-�����̈Ӗ��Ŏg����W�������́A
-�ʏ�**�Q�O�̖���**�ƌĂ΂��B
+騎兵はひどい損失をして撃退された。
+(b)の場合は、その集合名詞は複数普通名詞と同等であり、
+主語と動詞、あるいは先行詞と代名詞は、複数で一致する。
+これは**複数一致**と呼ばれる。
+複数の意味で使われる集合名詞は、
+通常**群衆の名詞**と呼ばれる。
 The *cavalry* *wear* scarlet trousers.
-�R����(���Ȃ킿�R�����\������l�X��)��̃Y�{�����͂��B
-"Family" �͂���(b)�Ӗ��I�ɂ͕����ł���A
-���܂��A�����` "families" ������B
-*Are* your *family* all well? ���Ƒ��F�l�͂����C�ł����B
-Three *families* live in the same house. �O�Ƒ��������ƂɏZ��ł���B
-�]���āA����family���A���̑㖼����
-�����Ɉ�v���Atheir �ނ�́A�ƂȂ�B
+騎兵は(すなわち騎兵を構成する人々は)緋のズボンをはく。
+"Family" はいつも(b)意味的には複数であり、
+かつまた、複数形 "families" もある。
+*Are* your *family* all well? ご家族皆様はお元気ですか。
+Three *families* live in the same house. 三家族が同じ家に住んでいる。
+従って、今のfamilyも、その代名詞は
+複数に一致し、their 彼らの、となる。
 You are not to suppose that
-be+to-�s�莌�͗\��E���߁E�`���E�^���E�\�Ȃǂ̈Ӗ���\�����A
-You are not to (=must not) do that. ��������Ă͂����Ȃ�
-�Ƃ����ᕶ�����邩��A�����ł́`�Ƃ��l���ɂȂ��Ă͂����܂���A
-�Ɩ󂵂��B
+be+to-不定詞は予定・命令・義務・運命・可能などの意味を表すが、
+You are not to (=must not) do that. それをしてはいけない
+という例文があるから、ここでは～とお考えになってはいけません、
+と訳した。
 watched opportunity
-�@������������A�Ƃ����Ӗ��B
-opportunity �ɂ͒P���Ȃ̂Ɋ����������Ȃ����A
-����͒��ۖ����Ƃ�����������ł���B
-���ۖ����͐����⊈���̖��̂ł���B
-�����⊈���̖��̂����ۓI�ƌ�����̂́A
-�����⊈���͂��̑�����Ώۂ��痣��Ă���A
-���邢��*�l���ɒ��ۂ���Ă���*
-�ƍl�����邩��ł���B
-"Whiteness (��������)" ��
+機会をうかがう、という意味。
+opportunity には単数なのに冠詞が何もないが、
+これは抽象名詞という物だからである。
+抽象名詞は性質や活動の名称である。
+性質や活動の名称が抽象的と言われるのは、
+性質や活動はその属する対象から離れている、
+あるいは*考えに抽象されている*
+と考えられるからである。
+"Whiteness (白いこと)" は
 "white flowers," "white paper," "white snow," "white walls,"
-���ɑ����鐫���̖��̂ł���B
-�����āA�����Ƃ����������A
-�����̑Ώۂ��痣��Ă���ƍl������΁A
-"whiteness (��������)" �ƌĂ΂��B
-�����̖��̂͑��`�e������o�Ă���B
-�����̖��̂́A��������o�Ă���B
-��.
-�`�e��-���ۖ���
-Sweet*ness* �Â� (sweet �Â�)
-Tru*th* �^�� (true �{����)
-Pur*ity* ���� (pure ���ꂢ��)
-Patien*ce* �E�� (patient �E�ϋ���)
-Transparen*cy* ������ (transparent ������)
-Brav*ery* �E�C (brave �E����)
-Just*ice* ���` (just ������)
-Wis*dom* �������� (wise ����)
-False*hood* �U�� (false ���U��)
-Splen*dour* �ڂ�����Ȕ����� (splendid �ڂ������)
-����-���ۖ���
-Inten*tion* �Ӑ} (to intend �`�������ł���)
-Divi*sion* ���� (to divide ��������)
-Observ*ation* �ώ@ (to observe �ώ@����)
-Observ*ance* ���� (to observe ���炷��)
-Punish*ment* �����邱�� (to punish ������)
-Serv*ice* �΂� (to serve �Ζ�����)
-Expos*ure* �\�I (to expose �\�I����)
-Speech ���̂������� (to speak �b��)
-Life �� (to live �����Ă���)
-Proof �ؖ� (to prove �ؖ�����)
-����opportunity �@��A���A
-opportune �i�����j�D�s���́A�Ƃ���
-�`�e������o�Ă��钊�ۖ����ł͂Ȃ����Ǝv���B
-�����D�s���ł��邱�� = �@��A�D�@�B
-���ۖ����͕��������Ɠ��l�̓���������B
-�������Ȃ��A�s�芥�������Ȃ��B
-�����̖��̂��K���P���łȂ���΂Ȃ�Ȃ��̂́A
-�قȂ�ΏۊԂ̈�v�_��\�����邩��ł���B
-�Ώۂ́A����ɂ��̐�����������̂ł��邪�A��������ǂ��A
-���̐����͗B�ꖳ��ł���B
-"Wisdom ��������" �͗B�ꖳ��ŁA
-"wise men ���l" "wise sayings ����" "wise actions �����ȍs��"
-���ɋ��ʂ��铯�������ł���B
-"A wisdom" �� "wisdoms" �Ƃ͌����Č���Ȃ��B
-���ۖ����́A��ԍL�ĂȈӖ��Ŏg���鎞�́A�����͂���Ȃ��B
-�������A����̖������Ӗ��ɂ����
-���ۖ����ɂȂ邱�Ƃ��A���ʖ����ɂȂ邱�Ƃ�����B
-�����̒��ۖ������A���������̂悤�ɁA
-�����ɂȂ��Ă�����A�P���� "a" ������Ă����肷�鎖������B
-���̂悤�ȏꍇ�ɂ́A�����͒��ۓI�Ȑ�����\���̂ł͂Ȃ��A
-�����ނ̂��̐����A���̐�����������s�ׁA���̐����̂�������A
-���̐����̂���^�p��\���B
-�����͒��ۖ����ł͂Ȃ��Ȃ��āA���ʖ����ɂȂ�B
-����͒��ۖ������`�e���ɂ���ďC�����ꂽ���ɂ��΂��΋N����B
-Seek *truth* and do *good*. (���ۖ���)
-�^�������ߑP���Ȃ�
-This book contains many *truths*. (���ʖ���)
-���̖{�͑����̎����ɑ����Ă��邱�Ƃ��܂�ł���B(�^���̎���)
-*Colour* adds to the pleasure of the eye. (���ۖ���)
-�F�ʂɂ���Ď��o�̊y���݂������B
-The *colours* of the rainbow. (���ʖ���)
-���̎��F (�F�ʂ̂������)
-*Variety* is the mother of enjoyment. (���ۖ���)
-�ω��ɕx�ނ��Ƃ͊y���݂̌�
-This is *a variety* of the camellia. (���ʖ���)
-����͂΂��̈��ł��B (�ω��ɕx�ނ��Ƃ̎���)
-���̒��ł�watch opportunity �@������������A��
-�����Č�����seek truth�Ǝ��Ă��邾�낤���B
-provide opportunities for... ���ƁA...�̋@���^����A�Ƃ������ŁA
-����̋@��̂��ƁB���ʖ����ŕ����`�B
+等に属する性質の名称である。
+そして、白いという性質が、
+これらの対象から離れていると考えられれば、
+"whiteness (白いこと)" と呼ばれる。
+性質の名称は大抵形容詞から出ている。
+活動の名称は、大抵動詞から出ている。
+例.
+形容詞-抽象名詞
+Sweet*ness* 甘さ (sweet 甘い)
+Tru*th* 真理 (true 本当の)
+Pur*ity* 清浄 (pure きれいな)
+Patien*ce* 忍耐 (patient 忍耐強い)
+Transparen*cy* 透明性 (transparent 透明な)
+Brav*ery* 勇気 (brave 勇敢な)
+Just*ice* 正義 (just 正しい)
+Wis*dom* 賢いこと (wise 賢い)
+False*hood* 偽り (false 虚偽の)
+Splen*dour* 目もあやな美しさ (splendid 目もあやな)
+動詞-抽象名詞
+Inten*tion* 意図 (to intend ～するつもりである)
+Divi*sion* 分割 (to divide 分割する)
+Observ*ation* 観察 (to observe 観察する)
+Observ*ance* 遵守 (to observe 遵守する)
+Punish*ment* 罰すること (to punish 罰する)
+Serv*ice* 勤め (to serve 勤務する)
+Expos*ure* 暴露 (to expose 暴露する)
+Speech ものを言う力 (to speak 話す)
+Life 命 (to live 生きている)
+Proof 証明 (to prove 証明する)
+今のopportunity 機会、も、
+opportune （時が）好都合の、という
+形容詞から出ている抽象名詞ではないかと思う。
+時が好都合であること = 機会、好機。
+抽象名詞は物質名詞と同様の特性がある。
+複数がなく、不定冠詞を取らない。
+性質の名称が必ず単数でなければならないのは、
+異なる対象間の一致点を表現するからである。
+対象は、それにその性質が属するのであるが、多いけれども、
+その性質は唯一無二である。
+"Wisdom 賢いこと" は唯一無二で、
+"wise men 賢人" "wise sayings 金言" "wise actions 賢明な行い"
+等に共通する同じ性質である。
+"A wisdom" や "wisdoms" とは決して言わない。
+抽象名詞は、一番広汎な意味で使われる時は、冠詞はいらない。
+ただし、同一の名詞が意味によって
+抽象名詞になることも、普通名詞になることもある。
+多くの抽象名詞が、物質名詞のように、
+複数になっていたり、単数で "a" を取っていたりする事がある。
+そのような場合には、それらは抽象的な性質を表すのではなく、
+ある種類のその性質、その性質を持つある行為、その性質のある実例や、
+その性質のある運用を表す。
+これらは抽象名詞ではなくなって、普通名詞になる。
+これは抽象名詞が形容詞によって修飾された時にしばしば起こる。
+Seek *truth* and do *good*. (抽象名詞)
+真理を求め善をなせ
+This book contains many *truths*. (普通名詞)
+この本は多くの事実に即していることを含んでいる。(真理の実例)
+*Colour* adds to the pleasure of the eye. (抽象名詞)
+色彩によって視覚の楽しみが増す。
+The *colours* of the rainbow. (普通名詞)
+虹の七色 (色彩のある実例)
+*Variety* is the mother of enjoyment. (抽象名詞)
+変化に富むことは楽しみの源
+This is *a variety* of the camellia. (普通名詞)
+これはつばきの一種です。 (変化に富むことの実例)
+この中ではwatch opportunity 機会をうかがう、は
+強いて言えばseek truthと似ているだろうか。
+provide opportunities for... だと、...の機会を与える、という事で、
+特定の機会のこと。普通名詞で複数形。
 rather insinuated than urged my inquiries
-rather �Ƃ����΁A�ǂ��炩�ƌ����΁A�ނ�����ŁA
-�Ƃ����Ӗ�����ԂɎv���o����邩������Ȃ�����ǁA
-���̈Ӗ��́A
-I would rather not go. �ǂ��炩�Ƃ����΍s�������Ȃ�
-�Ƃ������ɁAwould �≼��@�Ƌ��ɗp���Ċ�]���q�ׂ�p�@�Ȃ̂ŁA
-���́A�����ɂ͂���ƂȂ��������A�Ƃ����Ӗ��Ƃ͏����Ⴄ�Ǝv���B
-����rather�́A�����Ɛ��m�Ɍ����΁A�Ƃ����Ӗ����Ǝv���B
-���v�����Ƃ������́A�ނ��낻��ƂȂ��������B
+rather といえば、どちらかと言えば、むしろ喜んで、
+という意味が一番に思い出されるかもしれないけれど、
+その意味は、
+I would rather not go. どちらかといえば行きたくない
+という風に、would や仮定法と共に用いて希望を述べる用法なので、
+今の、現実にはそれとなく言った、という意味とは少し違うと思う。
+このratherは、もっと正確に言えば、という意味だと思う。
+強要したというよりは、むしろそれとなく言った。
 indeed
-�ɂ͏����̗p�@������A
-indeed..., but �ŁA�Ȃ�ق�...����������
-�Ƃ����Ӗ��B
+には譲歩の用法があり、
+indeed..., but で、なるほど...だがしかし
+という意味。
 But no matter what my tactics,
-no matter what �͐ڑ��㖼�� whatever ��
-���������ŁA"though" �̂悤�ȏ����̈Ӗ������B
-���ʏ����� "may" ����ɑ����B
+no matter what は接続代名詞 whatever の
+言い換えで、"though" のような譲歩の意味を持つ。
+普通助動詞 "may" が後に続く。
 *Whatever* the consequences may be,...
 *No matter what* the consequences may be,...
-���ʂ����ł��낤�Ƃ��A�c
-�]���āA���̏ꍇ���A
+結果が何であろうとも、…
+従って、今の場合も、
 no matter what my tactics may be,
-���̍��������ł��낤�Ƃ��A
-�̏ȗ��ł͂Ȃ����Ǝv���B 
+私の策略が何であろうとも、
+の省略ではないかと思う。 
 promises that I should at last know all
-�܂� should �͊Ԑژb�@������Ashall�̉ߋ��`�̂��ƁB
+まず should は間接話法だから、shallの過去形のこと。
 She promised that I should at last know all.
 (= She said, "you shall at last know all.")
-�ł́Ayou shall �Ƃ����̂͂ǂ������Ӗ����B
-"Shall" ���`�����邢�͕K�R��\���A
-����傪�O���̐��䂠�邢�͋����̂��Ƃɂ��鎖���Ӗ�����A
-I shall go. = ���͍s�����A�Ȃ��Ȃ�΂��ꂪ�K�v������A���邢�͂��ꂪ���̋`��������B
-�Ƃ������͈ȑO���������B
-���l�̂Ƒ�O�l�̂ł�"Shall"�͕��ʁA�b�҂������𐧌䂵�Ă��鎖��\���B 
-�����ł͂��̓�������߂�̂͘b�҂ł���B
-������ "shall" �̈Ӗ��͓���傪���Ȃ���΂Ȃ�Ȃ��K�v���A
-�b�҂̌��肩��N�������K�v���ł���B
-�b�Ҏ��g�����̓���Ŋ��􂷂�ꍇ�́A
-���͂���Ɋւ��Ď󓮓I�ɒm�o����l�ɉ߂��Ȃ��B
+では、you shall というのはどういう意味か。
+"Shall" が義務あるいは必然を表し、
+動作主が外部の制御あるいは強制のもとにある事を意味する、
+I shall go. = 私は行くが、なぜならばそれが必要だから、あるいはそれが私の義務だから。
+という事は以前メモした。
+第二人称と第三人称での"Shall"は普通、話者が動作主を制御している事を表す。 
+ここではその動作を決めるのは話者である。
+そして "shall" の意味は動作主がしなければならない必要性、
+話者の決定から起こった必要性である。
+話者自身がその動作で活躍する場合は、
+主語はそれに関して受動的に知覚する人に過ぎない。
 *You shall* see.
-(=I will show you. �������������܂��B)
-����́A�ޏ����u���Ȃ��͂��ɖ�����m�鎖�ɂȂ�ł��傤�v�A�ƌ������̂��A
+(=I will show you. 私がお見せします。)
+今回の、彼女が「あなたはついに万事を知る事になるでしょう」、と言ったのも、
 =She said, "I will finally tell you everything."
-���͌��ǂ͂��Ȃ��ɖ����������܂��A�Ƃ����񑩁B
+私は結局はあなたに万事を教えます、という約束。
 promises that I could not find it in my heart long to be offended with her
-�܂�������AShe promised that I could not find...
+まずこれも、She promised that I could not find...
 (= She said, "you can not find it in your heart long to be offended with me.")
-�ƒ�����B
-in your heart �́A�S�̒��ɁA�Ƃ����Ӗ��ŁA
-I cannot find it in my heart to speak. �b���C�ɂȂ�Ȃ�
-�����Ato speak, �b���Ƃ������ƁA���S�̒��Ɍ�����Ȃ��A
-�b���C�ɂȂ�Ȃ��A�Ƃ����Ӗ��B
-�]���āAyou can not find it in your heart to be offended with me ���ƁA
-���ɕ��𗧂Ă�Ƃ������ƁA���S�̒��Ɍ�����Ȃ��A
-���ɕ��𗧂Ă�C�ɂȂ�Ȃ��A�Ƃ����Ӗ����낤�B
-�X�� long �������A�Ƃ����Ӗ��̕������낤����A
-�����͐S�̒��Ɍ�����Ȃ��A
-�����ɕ��𗧂Ă�C�ɂ͂Ȃ�Ȃ��Ȃ�A
-�Ƃ����Ӗ����낤�B
+と直せる。
+in your heart は、心の中に、という意味で、
+I cannot find it in my heart to speak. 話す気になれない
+即ち、to speak, 話すということ、が心の中に見つからない、
+話す気になれない、という意味。
+従って、you can not find it in your heart to be offended with me だと、
+私に腹を立てるということ、が心の中に見つからない、
+私に腹を立てる気になれない、という意味だろう。
+更に long が長く、という意味の副詞だろうから、
+長くは心の中に見つからない、
+じきに腹を立てる気にはなれなくなる、
+という意味だろう。
 Dearest
-������l�Ɏ莆����������b�������鎞�g����A
-����߂Ĉ�����Ă����Õ��Ȗ����B
-�ň��̐l�A�Ɩ󂵂��B
+愛する人に手紙を書いたり話しかける時使われる、
+きわめて愛情の籠った古風な名詞。
+最愛の人、と訳した。
 think me not cruel
 because I obey the irresistible law of my strength and weakness
-�܂� not �͌Õ��̂ł͒ʗᓮ���̎��ɒu���Ă����ے肷��B
-Say not so. = Do not say so. ����ȕ��ɋ�Ȃ��ŉ������B
-����� 
-Do not think me cruel ���𖳎��߂��Ƃ��l���ɂȂ�Ȃ��ŉ�����
-�̌Õ��̂Ȃ̂��Ǝv���B
-��s�� because �́A�`������Ƃ����āA�Ƃ����Ӗ��B
-���������̋����Ǝ�X�����̒�R�ł��Ȃ��@���ɏ]������Ƃ����āB
+まず not は古文体では通例動詞の次に置いてそれを否定する。
+Say not so. = Do not say so. そんな風に仰らないで下さい。
+これも 
+Do not think me cruel 私を無慈悲だとお考えにならないで下さい
+の古文体なのだと思う。
+二行目 because は、～だからといって、という意味。
+私が自分の強さと弱々しさの抵抗できない法則に従うからといって。
 In the rapture of my enormous humiliation
 I live in your warm life
-�܂��`���� in �͏�ԂŁA���삵�āA�Ƃ����Ӗ��B
-�܂�rapture�͕���ł���B
-�ߏ�͗F�B���������Ƃ��Ȃ��ƌ����Ă����̂ŁA
-��ɕ��͂ł������t���������@��Ȃ������̂�������Ȃ��B
-of �͌���...�̂��߁A
-I shall be glad of your company. �������Ă��炦��Ȃ炠�肪����
-(����)���Ȓp�̂��߂Ɋ��삵�āA�Ƃ����Ӗ����Ǝv���B
-��s�ڂ� in �͋��炭����E�ޗ���...�ŁA�������āA
-paint in oils ���G�̋�ŕ`��
-���Ȃ��̒g���������Ő����Ă���B
+まず冒頭の in は状態で、歓喜して、という意味。
+またraptureは文語である。
+令嬢は友達がいたことがないと言っていたので、
+主に文章でしか言葉を取り入れる機会がなかったのかもしれない。
+of は原因...のため、
+I shall be glad of your company. つき合ってもらえるならありがたい
+(私は)非常な恥のために歓喜して、という意味だと思う。
+二行目の in は恐らく道具・材料の...で、をもって、
+paint in oils 油絵の具で描く
+あなたの暖かい生命で生きている。
