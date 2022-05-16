@@ -1,316 +1,323 @@
-Carmilla 4.3. 4�͑���
+/*  [amine, translation of chapter4-3, 2020.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 4.3. 4章続き
 And when she had spoken such a rhapsody,
-�����Ĕޏ��͂��������M���I�œ˔�Ȍ����������Ă��܂��ƁA
+そして彼女はそういう熱狂的で突飛な言辞を言ってしまうと、
 she would press me more closely in her trembling embrace,
-�k���ĕ��i����ԂɈ�w��������Ǝ���������߁A
+震えて抱擁する間に一層しっかりと私を抱きしめ、
 and her lips in soft kisses gently glow upon my cheek.
-�����Ĕޏ��̂����т�͂����Ƃ��������Â��̊ԂɎ��̂ق��̏�ŐÂ��ɐԂ��Ȃ�̂������B
+そして彼女のくちびるはそっとしたくちづけの間に私のほおの上で静かに赤くなるのだった。
 
 Her agitations and her language were unintelligible to me.
-�ޏ��̐��_�����Ɣޏ��̌��t�Â����͎��ɂ͗������ł��Ȃ������B
+彼女の精神興奮と彼女の言葉づかいは私には理解ができなかった。
 
 From these foolish embraces,
-�����̋����ȕ��i����A
+これらの愚かな抱擁から、
 which were not of very frequent occurrence,
-����͗]��悭���邱�Ƃł͂Ȃ������A
+それは余りよくあることではなかった、
 I must allow,
-����͔F�߂�ׂ������A
+それは認めるべきだが、
 I used to wish to extricate myself;
-���͏�ɔ����o�����������B
+私は常に抜け出したかった。
 but my energies seemed to fail me.
-���������̍s���͂͂����Ƃ������ɖ��ɗ����Ȃ��悤�������B
+しかし私の行動力はいざという時に役に立たないようだった。
 Her murmured words sounded like a lullaby in my ear,
-�ޏ��������Ō������t�͎��̎��ɂ͂܂�Ŏq��̂̂悤�ɕ������A
+彼女が小声で言う言葉は私の耳にはまるで子守歌のように聞こえ、
 and soothed my resistance into a trance,
-�����Ď��̒�R��Â߂ėL���V�ɂ������A
+そして私の抵抗を静めて有頂天にしたが、
 from which I only seemed to recover myself when she withdrew her arms.
-���͔ޏ����r���������߂��������������琳�C�ɗ����Ԃ�C�����邾���������B
+私は彼女が腕を引っ込めた時ただそこから正気に立ち返る気がするだけだった。
 
 In these mysterious moods
-�����̕s���ȁi����I�ȁj�ނ�C�̊Ԃ�
+これらの不可解な（発作的な）むら気の間は
 I did not like her.
-���͔ޏ����D�܂Ȃ������B
+私は彼女を好まなかった。
 I experienced a strange tumultuous excitement
-����
+私は
 that was pleasurable,
-�����ȁA
+愉快な、
 ever and anon,
-���X�A 
+時々、 
 mingled with a vague sence of fear and disgust.
-�΂��R�Ƃ�������Ƃ���C�̊��o�ƍ���������Ȍ������������o�������B
+ばく然とした恐れといや気の感覚と混ざった奇妙な激しい興奮を経験した。
 I had no distinct thoughts about her
-����
+私は
 while such scenes lasted,
-����������ʂ������Ԃ͔ޏ��ɂ��Ă͂�����Ǝv�����͂Ȃ��������A
+そういう場面が続く間は彼女についてはっきりと思う所はなかったが、
 but I was conscious of a love growing into adoration,
-����ɔM���ɕς��Ă��鈤��ɁA
+次第に熱愛に変じている愛情に、
 and also of abhorrence.
-�����Ċ��݂��炤����ɂ��܂��C�t�����B
+そして忌みきらう感情にもまた気付いた。
 This I know is paradox,
-���ꂪ���Ɠ����̌����Ƃ͂킩���Ă��邪�A
+これが自家撞着の言だとはわかっているが、
 but I can make no other attempt to explain the feeling.
-����ȊO�ɂ��̋C����������悤�Ǝ��݂鎖�͂ł��Ȃ��B
+それ以外にその気持を説明しようと試みる事はできない。
 
 I now write,
-���͍�
+私は今
 after an interval of more than ten years,
-�\�N�ȏ�̊u����̌�ɁA
+十年以上の隔たりの後に、
 with a trembling hand,
-�k�����ŁA
+震える手で、
 with a confused and horrible recollection of certain occurrences and situations,
 in the ordeal through which I was unconsciously passing;
-�����C�t�����Ɍo�����Ă����ꂵ���̌��̊Ԃ�
-����ł����Ƃ���ǂ���ʂ̍��������g�̖т��悾�悤�Ȓǉ������Ȃ���A���������Ă���B
+私が気付かずに経験していた苦しい体験の間の
+あるでき事ときわどい場面の混乱した身の毛もよだつような追憶をしながら、字を書いている。
 though with a vivid and very sharp remembrance of the main current of my story.
-�����Ƃ��^���̎�v�Ȑ��ڂ͖ڂɌ�����悤�ɑ傻���͂�����Ǝv���o���Ȃ���ł��邪�B
+もっとも顛末の主要な推移は目に見えるように大そうはっきりと思い出しながらであるが。
 
 But,
-�������A
+しかし、
 I suspect,
 in all lives
-�݂Ȉꐶ�̊Ԃɂ�
+みな一生の間には
 there are certain emotional scenes,
-�����̎��I�ȏ�ʁA
+ある種の主情的な場面、
 those in which our passions have been most wildly and terribly roused,
-���Ȃ킿��X�̔M��ł��₽��ɂ��Ђǂ���������Ă��܂�����ʂ��A����̂ł��傤�ˁA
+すなわち我々の熱情が最もやたらにかつひどく激発されてしまった場面が、あるのでしょうね、
 that are
-�����Ă����
+そしてそれは
 of all others the most vaguely and dimly remembered.
-��؂̒��ł��ł��΂��R�Ƃ����Ă������ɂ����v���o����Ȃ��B
+一切の中でも最もばく然とそしてかすかにしか思い出されない。
 
 Sometimes after an hour of apathy,
-���X�������Ȏ��̌�ɁA
+時々無感動な時の後に、
 my strange and beautiful companion
-���̕ςŔ������F������ 
+私の変で美しい友だちは 
 would take my hand and hold it with a fond pressure,
-���̎�����D�������͂ň���̂��������A
+私の手を取り優しい圧力で握るのだったが、
 renewed again and again;
-����Ɣޏ��͊��x����݂��������B
+すると彼女は幾度もよみがえった。
 blushing softly,
-�Â��ɍg�����Ȃ���A
+静かに紅潮しながら、
 gazing in my face with languid and burning eyes,
-���C�̂Ȃ��������R����悤�ȖڂŎ��̊�������ƌ��߂Ȃ���A
+生気のないしかし燃えるような目で私の顔をじっと見つめながら、
 and breathing so fast
 that her dress rose and fell with the tumultuous respiration.
-�h���X�����炵�̂悤�Ȍċz�ŏオ�艺���肷��ق�
-���Â����������āB
+ドレスがあらしのような呼吸で上がり下がりするほど
+息づかいが早くて。
 It was like the ardor of a lover;
-����͗��l�̔M��̂悤�������B
+それは恋人の熱情のようだった。
 it embarrassed me;
-���ꂪ�������点���B
+それが私を困らせた。
 it was hateful and yet over-powering;
-���ꂪ���₾����������ɂ�������炸���Ȃ�Ȃ������B
+それがいやだったがそれにもかかわらずかなわなかった。
 and with gloating eyes
-���ꂩ�炳�����������Ȗڂ���
+それからさも満足そうな目つきで
 she drew me to her,
-�ޏ��͎��������̕��ֈ����񂹂āA
+彼女は私を自分の方へ引き寄せて、
 and her hot lips traveled along my cheek in kisses;
-���ꂩ�炭���Â��̊Ԃɔޏ��̔M�������т邪���̂ق��ɉ����Đi�񂾁B
+それからくちづけの間に彼女の熱いくちびるが私のほおに沿って進んだ。
 and she would whisper,
-�����Ĕޏ��́A
+そして彼女は、
 almost in sobs,
-�قƂ�ǋ������Ⴍ���āA
+ほとんど泣きじゃくって、
 "You are mine,
-�u���Ȃ��͎��̂��̂ł��A
+「あなたは私のものです、
 you *shall* be mine,
-���Ȃ������̂��̂ɂ��܂��A
+あなたを私のものにします、
 you and I are one for ever."
-���Ȃ��Ǝ��͂��܂ł���̂ł��v�A�Ƃ����₭�̂������B
+あなたと私はいつまでも一体です」、とささやくのだった。
 Then she had thrown herself back in her chair,
-���ꂩ��ޏ���
+それから彼女は
 with her small hands over her eyes,
-�����ȗ���ŗ��ڂ��������āA
+小さな両手で両目をおおって、
 leaving me trembling.
-���̐k���Ă���̂�����Ă����Ȃ���A�����̈��y�֎q�̒��łǂ��ƌ��ɂ�����Ă����B
+私の震えているのを放っておきながら、自分の安楽椅子の中でどっと後ろにもたれていた。
 
 "Are we related,"
-�u���B�͐e�ނł����v�ƁA
+「私達は親類ですか」と、
 I used to ask;
-���͖₤�̂���ł������B
+私は問うのが常であった。
 "what can you mean by all this?
-�u��̂���ɂ���ĉ����Ӗ����邱�Ƃ��ł���̂ł����B
+「一体これによって何を意味することができるのですか。
 I remind you perhaps of someone whom you love;
-���͂Ђ���Ƃ���Ƃ��Ȃ��������邾�ꂩ���v���o������̂�������܂���B
+私はひょっとするとあなたが愛するだれかを思い出させるのかもしれません。
 but you must not,
-�����������܂���A
+しかしいけません、
 I hate it;
-���͂��ꂪ���炢�ł��B
+私はそれがきらいです。
 I don't know you--
-���͂��Ȃ��ƒm�����ł͂���܂���\�\
+私はあなたと知合いではありません――
 I don't know myself when you look so and talk so."
-���Ȃ������̏�ԂɌ����Ă����Ă���ȕ��Ɍ�鎞�̎��Ƃ͒m�����ł͂���܂���B�v
+あなたがその状態に見えてそしてそんな風に語る時の私とは知合いではありません。」
 
 She used to sigh at my vehemence,
-�ޏ��͎��̌����������Ă��ߑ������A
+彼女は私の激しさを見てため息をつき、
 then turn away and drop my hand.
-���ꂩ�炷��������ނ��Ď��̎����藎���̂���ł������B
+それからすぐ顔をそむけて私の手を取り落すのが常であった。
 
-�������ɕ�������Ă��鎞�̃g���C���C�g���݂�����
-�����܂���
-�t�ɂȂ��Ă�A���Ă����̂́A�J�[�~���Ƃ͋t�ɂȂ��Ă�A
-�Ƃ����W���[�N�ł�����̂ł��ˁA�����c
-���w�I���c������Ƃ��̓������͕|�����邯�ǁc
+灯ちゃんに抱きつかれている時のトワイライト氏みたいで
+うけますね
+逆になってる、っていうのは、カーミラとは逆になってる、
+というジョークでもあるのですね、多分…
+文学的だ…ちょっとこの灯ちゃんは怖すぎるけど…
 
-���@����.
+文法メモ.
 she would press me more closely in her trembling embrace
-�Ō��in�͒������Ԃ�\���p�@�ł͂Ȃ����Ǝv���B
-"In" �� "During" �� lifetime �ꐶ, absence �s��, illness �a�C, reign ����, ����
-�P��Ƌ��ɗp������B
-**In** ��*�����̏��*�ɒ��ӂ𑣂��A
-�P��̕��������̊��Ԃ͈͓̔��ɋ��R�N���鎞�ɕ��ʗp������B
-Some one called *in* your absence. ���ꂩ�����Ȃ��̕s�ݒ��ɓd�b�������܂�����B
-**During* �͕����̏�Ԃ��킽���Ă���*����*�ɒ��ӂ𑣂��A
-���̕��������̊��Ԃ͈͓̔��ɋ��R�N���鎞���A
-Many things happened *during* your absence. ���Ȃ��̂��Ȃ��Ԃ͂����Ȏ�������܂�����B
-�܂��͉��������̊��Ԓ������Ƒ������ɕ��ʗp������B
-Who took your place *during* your absence? ���Ȃ��̂��Ȃ��Ԃ͒N�����Ȃ��̐Ȃɂ����̂��B
-���̏ꍇ���A�ߏ삪�k���ĕ��i����ԂɁA��w��������Ǝ�l����������߂��A
-�Ƃ����Ӗ����Ǝv���B
-���̍s�� in soft kisses �������ŁA�����Ƃ��������Â��̊ԂɁB
-�����Ƃ��m���ɂ��̊Ԃ̗ߏ�̏�Ԃɒ��ӂ�������Ă���B
-�܂����̌�ɏo�Ă���
+最後のinは長い時間を表す用法ではないかと思う。
+"In" と "During" は lifetime 一生, absence 不在, illness 病気, reign 治世, 等の
+単語と共に用いられる。
+**In** は*物事の状態*に注意を促し、
+単一の物事がその期間の範囲内に偶然起こる時に普通用いられる。
+Some one called *in* your absence. だれかがあなたの不在中に電話をかけましたよ。
+**During* は物事の状態がわたっている*時間*に注意を促し、
+数個の物事がその期間の範囲内に偶然起こる時か、
+Many things happened *during* your absence. あなたのいない間はいろんな事がありましたよ。
+または何かがその期間中ずっと続く時に普通用いられる。
+Who took your place *during* your absence? あなたのいない間は誰があなたの席にいたのか。
+今の場合も、令嬢が震えて抱擁する間に、一層しっかりと主人公を抱きしめた、
+という意味だと思う。
+次の行の in soft kisses も同じで、そっとしたくちづけの間に。
+両方とも確かにその間の令嬢の状態に注意が促されている。
+またその後に出てくる
 I had no distinct thoughts about her
 while such scenes lasted
-�ł́Awhile �� during the time that �̈Ӗ��ŁA
-����������ʂ������Ԃ́A�ޏ��ɂ��Ă͂�����Ǝv�����͂Ȃ������A
-�ƁA�m���ɏ�ʂ��������Ԃɒ��ӂ�������Ă���Ǝv���B
-�i��ɏ����Ă��鎖���ڂ��肵�Ă���B
-�͂�����v�����͂Ȃ������Ƃ��A�����Ȏ����������Ƃ��B�j
+では、while は during the time that の意味で、
+そういう場面が続く間は、彼女についてはっきりと思う所はなかった、
+と、確かに場面が続く時間に注意が促されていると思う。
+（後に書いてある事がぼんやりしている。
+はっきり思う所はなかったとか、いろんな事があったとか。）
 which were not of very frequent occurrence
-�`�e������ "Of."�\�\
-���̌`�e����� "Of" �ɂ���ē������B
-A gem *of price* = a precious gem ���l�̂���i�����ȁj���
-�`�e����͌��莌�Ƃ��Ă����q���Ƃ��Ă�������ł��p���鎖���ł���B
-���莌.
-This is a matter *of great importance*. ����͏d��Ȏ������B
-���q��.
-The matter is *of great importance*. ���̎��͏d�傾�B
-���̏ꍇ���ƁAof frequent occurrence �ŁA���΂��΋N��A�Ƃ����Ӗ��B
-very �͔ے��Ƌ��ɗp���āA�]��A���قǁA�債��...�ł͂Ȃ��A�Ƃ����Ӗ�������A
-����͗]��悭���邱�Ƃł͂Ȃ���������ǂ��B
+形容詞性の "Of."――
+大抵の形容詞句は "Of" によって導かれる。
+A gem *of price* = a precious gem 価値のある（高価な）宝石
+形容詞句は限定詞としても叙述詞としてもいずれでも用いる事ができる。
+限定詞.
+This is a matter *of great importance*. これは重大な事柄だ。
+叙述詞.
+The matter is *of great importance*. その事は重大だ。
+今の場合だと、of frequent occurrence で、しばしば起る、という意味。
+very は否定語と共に用いて、余り、さほど、大して...ではない、という意味だから、
+それは余りよくあることではなかったけれども。
 from which I only seemed to recover myself when she withdrew her arms
-���� only �͉����C�����Ă��āA�ǂ������Ӗ��Ȃ̂��B
-�����̈ʒu.
-�����̔z�u�͉p�앶�ł̍ő�̍���̈�ł���B
-�����łقƂ�ǂǂ�Ȉʒu�ł����镛��������A
-�Ӗ��̑傫�ȈႢ�����ɂ͕����̎��ʒu�ɂ���ĕ\�킳���B
-�ŗǂ̉�@�͕������C�����������̒P���
-�ł��邾���߂��z�u����Ƃ������ł���B
-"Only" �̈ʒu.
-�P�� "only" �̈ʒu�͓��ʂȒ��ӂ�K�v�Ƃ���B
-���`�����N����Ȃ��悤�ɂ��邽�߂ɗp�S���K�v�ł���B
-�ŗǂ̎��H�I�ȉ�@�͏C�����������̒P��܂��͌�Q��
-���O�ɔz�u����Ƃ������ł���B
-���̌����ɏ]���čl����ƁA���� only �� seemed ���C�����Ă���A
-�ƍl����̂��ǂ������Ȃ̂ŁA
-���͔ޏ����r���������߂��������������琳�C�ɗ����Ԃ�C�����邾���������A
-�Ɩ󂵂��B
-����͑O����
-���̍s���͂͂����Ƃ������ɖ��ɗ����Ȃ��悤�������A
-�Ƃ������e�ɂ������Ă���B
+この only は何を修飾していて、どういう意味なのか。
+副詞の位置.
+副詞の配置は英作文での最大の困難の一つである。
+文中でほとんどどんな位置でも取れる副詞もあり、
+意味の大きな違いが時には副詞の取る位置によって表わされる。
+最良の解法は副詞を修飾させるつもりの単語に
+できるだけ近く配置するという事である。
+"Only" の位置.
+単語 "only" の位置は特別な注意を必要とする。
+多義性が起こらないようにするために用心が必要である。
+最良の実践的な解法は修飾させるつもりの単語または語群の
+直前に配置するという事である。
+この原則に従って考えると、今の only は seemed を修飾している、
+と考えるのが良さそうなので、
+私は彼女が腕を引っ込めた時ただそこから正気に立ち返る気がするだけだった、
+と訳した。
+これは前文の
+私の行動力はいざという時に役に立たないようだった、
+という内容にも合っている。
 I now write
-���ݕs�莞�� (I *write*, I *go*) ��
-���N���Ă��铮���\�����߂ɂ͂߂����Ɏg��ꂸ�A
-���̖ړI�ł͌��ݐi�s�`���g����B
-�i�m�肵��������\���Ȃ����߁A
-�P���`�⊮�������͕s�莞���Ƒ��̂����̂ł���B
-�t�ɐi�s�`�̎����m�肵��������\�����ߒ莞���Ƃ����B�j
-���ݕs�莞�������̈Ӗ��Ŏg�����́A
-�ςĂ���l����O�Ɍ����鎖�����q���鎞�ł���B
-There *comes* my brother. ���̌Z�����܂����B
-����� I write �́A���������������Ă���̂ɁA
-�T�ώ҂̂悤�ɏq�ׂĂ��鎖�ɂȂ邪�A
-����͂��ꂪ�ǎ҂�z�肵�����͂�����ŁA
-�ǎ҂��ǂގ��A���������������Ă���Ƃ�����ʂ�
-�ςĂ���A�]���Ă����ł̊ςĂ���l�A�Ƃ����̂́A
-��̓ǎ҂̎��ł͂Ȃ����Ǝv���B
+現在不定時制 (I *write*, I *go*) は
+今起っている動作を表すためにはめったに使われず、
+その目的では現在進行形が使われる。
+（確定した時期を表さないため、
+単純形や完了時制は不定時制と総称されるのである。
+逆に進行形の事を確定した時期を表すため定時制という。）
+現在不定時制をこの意味で使う一例は、
+観ている人が眼前に見える事を叙述する時である。
+There *comes* my brother. 私の兄が来ました。
+今回の I write は、自分が字を書いているのに、
+傍観者のように述べている事になるが、
+それはこれが読者を想定した文章だからで、
+読者が読む時、今私が字を書いているという場面を
+観ている、従ってここでの観ている人、というのは、
+後の読者の事ではないかと思う。
 that are 
 of all others the most vaguely and dimly remembered
-�܂� that �͊֌W�㖼���ŁA
-���̐߂����̈Ӗ����l����΁A
-�����
-��؂̒��ł��ł��΂��R�Ƃ����Ă������ɂ����v���o����Ȃ�
-�Ƃ����Ӗ��ɂȂ邾�낤�B
-�����āAthat �̐�s���͖ܘ_
-certain emotional scenes �����̎��I�ȏ��
-�̎����낤�B
-����ƁA����͂��������������A�񐧌��p�@��that
-���낤�Ǝv����̂ŁA
-�����Ă���́c�v���o����Ȃ��A�Ɩ󂵂��B
+まず that は関係代名詞で、
+この節だけの意味を考えれば、
+それは
+一切の中でも最もばく然とそしてかすかにしか思い出されない
+という意味になるだろう。
+そして、that の先行詞は勿論
+certain emotional scenes ある種の主情的な場面
+の事だろう。
+すると、これはいつかもあったが、非制限用法のthat
+だろうと思われるので、
+そしてそれは…思い出されない、と訳した。
 renewed again and again
-�܂��Arenew�͑�����������A
-����͎󓮑Ԃ̕����\�����낤�B
-��������ƁA�Ӗ���̎��͎啶�̎�ꂾ����A
+まず、renewは他動詞だから、
+これは受動態の分詞構文だろう。
+そうすると、意味上の主語は主文の主語だから、
 and she was renewed again and again
-�Ƃ����悤�ȈӖ��ɂȂ�B
-�]����renew�͐��_�I�ɐ��܂�ς点��A
-�Ƃ����Ӗ��ł͂Ȃ����Ǝv���B
-�������Ȏ��̌�ɁA�Ə����Ă���̂ŁB
-����Ɣޏ��͊��x����݂��������A
-�Ɩ󂵂��B
+というような意味になる。
+従ってrenewは精神的に生まれ変らせる、
+という意味ではないかと思う。
+無感動な時の後に、と書いてあるので。
+すると彼女は幾度もよみがえった、
+と訳した。
 Then she had thrown herself back in her chair,
 with her small hands over her eyes,
 leaving me trembling.
-�ߋ����������́A���铮����
-���炩�̖��m�ɋL���ꂽ�ߋ��̎����̑O��
-�������Ă��邱�Ƃ�\���B
-(a) ���̖��m�ɋL���ꂽ������
-���ʁA�K���ł͂Ȃ����A
-���̓����ɂ���ĕ\����A����͉ߋ������ɂȂ�B
-���̎��ߋ������͂��̓������A
-������̉ߋ������ɂ���ĕ\����铮������
-**���ԓI�ɑO**�ł��邱�Ƃ�\���B
-*�ߋ������ɂ���ĕ\����铮����
-�ߋ��ɂ���ĕ\����铮�����N��O��
-�������Ă���*�B
-I *found* the watch I **had lost**. ���͂Ȃ����Ă����������v��{���o�����B
-(b) ���ԓI�ɑO�ł��邱�Ƃ�\���̂ɉ����āA
-�ߋ������͂��΂���*��v�ȓ���*�i�ߋ��ŕ\�����j��
-**���ʊ֌W������I�Ȋ֌W**
-�ɂ���B
-I *was* very hungry. ���͂܂��Ƃɋ󕠂������B
-I **had eaten nothing** all day. ����������H�ׂĂ��Ȃ���������B
-(c) �P�Ɏ��ԓI�ɑO�ł��邱�Ƃɉ����āA
-�ߋ������͑����ċN�铮���̎����ɂ�����
-**�����̏��**��\�����Ƃ��ł���B
-���̏ꍇ�A�ߋ������ɂ͉ߋ������̑�����傪����B
-I **had eaten** something *before dinner*. �ӎ`�̑O�ɂ�����ƐH�ׂĂ����B
-(Therefore I *felt* no appetite at dinner. �䂦�ɐH�����ɂ͐H�~�������Ȃ������B
-�ӎ`�̎����ɂ�����A�󕠂ł͂Ȃ��Ƃ�����Ԃ�\���Ă���B)
-�ł́A����̏ꍇ�A�܂����m�ɋL���ꂽ�����Ƃ͂ǂ�̂��Ƃ��낤���B
-�����炭 leaving me trembling ���A
-when she left me trembling ���̐k���Ă���̂�����Ă����Ȃ���
-�̕����\���Ȃ̂ŁA���� leaving ���낤�Ǝv���B
-����ƁAhad thrown herself back in her chair
-�i�����̈��y�֎q�̒��łǂ��ƌ��ɂ������A�Ƃ����Ӗ��j
-��(c)�̉ߋ������ł͂Ȃ����Ǝv���B
-�P�ɐ�ɂ�����āA���̌�����Ă������A�Ƃ��������ł͂Ȃ��āA
-�����Ă��������́A�ޏ��̏�ԁi��ŗ��ڂ𕢂��Ĉ֎q�̒��Ō��ɂ�����Ă���A
-�䂦�Ɏ��̕��ɉ������ӂ𕥂�Ȃ������j
-��\���Ă���̂ł͂Ȃ����낤���B
-����ŁA
-���̐k���Ă���̂�����Ă����Ȃ���A�����̈��y�֎q�̒��łǂ��ƌ��ɂ�����Ă���
-�Ɩ󂵂��B
+過去完了時制は、ある動きが
+何らかの明確に記された過去の時刻の前に
+完了していることを表す。
+(a) その明確に記された時刻は
+普通、必ずではないが、
+他の動詞によって表され、それは過去時制になる。
+その時過去完了はその動きが、
+もう一つの過去時制によって表される動きよりも
+**時間的に前**であることを表す。
+*過去完了によって表される動きは
+過去によって表される動きが起る前に
+完了している*。
+I *found* the watch I **had lost**. 私はなくしていた懐中時計を捜し出した。
+(b) 時間的に前であることを表すのに加えて、
+過去完了はしばしば*主要な動き*（過去で表される）と
+**因果関係や説明的な関係**
+にある。
+I *was* very hungry. 私はまことに空腹だった。
+I **had eaten nothing** all day. 一日中何も食べていなかったから。
+(c) 単に時間的に前であることに加えて、
+過去完了は続いて起る動きの時刻における
+**物事の状態**を表すことができる。
+この場合、過去完了には過去時制の相当語句がある。
+I **had eaten** something *before dinner*. 晩餐の前にちょっと食べていた。
+(Therefore I *felt* no appetite at dinner. ゆえに食事中には食欲を感じなかった。
+晩餐の時刻における、空腹ではないという状態を表している。)
+では、今回の場合、まず明確に記された時刻とはどれのことだろうか。
+おそらく leaving me trembling が、
+when she left me trembling 私の震えているのを放っておきながら
+の分詞構文なので、この leaving だろうと思う。
+すると、had thrown herself back in her chair
+（自分の安楽椅子の中でどっと後ろにもたれる、という意味）
+は(c)の過去完了ではないかと思う。
+単に先にもたれて、その後放っておいた、というだけではなくて、
+放っておいた時の、彼女の状態（手で両目を覆って椅子の中で後ろにもたれている、
+ゆえに私の方に何も注意を払わなかった）
+を表しているのではないだろうか。
+それで、
+私の震えているのを放っておきながら、自分の安楽椅子の中でどっと後ろにもたれていた
+と訳した。
 what can you mean by all this?
-����mean�͈Ӗ�����A...�̂���Ō����A�Ƃ����Ӗ��ŁA
-What do you mean? ���ƁA
+このmeanは意味する、...のつもりで言う、という意味で、
+What do you mean? だと、
 What do you mean by behaving like that? 
-����ȕ��ɐU�镑�����ɂ���ĉ����Ӗ����Ă���̂��A
-�Ȃ�����Ȃ��Ƃ�����̂��A�Ƃ����Ӗ��B
-���̏ꍇ���A��̂���ɂ���ĉ����Ӗ����邱�Ƃ��ł���̂ł����A
-�Ƃ����Ӗ����낤�B
+そんな風に振る舞う事によって何を意味しているのか、
+なぜそんなことをするのか、という意味。
+今の場合も、一体これによって何を意味することができるのですか、
+という意味だろう。
 I don't know myself when you look so and talk so
-�܂��Aknow�́A�O����I don't know you�Ɠ����ŁA
-...�ƒm�����ł���Ƃ����Ӗ����낤�Ǝv���B
-���͎��ƒm�����ł͂Ȃ��A�Ƃ́A�ߏ삪�v���o���Ă��鎞�̎����́A
-��l���Ǝ����N���Ȃ̂ŁA
-���̐l�Ƃ͒m�����ł͂Ȃ��A�Ƃ����������Ȃ̂��낤�B
-����ƁAwhen�͊֌W�����ŁA�ߏ삪�v���o���Ă��鎞�́i�����j
-�Ƃ������ɁA
+まず、knowは、前文のI don't know youと同じで、
+...と知合いであるという意味だろうと思う。
+私は私と知合いではない、とは、令嬢が思い出している時の自分は、
+主人公と似た誰かなので、
+その人とは知合いではない、という言い方なのだろう。
+すると、whenは関係副詞で、令嬢が思い出している時の（自分）
+という風に、
 myself (on the occasion) when you look so and talk so
-���Ȃ������̏�ԂɌ����Ă����Ă���ȕ��Ɍ�鎞�̎��Ƃ�
-�ƁA�ȗ����ꂽ��s���� occasion (�����)�ꍇ�A���A
-���C�����Ă��鐧���I�p�@�Ȃ̂ł͂Ȃ����Ǝv���̂ŁA
-���̂悤�ɖ󂵂��B
-�܂��A�ߏ삩�猩�������A�Ƃ����Ӗ��ŁA
-������莄�̕����ǂ��̂ł͂Ȃ����Ǝv���A���̂悤�ɂ����B
+あなたがその状態に見えてそしてそんな風に語る時の私とは
+と、省略された先行詞の occasion (特殊の)場合、時、
+を修飾している制限的用法なのではないかと思うので、
+そのように訳した。
+また、令嬢から見た自分、という意味で、
+自分より私の方が良いのではないかと思い、そのようにした。
