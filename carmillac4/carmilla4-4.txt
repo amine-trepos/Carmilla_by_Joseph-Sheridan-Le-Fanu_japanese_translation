@@ -1,182 +1,189 @@
-Carmilla 4.4. 4�͑���
+/*  [amine, translation of chapter4-4, 2020.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 4.4. 4章続き
 Respecting these very extraordinary manifestations
-�����̂܂��Ƃɐq��łȂ��\���ɂ���
+これらのまことに尋常でない表明について
 I strove in vain to form any satisfactory theory--
-���͉������傤�ǂ悢�l�����܂Ƃ߂悤�Ɠw�͂��������߂������\�\
+私は何かちょうどよい考えをまとめようと努力したがだめだった――
 I could not refer them to affectation or trick.
-�����͑������邢�͈��v�̂��߂��Ƃ͌����Ȃ������B
+それらは装いあるいは悪計のためだとは言えなかった。
 It was unmistakably the momentary breaking out of suppressed instinct and emotion.
-����͊ԈႦ�悤���Ȃ��}�����ꂽ�{���Ɗ���̂��̂܂̖\���������B
+それは間違えようもなく抑圧された本性と感情のつかのまの暴発だった。
 Was she,
-�ޏ��́A
+彼女は、
 notwithstanding her mother's volunteered denial,
-�ޏ��̕ꂪ�����I�ɐ\���o���ے�ɂ�������炸�A
+彼女の母が自発的に申し出た否定にもかかわらず、
 subject to brief visitations of insanity;
-�Z���Ԃ̐��_�ُ�̏P�����󂯂₷�������̂��B
+短時間の精神異状の襲来を受けやすかったのか。
 or was there here a disguise and a romance?
-���邢�͂��̎��Ɋւ��Ă͉����Ɨ����������������̂��B
+あるいはこの事に関しては仮装と恋愛事件があったのか。
 I had read in old storybooks of such things.
-���͌Â����Ƃ��b�̖{�̒��ł���Ȏ�����ǂ�Œm���Ă����B
+私は古いおとぎ話の本の中でそんな事柄を読んで知っていた。
 What if a boyish lover had found his way into the house,
-���N�炵�����l��
+少年らしい恋人が
 and sought to prosecute his suit in masquerade,
 with the assistance of a clever old adventuress.
-�����ȘV���R�t�̏��͂ŁA
-�Ƃ̒��ւ͂����čs���āA
-���������ċ��������݂��Ƃ�����
-�ǂ��Ȃ��Ă������낤�B
+利口な老女山師の助力で、
+家の中へはいって行って、
+仮装をして求婚を試みたとしたら
+どうなっていただろう。
 But there were many things against this hypothesis,
-���������̉����ɔ����鎖�����������񂠂����A
+しかしこの仮説に反する事柄がたくさんあった、
 highly interesting as it was to my vanity.
-�����Ƃ�����͎��̋��h�S�ɂƂ��Ă͔��ɋ������N������̂��������B
+もっともそれは私の虚栄心にとっては非常に興味を起させるのだったが。
 
 I could boast of no little attentions
-����
+私は
 such as masculine gallantry delights to offer.
-�j�q�́i�w�l�ɑ΂���j���炪�S���獷���o���悤�ȏ��Ȃ���ʐS�s�����ɂ��Ď����ł����B
+男子の（婦人に対する）慇懃が心から差し出すような少なからぬ心尽くしについて自慢できた。
 Between these passionate moments
-�����̊���Ɏx�z����鎞�̊Ԃɂ�
+これらの感情に支配される時の間には
 there were long intervals of commonplace, of gaiety, of brooding melancholy,
-���}�ȁA�y�����A�䂤���̂����Ɨ������߂钷���x�~���Ԃ����������A
+平凡な、楽しい、ゆううつのそっと立ちこめる長い休止期間があったが、
 during which,
-���̊Ԃ́A
+その間は、
 except that I detected her eyes so full of melancholy fire, following me,
-�ޏ��̖ڂ��A���߂����΂̂悤�ȋP���ɂЂǂ������Ă��āA����ǂ��Ă���̂����������Ƃ������΁A
+彼女の目が、物悲しい火のような輝きにひどく満ちていて、私を追っているのを見つけたことを除けば、
 at times I might have been as nothing to her.
-���X���Ȃ񂩔ޏ��ɂƂ��Ă͂��邢�͉��ł��Ȃ��悤��������������Ȃ��B
+時々私なんか彼女にとってはあるいは何でもないようだったかもしれない。
 Except in these brief periods of mysterious excitement
-�����̕s���ȋ����̒Z���Ԃ̊��ԈȊO��
+これらの不可解な興奮の短時間の期間以外は
 her ways were girlish;
-�ޏ��̗��V�͏����̂悤�������B
+彼女の流儀は少女のようだった。
 and there was always a languor about her,
-�����Ĕޏ��ɂ͏��
+そして彼女には常に
 quite incompatible with a masculine system in a state of health.
-���N��Ԃɂ����Ēj���Ƃ͑S��������Ȃ��A���ӂ��������B
+健康状態において男説とは全く相いれない、倦怠があった。
 
 In some respects
-�����炩�̓_�ɂ�����
+いくらかの点において
 her habits were odd.
-�ޏ��̏K���͕��ς肾�����B
+彼女の習慣は風変りだった。
 Perhaps not so singular in the opinion of a town lady like you,
-��������͂��Ȃ��̂悤�Ȓ����̏i���̍l���ł́A
+多分それはあなたのような町中の淑女の考えでは、
 as they appeared to us rustic people.
-���B�����Ԃ̐l�X�𖳍�@�Ȑl�X�Ǝv���قǂɂ́A�ς���Ă��Ȃ������̂����m��܂���B
+私達が世間の人々を無作法な人々と思うほどには、変わっていなかったのかも知れません。
 She used to come down very late, generally not till one o'clock,
-�ޏ��͑傻���������A���ʈꎞ�ɂȂ��Ă���ƐQ������H���֍~��ė���̂���ł������A
+彼女は大そうおそく、普通一時になってやっと寝室から食堂へ降りて来るのが常であった、
 she would then take a cup of chocolate,
-�ޏ��͂��ꂩ��`���R���[�g��������t���ނ��A
+彼女はそれからチョコレート飲料を一杯飲むが、
 but eat nothing;
-�����H�ׂȂ��̂������B
+何も食べないのだった。
 we then went out for a walk,
-��X�͂��ꂩ��U���ɂł��������A
+我々はそれから散歩にでかけたが、
 which was a mere saunter,
-����͂ق�̂Ԃ�Ԃ�����ɉ߂��Ȃ������̂����A
+それはほんのぶらぶら歩きに過ぎなかったのだが、
 and she seemed,
-����Ɣޏ��́A
+すると彼女は、
 almost immediatedly,
-�قƂ�ǒ����ɁA
+ほとんど直ちに、
 exhausted,
-���؂����炵���āA
+疲れ切ったらしくて、
 and either returned to the schloss
-�V�����X�ɋA�邩
+シュロスに帰るか
 or sat on one of the benches that were placed, here and there, among the trees.
-�����炱����ɁA�؁X�̊Ԃɒu���ꂽ�x���`�̈�Ɋ|���邩�̂ǂ��炩�������B
+あちらこちらに、木々の間に置かれたベンチの一つに掛けるかのどちらかだった。
 This was a bodily languor in which her mind did not sympathize.
-����͔ޏ��̐��_�Ƃ͈�v���Ȃ��g�̏�̌��ӂ������B
+これは彼女の精神とは一致しない身体上の倦怠だった。
 She was always an animated talker,
-�ޏ��͏�Ɋ����Șb����ŁA
+彼女は常に活発な話し手で、
 and very intelligent.
-�����ɗ���͂��s�������B
+かつ非常に理解力が鋭かった。
 
 She sometimes alluded for a moment to her own home,
-�ޏ��͂��܂ɂ�����Ƃ̊Ԏ������g�̉ƂɌ��y�����A
+彼女はたまにちょっとの間自分自身の家に言及した、
 or mentioned an adventure or situation, or an early recollection,
-���Ȃ킿�����⋫���A���邢�͂܂��N���̍��̉�z�ɋ��R�����y�񂾂��A
+すなわち珍事や境遇、あるいはまだ年少の頃の回想に偶然言い及んだが、
 which indicated a people of strange manners,
-�����͌������������Ƃ̂Ȃ������l���̖������Î����A
+それらは見聞きしたことのない生活様式の民族を暗示し、
 and described customs of which we knew nothing.
-���B�������m��Ȃ����K��`�ʂ����B
+私達が何も知らない風習を描写した。
 I gathered from these chance hints
-�����̋��R�̈Î�����@�����
+これらの偶然の暗示から察すると
 that her native country was much more remote than I had at first fancied.
-�ޏ��̐����͎����ŏ��z���ɕ`���Ă���������قǉ����炵�������B
+彼女の生国は私が最初想像に描いていたよりもよほど遠方らしかった。
 
-���@����.
+文法メモ.
 What if a boyish lover had found his way into the house
-what if �́A���ʂ́A
-...�Ƃ�����ǂ��Ȃ邾�낤
-what would happen if...�̗��ŁA
-��� what would happen �͏����@�����A
-����if�߂�����̏ꍇ�́Awould �͌��݂̔ے��\��
-�i�����͂����ł͂Ȃ����j...�Ƃ�����ǂ��Ȃ邾�낤�A
-�Ƃ����Ӗ��B
-�������A����if�߂�����@�ߋ�������
-�ߋ��̎����̔��΂́A�S���̉����\������A
+what if は、普通は、
+...としたらどうなるだろう
+what would happen if...の略で、
+主節 what would happen は条件法未来、
+続くif節が仮定の場合は、would は現在の否定を表し
+（現実はそうではないが）...としたらどうなるだろう、
+という意味。
+しかし、今はif節が仮定法過去完了で
+過去の事実の反対の、全くの仮定を表すから、
 What would have happened if...
-�ƁA��߂������@����(������ߋ��̔ے�̈Ӗ����܂�)�ɂȂ�A
-�i�����͂����ł͂Ȃ��������j...�������Ƃ�����
-�ǂ��Ȃ��Ă������낤�A(�{���͕ʂɂǂ����Ȃ�Ȃ��������B)
-�Ƃ����Ӗ����낤�B
-���N�炵�����l���i�����̏����ŁA����́j�Ƃ̒��ւ͂����čs�����Ƃ�����
-�i���ۂɂ͂����ł͂Ȃ������̂����j
-�ǂ��Ȃ��Ă������낤�A�Ɩ󂵂��B
-a boyish lover �Ƃ������ɁAthe �ł͂Ȃ��A�s����̐l����\���Ă��邩��A
-��̓I�ɂ��̕���ł͂����������A�ƌ����Ă���킯�ł͂Ȃ��B
-�ł͂ǂ������Ӗ����낤���B��������̍s��
+と、主節も条件法完了(これも過去の否定の意味を含む)になり、
+（事実はそうではなかったが）...だったとしたら
+どうなっていただろう、(本当は別にどうもならなかったが。)
+という意味だろう。
+少年らしい恋人が（魔女の助けで、相手の）家の中へはいって行ったとしたら
+（実際にはそうではなかったのだが）
+どうなっていただろう、と訳した。
+a boyish lover という風に、the ではなく、不特定の人物を表しているから、
+具体的にあの物語ではそうだった、と言っているわけではない。
+ではどういう意味だろうか。それを次の行の
 in masquerade
-�ƍ��킹�čl����B
-����͉��ʉ�ŁA�Ƃ����Ӗ����Ƃ���� a masquerade �ƂȂ�Ȃ��Ă͂Ȃ�Ȃ����낤����A
-����́i���ʉ�ɗp����j���������āA�Ƃ����Ӗ����Ǝv���B
-�]���āA�O���́u�����Ɨ��������v�Ƃ����̂́A
-�ߏ�̕�e�𖼏��l���͎��͗����ȘV���R�t a clever old adventuress �ł���A
-�ߏ�͎��͎����������鏭�N a boyish lover ���������Ă����̂ł͂Ȃ����A
-�Ƃ���������Ӗ����Ă���̂��낤�B
-the �ł͂Ȃ��A�s�芥�� a ���g���Ă���̂��A
-���N��R�t�̐��̂�m��Ȃ�����ł��낤�B
-����̕���̒��̐l���ł͂Ȃ��A
-���炭�����̗ߏ�Ƃ��̕�e�̎��������Ă��镶�͂ł���B
-masquerade ���ʉ�ł̉����A�Ƃ����̂��A
-���Ƃ��b�̓��e��z�N�����Ǝv���邪�A
-�i�����ȘV���R�t�͂��Ƃ��b�Ō����Ɩ������������낤�j
-�����ł͌����̗ߏ�̎��������Ă���ƍl������̂ŁA
-���ʉ�Ƃ������t�͏o�����A�����Ƃ����������B
-����@�ߋ������ŁA�����͂����ł͂Ȃ��������A�Ƃ����Ӗ��ɂȂ��Ă���̂́A
-�i������������͂��蓾�邯��ǂ��A�j
-���̕��ŁA���ۂɂ͂��̉���͐������Ȃ��悤���A
-�Ƃ�������������Ă��邩��ł���B
-���ۂɂ͗ߏ삪���N�̕ϑ����Ƃ͎v���Ȃ��������A��e���U���Ƃ��v���Ȃ������A
-�Ƃ��������낤�B
+と合わせて考える。
+これは仮面会で、という意味だとすれば a masquerade とならなくてはならないだろうから、
+これは（仮面会に用いる）仮装をして、という意味だと思う。
+従って、前文の「仮装と恋愛事件」というのは、
+令嬢の母親を名乗る人物は実は利口な老女山師 a clever old adventuress であり、
+令嬢は実は自分を愛する少年 a boyish lover が仮装していたのではないか、
+という仮定を意味しているのだろう。
+the ではなく、不定冠詞 a が使われているのも、
+少年や山師の正体を知らないからであろう。
+特定の物語の中の人物ではなく、
+恐らく現実の令嬢とその母親の事を言っている文章である。
+masquerade 仮面会での仮装、というのが、
+おとぎ話の内容を想起したと思われるが、
+（利口な老女山師はおとぎ話で言うと魔女だっただろう）
+ここでは現実の令嬢の事を言っていると考えられるので、
+仮面会という言葉は出さず、仮装とだけ書いた。
+仮定法過去完了で、事実はそうではなかったが、という意味になっているのは、
+（そういう仮定はあり得るけれども、）
+次の文で、実際にはその仮定は正しくないようだ、
+という事が書かれているからである。
+実際には令嬢が少年の変装だとは思われなかったし、母親が偽物とも思われなかった、
+という事だろう。
 highly interesting as it was to my vanity
-�ڑ�����as�ɂ͏����̈Ӗ�������A
-Young as he is (=Though he is young), �N�͎Ⴂ��
-he is able. �q�r��
-���̌`�� as young as he is �ނقǎႭ���āA�̋����I�ȗ�����N�������B
-�]���āA�����
+接続詞のasには譲歩の意味もあり、
+Young as he is (=Though he is young), 年は若いが
+he is able. 敏腕だ
+この形は as young as he is 彼ほど若くして、の強調的省略から起こった。
+従って、今回も
 though it was highly interesting to my vanity
-����͎��̋��h�S�ɂƂ��Ă͔��ɋ������N������̂�������
+それは私の虚栄心にとっては非常に興味を起させるのだったが
 Perhaps not so singular in the opinion of a town lady like you,
 as they appeared to us rustic people.
-��s�ڂ� 
+一行目は 
 it was not so singular in the opinion of a town lady...,
 as they appeared to us...
-���B�ɂ�...�Ǝv����قǁA
-����i�ޏ��̏K���j�͒����̏i���̍l���ł͕ς���Ă��Ȃ����������m��Ȃ��A
-�̏ȗ����Ǝv���B
-habits�͕����Ȃ̂ŁA���̈�s�ڂ��{���Ȃ�� they were �ɂȂ�͂��ŁA
-��s�ڂ�they�͐��Ԃ̐l�X�Ƃ����S���ʂ̈Ӗ��Ŏg���Ă���̂ŁA
-����Ƃ̍���������邽�߂ɏȗ�����Ă���̂�������Ȃ��B
-��s�ڂ� they ���邢�� rustic people �͕���������A
-��s�ڂ� a town lady �̎��ł͂Ȃ��B
-�������B�i�X�̒��ɏZ��ł���j�ɂƂ��Ă� they �ƌ�����������A
-���Ԃ̐l�X�A�Ƃ����Ӗ����Ǝv���B
-���B�����Ԃ̐l�X�𖳍�@�Ȑl�X�Ǝv���قǂɂ́A�ς���Ă��Ȃ������̂�������Ȃ��A
-�Ɩ󂵂��B
+私達には...と思われるほど、
+それ（彼女の習慣）は町中の淑女の考えでは変わっていなかったかも知れない、
+の省略だと思う。
+habitsは複数なので、この一行目も本当ならば they were になるはずで、
+二行目のtheyは世間の人々という全く別の意味で使われているので、
+それとの混乱を避けるために省略されているのかもしれない。
+二行目の they あるいは rustic people は複数だから、
+一行目の a town lady の事ではない。
+多分私達（森の中に住んでいる）にとっての they と言う事だから、
+世間の人々、という意味だと思う。
+私達が世間の人々を無作法な人々と思うほどには、変わっていなかったのかもしれない、
+と訳した。
 a bodily languor in which her mind did not sympathize
-sympathize�͈�v����Ƃ����Ӗ����낤����A
+sympathizeは一致するという意味だろうから、
 her mind did not sympathize with the bodily languor
-�ޏ��̐��_�͂��̐g�̏�̌��ӂƂ͈�v���Ȃ�����
-���֌W�߂ɂȂ����`���Ǝv�����A
-�`�ƈ�v����A�� sympathize with �Ȃ̂ŁA
-�Ȃ�with which�ł͂Ȃ��A
-in which�ɂȂ��Ă���̂��͂悭�킩��Ȃ������B
-�ޏ��̐��_�Ƃ͈�v���Ȃ��g�̏�̌��ӁA�Ɩ󂵂��B
+彼女の精神はその身体上の倦怠とは一致しなかった
+が関係節になった形だと思うが、
+～と一致する、は sympathize with なので、
+なぜwith whichではなく、
+in whichになっているのかはよくわからなかった。
+彼女の精神とは一致しない身体上の倦怠、と訳した。
