@@ -1,195 +1,202 @@
-Carmilla 4.8. 4�͑���
+/*  [amine, translation of chapter4-8, 2022.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 4.8. 4章続き
 "See here,
-�u�����A
+「もし、
 my lady,"
-����l�v�ƁA
+お嬢様」と、
 he said,
-�ނ́A
+彼は、
 displaying it,
-����������т炩���A
+それを見せびらかしつつ、
 and addressing me,
-���ɘb���|���Č������A
+私に話し掛けて言った、
 "I profess,
-�u���́A
+「私は、
 among other things less useful,
-����قǖ��ɗ����Ȃ����Ƃ͑��ɂ����邪�A
+それほど役に立たないことは他にもあるが、
 the art of dentistry.
-���Ȉ�p���ƂƂ���̂ł��B
+歯科医術を業とするのです。
 Plague take the dog!"
-���̌��̂��ꂿ�܂��I�v��
+この犬のろわれちまえ！」と
 he interpolated.
-�ނ͂����͂��񂾁B
+彼はさしはさんだ。
 "Silence,
-�u�ق�A
+「黙れ、
 beast!
-�₩�܂����I
+やかましい！
 He howls so that your ladyships can scarcely hear a word.
-�ނ����ڂ�����̂Ō�ߏ���͂قƂ�ǈꌾ���������܂���ł��傤�B
+彼が遠ぼえするので御令嬢方はほとんど一言も聞こえませんでしょう。
 Your noble friend,
-���Ȃ��̍��M�Ȃ��F�l�A
+あなたの高貴なご友人、
 the young lady at your right,
-���Ȃ��̉E�ɂ��������邨��l�́A
+あなたの右にいらっしゃるお嬢様は、
 has the sharpest tooth, --
-���̏�Ȃ��s�������i�������͈̂�{�����j�����Ă�������Ⴂ�܂��ȁ\�\
+この上なく鋭い歯を（見えたのは一本だけ）持っていらっしゃいますな――
 long, thin, pointed,
-�����A�ׂ��A�悪�Ƃ����Ă��āA
+長く、細く、先がとがっていて、
 like an awl,
-�i�����Ȃǂ��p����j�˂�����̂悤�ŁA
+（くつ屋などが用いる）突きぎりのようで、
 like a needle;
-�D�j�̂悤���B
+縫針のようだ。
 ha, ha!
-�͂́I
+はは！
 With my sharp and long sight,
-���̉s�q�������܂œ͂����͂ŁA
+私の鋭敏かつ遠くまで届く視力で、
 as I look up,
-���グ�܂������A
+見上げました時、
 I have seen it distinctly;
-���͂�����͂����茩�Ă��܂��܂����B
+私はそれをはっきり見てしまいました。
 now if it happens to hurt the young lady,
-�����ł������ꂪ�Ђ���Ƃ��Ă���l��ɂ��ڂɂ��킹��Ȃ�΁A
+そこでもしそれがひょっとしてお嬢様を痛い目にあわせるならば、
 and I think it must,
-�����Ď����v���ɂ����ɈႢ�Ȃ��̂ł����A
+そして私が思うにそうに違いないのですが、
 here am I,
-�����Ɏ�������܂��A
+ここに私がおります、
 here are my file,
-�����Ɏ��̂₷�肪�A
+ここに私のやすりが、
 my punch,
-���̌������킪�A
+私の穴あけ器が、
 my nippers;
-���̂���Ƃ�������܂��B
+私のやっとこがあります。
 I will make it round and blunt,
-���͂�����ۂ����݂����č����グ�܂��傤�A
+私はそれを丸くかつ鈍くして差し上げましょう、
 if her ladyship pleases;
-������ߏ삪�����������Ǝv����̂Ȃ�΁B
+もし御令嬢がそうしたいと思われるのならば。
 no longer the tooth of a fish,
-���͂⋛�̎��ł͂Ȃ��A
+もはや魚の歯ではなく、
 but of a beautiful young lady as she is.
-���邪�܂܂̔���������l�̎��ɁB
+あるがままの美しいお嬢様の歯に。
 Hey?
-�w�C�H
+ヘイ？
 Is the young lady displeased?
-����l�͂��C�ɓ���Ȃ������̂ł��傤���H
+お嬢様はお気に入らなかったのでしょうか？
 Have I been too bold?
-���͏o����΂肷�����̂ł��傤���H
+私は出しゃばりすぎたのでしょうか？
 Have I offended her?"
-�ޏ��̂��C�ɂ�������̂ł��傤���H�v
+彼女のお気にさわったのでしょうか？」
 
 The young lady,
-����l�́A
+お嬢様は、
 indeed,
-���ہA
+実際、
 looked very angry as she drew back from the window.
-������ނ������Ђǂ����킢������Ă����B
+窓から退いた時ひどくこわい顔をしていた。
 
 "How dares that mountebank insult us so?
-�u�悭�����̂₵�͎��B�����̂悤�ɕ��J�ł�����̂��B
+「よくもあのやしは私達をこのように侮辱できるものだ。
 Where is your father?
-���Ȃ��̂����l�͂ǂ��ł����B
+あなたのお父様はどこですか。
 I shall demand redress from him.
-���͔ނ��狸����v�����鎖�ɂȂ�B
+私は彼から矯正を要求する事になる。
 My father would have had the wretch tied up to the pump,
-���̕��������Ȃ�΂��̒p�m�炸�����̃|���v�ɔ���t�������A
+私の父だったならばあの恥知らずをあのポンプに縛り付けさせ、
 and flogged with a cart whip,
-���ꂩ��הn�Ԃ̔n�����g�������ނ��Ō������ł����A
+それから荷馬車の馬方が使う太いむちで激しく打たせ、
 and burnt to the bones with the cattle brand!"
-���ꂩ�狍�ɉ����Ĉ�ō��܂ŏĂ����Ă�I�v
+それから牛に押す焼印で骨まで焼かせてる！」
 
 She retired from the window a step or two,
-�ޏ��͑���������ނ��āA
+彼女は窓から一二歩退いて、
 and sat down,
-���ꂩ�炷����āA
+それからすわって、
 and had hardly lost sight of the offender,
-�����Ċ�����Q�����҂���������������Ȃ����̂����ɁA
+そして感情を害した者を見失うか見失わないかのうちに、
 when her wrath subsided as suddenly as it had risen,
-�ޏ��̌��{�͌������Ȃ����̂Ɠ����ʂɂ킩�ɂ����܂�A
+彼女の激怒は激しくなったのと同じ位にわかにおさまり、
 and she gradually recovered her usual tone,
-���ꂩ��ޏ��͎���ɕ��f�̒��q�����߂��āA
+それから彼女は次第に平素の調子を取り戻して、
 and seemed to forget the little hunchback and his follies.
-���̂��킢�����Ȃ��ނ��Ɣނ̋��s��Y�ꂽ�悤�������B
+そのかわいそうなせむしと彼の愚行を忘れたようだった。
 
 My father was out of spirits that evening.
-���̕��͂��̔ӂ��傰�Ă����B
+私の父はあの晩しょげていた。
 On coming in he told us
-�͂����ė���Ƃ����ނ���X�ɕ񂶂�������
+はいって来るとすぐ彼が我々に報じた事だが
 that there had been another case very similar to the two fatal ones which had lately occurred.
-���̂���N��������̒v���I�ȏǗ�ƑS�����l�̂�������������Ƃ������������B
+このごろ起こった二つの致命的な症例と全く同様のがもう一つあったという事だった。
 The sister of a young peasant on his estate, only a mile away,
-��������}�C���s�������́A�ނ̒n���̎Ⴂ����l�̎o�����A
+たった一マイル行った所の、彼の地所の若い小作人の姉妹が、
 was very ill,
-�傻�������񂪈����A
+大そうかげんが悪く、
 had been,
 as she described it,
-�ޏ������̎����q�ׂ��̂Ɠ��l�A
+彼女がその事を述べたのと同様、
 attacked very nearly in the same way,
-�S���قƂ�Ǔ������ɏP��ꂽ���������āA
+全くほとんど同じ風に襲われた事があって、
 and was now slowly but steadily sinking.
-���������肵���������ɐ��サ�Ă����B
+今やゆっくりしかし着実に衰弱していた。
 
 "All this,"
-�u����͑S���A�v
+「これは全部、」
 said my father,
-�Ǝ��̕��͌������A
+と私の父は言った、
 "is strictly referable to natural causes.
-�u���R�I�Ȍ����ɒf�R�A���邱�Ƃ��ł���B
+「自然的な原因に断然帰することができる。
 These poor people infect one another with their superstitions,
-�����̕s�K�Ȑl�X�݂͌��Ɏ����B�̖��M���ې��������̂ŁA
+これらの不幸な人々は互いに自分達の迷信を鼓吹し合うので、
 and so repeat in imagination the images of terror that have infested their neighbors."
-�ߗׂ̐l�X���P�������|�̐S�ۂ���z�̓��ɌJ��Ԃ��̂��B�v
+近隣の人々を襲った恐怖の心象を空想の内に繰り返すのだ。」
 
 "But that very circumstance frightens one horribly,"
-�u���������ɂ���Ȏ����̍ו����l�����̂������т����肳������̂ł��A�v
+「しかし正にそんな事柄の細部が人をものすごくびっくりさせるものです、」
 said Carmilla.
-��Carmilla�͌������B
+とCarmillaは言った。
 
 "How so?" inquired my father.
-�u�ǂ����Ă����Ȃ̂��B�v�Ǝ��̕��͐q�˂��B
+「どうしてそうなのか。」と私の父は尋ねた。
 
 "I am so afraid of fancying I see such things;
-�u���͂���Ȃ��̂������C������̂ł͂Ȃ����Ǝ��ɐS�z�ł��B
+「私はそんなものを見た気がするのではないかと実に心配です。
 I think it would be as bad as reality."
-�v���ɂ���͌����Ɠ����ʂ����������ł��傤�ˁB�v
+思うにそれは現実と同じ位たちが悪いでしょうね。」
 
 "We are in God's hands:
-�u��X�͐_�ɉ^���������Ă���B
+「我々は神に運命を握られている。
 nothing can happen without his permission,
-�������ނ̋��Ȃ��ɂ͋N���肦���A
+何事も彼の許可なしには起こりえず、
 and all will end well for those who love him.
-�܂����ׂĂ̂��ڂ��߂��͔ނ�������l�̂��߂ɏI��肪�ǂ��Ȃ�B
+またすべてのおぼしめしは彼を愛する人のために終わりが良くなる。
 He is our faithful creator;
-�ނ͉�X�̐M�`�����n���҂��B
+彼は我々の信義を守る創造者だ。
 He has made us all,
-�ނ͉�X�F������Ă���̂ł���A
+彼は我々皆を作っているのであり、
 and will take care of us."
-�����ĉ�X�̂߂�ǂ������邾�낤�B�v
+そして我々のめんどうを見るだろう。」
 
 
-���@����.
+文法メモ.
 Plague take the dog!
-������ take �����`�ɂȂ��Ă���B
-����́A
-God *bless* you! ���Ȃ��̏�ɐ_�l�̂݌b�݂���񂱂Ƃ�
-�Ɠ�����ނ̕\���B
-*May* Heaven protect you! ���Ȃ��ɓV�̂����삪����܂��悤��
-�̂悤�ȕ\���́A
-may���ȗ�����Ă���Ƃ��l������B
-���̏ꍇ�� may �͎��̑O�ɒu���A
-�F��E��]�E�̂낢��\���B
-���̎��� plague �ŁA
-�_�̂�����ɂ��̂낢��\���Ă���B
-Plague take it! ���܂��܂����I
-�Ƃ����\���Ɠ����B
-�]���āAmay �����čl���āA
-May plague take the dog! ���̌��̂��ꂿ�܂��I
-�Ɩ󂵂��B 
+動詞の take が原形になっている。
+これは、
+God *bless* you! あなたの上に神様のみ恵みあらんことを
+と同じ種類の表現。
+*May* Heaven protect you! あなたに天のご加護がありますように
+のような表現の、
+mayが省略されているとも考えられる。
+この場合の may は主語の前に置き、
+祈願・願望・のろいを表す。
+今の主語は plague で、
+神のたたりによるのろいを表している。
+Plague take it! いまいましい！
+という表現と同じ。
+従って、may を補って考えて、
+May plague take the dog! この犬のろわれちまえ！
+と訳した。 
 as I look up, I have seen it distinctly
-look �����ݎ����ɂȂ��Ă���̂͂Ȃ��Ȃ̂��B
-���ݕs�莞���́A���낢���k�b�̂ł́A
-"say," "tell," "hear," "be told," "write," "read," "forget," �ȂǂŁA
-���݊��������̑���ɗp������B
+look が現在時制になっているのはなぜなのか。
+現在不定時制は、くつろいだ談話体では、
+"say," "tell," "hear," "be told," "write," "read," "forget," などで、
+現在完了時制の代わりに用いられる。
 I have just received your publisher's catalogue,
 and *find* that your new grammar is out.
-���Ȃ��̏o�ŏ��X�̃J�^���O�����������󂯎�����΂���ł����A
-���Ȃ��̐V�������@�����o�Ă��邱�Ƃ�m��܂����B
-�]���āA���̂��A
-as I have looked up, ���グ�����A
-�Ƃ����Ӗ����Ǝv���B
+あなたの出版書店のカタログをたった今受け取ったばかりですが、
+あなたの新しい文法書が出ていることを知りました。
+従って、今のも、
+as I have looked up, 見上げた時、
+という意味だと思う。
