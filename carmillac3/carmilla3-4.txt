@@ -1,217 +1,224 @@
-Carmilla 3.4. 3�͑���
+/*  [amine, translation of chapter3-4, 2019.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 3.4. 3章続き
 For my part,
-���Ƃ��ẮA
+私としては、
 I was delighted.
-���ł����B
+喜んでいた。
 I was longing to see and talk to her;
-���͔ޏ����������Ęb���������������B
+私は彼女を見舞って話しかけたかった。
 and only waiting till the doctor should give me leave.
-�����Ă��肻�����Ȃ�����ǈ�t������^���Ă����܂ł����҂��Ă����B
+そしてありそうもないけれど医師が許可を与えてくれるまでただ待っていた。
 You,
-���Ȃ����́A
+あなた方は、
 who live in towns,
-�����ɏZ��ł��邩��A
+町中に住んでいるから、
 can have no idea how great an event the introduction of a new friend is, in such a solitude as surrounded us.
-��X����芪���悤�Ȑl�����ꂽ�ꏊ�ŁA�V�����F�������Љ��鎖���ǂ�Ȃɏd��Ȏ������킩�肦�Ȃ��̂ł��B
+我々を取り巻くような人里離れた場所で、新しい友だちを紹介される事がどんなに重大な事件かわかりえないのです。
 
 The doctor did not arrive till nearly one o'clock;
-��t�͂��ꂱ��1���܂Ō���Ȃ������B
+医師はかれこれ1時まで現れなかった。
 but I could no more have gone to my bed and slept,
-���������͐Q���ɍs���Ė��鎖�͂ł��������Ȃ������Ƃ�����ł͂Ȃ��A
+しかし私は寝床に行って眠る事はできたがしなかったという訳ではない、
 than I could have overtaken, on foot, 
-����͓k���ŁA
+それは徒歩で、
 the carriage in which the princess in black velvet had driven away.
-���F�̃x���x�b�g�𒅂����ݕv�l������ċ������n�Ԃɒǂ����������Ȃ������Ƃ�����łȂ��̂Ɠ������B
+黒色のベルベットを着た公爵夫人が駆って去った馬車に追いつけたがしなかったという訳でないのと同じだ。
 
 When the physician came down to the drawing room,
-���Ȉオ�q�Ԃɍ~��ė������A
+内科医が客間に降りて来た時、
 it was to report very favorably upon his patient.
-����͔ނ̊��҂ɂ��Ĕ��ɏ����ƕ񍐂��邽�߂������B
+それは彼の患者について非常に順調と報告するためだった。
 She was now sitting up,
-�ޏ��͍���N�������Ă��āA
+彼女は今や起き直っていて、
 her pulse quite regular,
-���͑S�������A
+脈は全く平脈、
 apparently perfectly well.
-�����Ƃ���ł͂������茒�N�������ƁB
+見たところではすっかり健康だったと。
 She had sustained no injury,
-�ޏ��͉��畉�����󂯂Ă��Ȃ��āA
+彼女は何ら負傷を受けていなくて、
 and the little shock to her nerves had passed away quite harmlessly.
-�_�o�ւ̏����ȏՌ��͑S�����Q�ɏ��ł��Ă��܂����ƁB
+神経への小さな衝撃は全く無害に消滅してしまったと。
 There could be no harm certainly in my seeing her, if we both wished it;
-��������l�Ƃ����]�ނȂ�΁A�ԈႢ�Ȃ������ޏ��ɉ���Ă��������Ƃ͂��낤�͂����Ȃ������B
+もし我ら二人ともが望むならば、間違いなく私が彼女に会っても悪いことはあろうはずがなかった。
 and, with this permission
-�����āA�����������ނ���
+そして、許しをこうむって
 I sent, forthwith, to know whether she would allow me
-���́A�����ɁA�ޏ���
+私は、直ちに、彼女が
 to visit her for a few minutes in her room.
-�����ԕ����ɍs���̂������ĉ����邩�ǂ�����m�邽�ߎg����������B
+数分間部屋に行くのを許して下さるかどうかを知るため使いをやった。
 
 The servant returned immediatedly to say
-�ق��l��
+雇い人は
 that she desired nothing more.
-�ޏ��͂��̏�Ȃ��]��ł���ƌ����ɂ������܋A���ė����B
+彼女はこの上なく望んでいると言いにすぐさま帰って来た。
 
 You may be sure I was not long in availing myself of this permission.
-�����������̋����������ɗ��p�������͊ԈႢ�Ȃ��Ƃ��l���ł��傤�B
+多分私がこの許しをすぐに利用した事は間違いないとお考えでしょう。
 
 Our visitor lay in one of the handsomest rooms in the schloss.
-�킪�؍݋q�̓V�����X�̒��ň�Ԍ����ȕ����̈�ɉ�������Ă����B
+わが滞在客はシュロスの中で一番見事な部屋の一つに横たわっていた。
 It was, perhaps, a little stately.
-�����́A�Ђ���Ƃ���ƁA����������������������Ȃ��B
+そこは、ひょっとすると、少し荘厳だったかもしれない。
 There was a somber piece of tapestry opposite the foot of the bed,
-�Q��̑����̌��������ɂ����񂾃^�y�X�g���[�������āA
+寝台の足部の向こう側にくすんだタペストリーがあって、
 representing Cleopatra with the asps to her bosom;
-�����Cleopatra�����ɃG�W�v�g�R�u���i�����C�ACleopatra�����E�ɗp�����j�𓖂ĂĂ��鏊��`�������̂������B
+それはCleopatraが胸にエジプトコブラ（複数匹、Cleopatraが自殺に用いた）を当てている所を描いたものだった。
 and other solemn classic scenes were displayed,
-�����đ��̑����ŌÓT�I�ȏ�ʂ�
+そして他の荘厳で古典的な場面は
 a little faded, upon the other walls.
-���̑��̕ǂɁA�����F�������āA�����Ă����B
+その他の壁に、少し色があせて、飾られていた。
 But there was gold carving, and rich and varied color enough
-������
+しかし
 in the other decorations of the room,
-�����̂��̑��̑������ɂ́A
+部屋のその他の装飾物には、
 to more than redeem the gloom of the old tapestry.
-�Â��^�y�X�g���[�̈Â�������ė]�肠��A���F�̒�����A�N�₩�ŗl�X�ȍʐF���{���Ă������B
+古いタペストリーの暗がりを補って余りある、金色の彫刻や、鮮やかで様々な彩色が施してあった。
 
 There were candles at the bedside.
-�܂�����Ƃɂ͂낤�������������B
+まくらもとにはろうそくがあった。
 She was sitting up;
-�ޏ��͋N�������Ă����B
+彼女は起き直っていた。
 her slender pretty figure enveloped in the soft silk dressing gown,
-�ޏ��̂₹�`�̂��킢�炵���p��
+彼女のやせ形のかわいらしい姿は
 embroidered with flowers,
-�Ԍ`���D����肳��āA
+花形が縫い取りされて、
 and lined with thick quilted silk,
-�c�����Ďh���q�ɖD��ꂽ�������z�̗�������ꂽ�A�Ȃ߂炩�Ȍ��̉��ϒ��ɕ�܂�Ă������A
+芯を入れて刺し子に縫われた厚い絹布の裏がつけられた、なめらかな絹の化粧着に包まれていたが、
 which her mother had thrown over her feet
-�Ƃ����̂͂����ޏ��̕�e��
+というのはそれを彼女の母親が
 as she lay upon the ground.
-�ޏ����n�ʂɉ�������������Ɉ������Ԃ��Ă�������B
+彼女が地面に横たわった時足に引っかぶせていたから。
 
 What was it that, 
 as I reached the bedside and had just begun my little greeting,
-�܂�����Ƃɒ����ĒZ�����������n�߂��΂���̎��A
+まくらもとに着いて短いあいさつを始めたばかりの時、
 struck me dumb in a moment,
-�����܂����������Ƌ������āA
+たちまち私をあっと驚かせて、
 and made me recoil a step or two from before her?
-�ޏ��̖ʑO��������ザ���肳�������͉����������H
+彼女の面前から一二歩後じさりさせた事は何だったか？
 I will tell you.
-���b���܂��B
+お話します。
 
 
-���@����.
+文法メモ.
 till the doctor should give me leave
-�܂� leave �͒u���čs���� leave �Ƃ͌ꌹ�I�ɕʂ̌��t�ŁA
-�����A���Ƃ����Ӗ��B
-give leave to do... ...���鋖��^����B
-to do �ȉ��̉��̋����͂킩���Ă���̂ŁA
+まず leave は置いて行くの leave とは語源的に別の言葉で、
+許し、許可という意味。
+give leave to do... ...する許可を与える。
+to do 以下の何の許可かはわかっているので、
 (to see and talk to her)
-������Ă��Ȃ��̂��Ǝv���B
-should �͉���@�����Ƃ����`�B
-����@�����͑S�Ă̐l�̂ŏ����� "should" �ɂ���č���A
-���������ĂɂȂ�Ȃ��Ƃ����b�҂̐S�I�ԓx�������B
-����@�Ȃ̂ŁA�]���� till �ȉ��Ŏg���Ă���B
-��߂̓����͕��ʂ̌`���A�����@�ɂȂ邪�A
-�����ł� I was waiting till... ...�܂ő҂��Ă����A�Ƃ������ʂ̌`�B
-�����Ɋւ��Č��y���鉼��@�ɂ͉���@���݂Ƃ����`������A
-��������ĂɂȂ�Ȃ����Ƃ��������A
-���̉���@������ "should" ��ǉ����Ă��ĂɂȂ�Ȃ����Ƃ�
-�������āA���̏��������N��[����]�������Ȃ��A�Ƃ�������\�킷�B
-����@������ "if," "lest," "till," "that" �̌�̏]���߂Ŏg����B
+書かれていないのだと思う。
+should は仮定法未来という形。
+仮定法未来は全ての人称で助動詞 "should" によって作られ、
+未来があてにならないという話者の心的態度を示す。
+仮定法なので、従属節 till 以下で使われている。
+主節の動詞は普通の形か、条件法になるが、
+ここでは I was waiting till... ...まで待っていた、という普通の形。
+未来に関して言及する仮定法には仮定法現在という形もあり、
+それもあてにならないことを示すが、
+今の仮定法未来は "should" を追加してあてにならないことを
+強調して、その条件がより起り[あり]そうもない、という事を表わす。
+仮定法未来は "if," "lest," "till," "that" の後の従属節で使われる。
 He was cast into prison till he should pay his debt.
-�ނ͂��肻�����Ȃ��������؋����x�����܂œ������ꂽ�B
-�����ł́i���Ȃ��Ƃ��V�����X�ɓ��������_�ł́j�ߏ�̏�Ԃ͗ǂ��Ȃ������̂ŁA
-��t���ʉ�������Ă���鎖�͂��肻�����Ȃ��A�Ƃ����b�҂̔��f�A�S�I�ԓx��
-����@�ŕ\������Ă���̂��Ǝv���B
-����ŁA���肻�����Ȃ�����ǈ�t������^���Ă����܂ŁA�Ɩ󂵂��B
+彼はありそうもない事だが借金を支払うまで投獄された。
+ここでは（少なくともシュロスに入った時点では）令嬢の状態は良くなかったので、
+医師が面会を許してくれる事はありそうもない、という話者の判断、心的態度が
+仮定法で表現されているのだと思う。
+それで、ありそうもないけれど医師が許可を与えてくれるまで、と訳した。
 You,
 who live in towns,
 can have no idea...
-�񐧌��p�@�̊֌W�㖼���͐ڑ����Ƒ㖼���ɕ�������ƍl���邱�Ƃ��ł���B
-I will employ Mr. A, ����A�����ق����肾�A
-who (=for he) is proficient in English. ������ނ͉p�ꂪ���\������B
-�ڑ����͐F�X�l�����邪�A�����ł�
-since you live in towns  ���Ȃ����͒����ɏZ��ł��邩��
-�Ƃ����Ӗ����Ǝv���B
-since �͕����ŗp���āA�b�҂ƕ����藼�������ɒm���Ă��鎖����
-���R�Ƃ��ė^������̂ŁA
-Since you say so, I suppose it is true. �N��������������A����͐^���Ȃ̂��Ǝv���B
-because �͕����肪�܂��m��Ȃ������◝�R���q�ׂ邽�߂Ɏg����B
+非制限用法の関係代名詞は接続詞と代名詞に分けられると考えることもできる。
+I will employ Mr. A, 私はA氏を雇うつもりだ、
+who (=for he) is proficient in English. 何しろ彼は英語が堪能だから。
+接続詞は色々考えられるが、ここでは
+since you live in towns  あなた方は町中に住んでいるから
+という意味だと思う。
+since は文頭で用いて、話者と聞き手両方が既に知っている事実を
+理由として与えるもので、
+Since you say so, I suppose it is true. 君がそういうから、それは真実なのだと思う。
+because は聞き手がまだ知らない原因や理由を述べるために使われる。
 Because it is an area of outstanding natural beauty, you can't build on it.
-�����͌����Ȏ��R�̔��ς̂���n��Ȃ̂ŁA�Ƃ����Ă邱�Ƃ͂ł��܂���B
+そこは顕著な自然の美観のある地域なので、家を建てることはできません。
 I could no more have gone to my bed and slept,
 than I could have overtaken, on foot, 
 the carriage in which the princess in black velvet had driven away.
-�܂�no more���Ȃ���΁A
-could have done�͉\�@�ߋ������Ƃ����`�ŁA
-was able to, but did not do �ł��������Ȃ������A�Ƃ����Ӗ��B
+まずno moreがなければ、
+could have doneは可能法過去完了という形で、
+was able to, but did not do できたがしなかった、という意味。
 I could have gone to my bed and slept
-�Q���ɍs���Ė��鎖�͂ł��������Ȃ�����
-������X�ɔے肷��ƁA
-�ł��������Ȃ������A�Ƃ�����ł͂Ȃ��A���Ȃ킿���Ȃ��������ł��Ȃ������A�Ƃ����Ӗ��ɂȂ�B
+寝床に行って眠る事はできたがしなかった
+それを更に否定すると、
+できたがしなかった、という訳ではない、すなわちしなかったしできなかった、という意味になる。
 I could not have gone to my bed and slept
-�Q���ɍs���Ė��鎖�͂��Ȃ��������ł��Ȃ������B
-no more...than...��...�łȂ��̂�...�łȂ��Ɠ����A�Ƃ����Ӗ��B
-�O�s�ڂ̊֌W�߂͌��� drive away in the carriage �Ƃ����`�̂͂��ŁA
-drive in a carriage �n�Ԃōs���A�� drive away ����ċ���A��
-�g�ݍ��킳��Ă���̂ł͂Ȃ����Ǝv���B
-�n�Ԃ�����ċ���A�Ɩ󂵂��B
-�S�����܂Ƃ߂�ƁA
-���͐Q���ɍs���Ė��鎖�͂ł��������Ȃ������Ƃ�����ł͂Ȃ��A
-����͓k���ŁA
-���F�̃x���x�b�g�𒅂����ݕv�l������ċ������n�Ԃɒǂ����������Ȃ������Ƃ�����łȂ��̂Ɠ������B
-�ƂȂ邪�A���鎖�͂ƂĂ��ł��Ȃ������A�Ƃ��������������Ă���̂��Ǝv���B
+寝床に行って眠る事はしなかったしできなかった。
+no more...than...は...でないのは...でないと同じ、という意味。
+三行目の関係節は元は drive away in the carriage という形のはずで、
+drive in a carriage 馬車で行く、と drive away 駆って去る、が
+組み合わされているのではないかと思う。
+馬車を駆って去る、と訳した。
+全部をまとめると、
+私は寝床に行って眠る事はできたがしなかったという訳ではない、
+それは徒歩で、
+黒色のベルベットを着た公爵夫人が駆って去った馬車に追いつけたがしなかったという訳でないのと同じだ。
+となるが、眠る事はとてもできなかった、という事を強調しているのだと思う。
 When the physician came down to the drawing room,
 it was to report very favorably upon his patient.
-��s�ڂ� it was to �͂ǂ������Ӗ����Ƃ����������A
-�������ꂪ be to �̌`���Ƃ���ƁA�\�薽�ߋ`���^���\
-���̈Ӗ��͂��܂�Ȃ����������A
-�܂� it reported �Ƃ����`�����ɂȂ��Ă��鎖�ɂȂ�A
-it �͓��Ȉ��\���Ȃ��Ă͂Ȃ�Ȃ����炨�������B
-It is reported that... ...�Ƃ����b���A�Ƃ����`�����邪�A
-���̏ꍇ it was to be reported �ƂȂ�Ȃ��Ƃ����Ȃ��̂ł��������B
-�]���� be to �̌`�ł͂Ȃ��Ato �ȉ��͖ړI�̕s�莌�B
-�ނ̊��҂ɂ��Ĕ��ɏ����ƕ񍐂��邽�߂ɁB
-�ړI�̕s�莌�͂ǂ�ȓ����̌�ŗp���Ă��ǂ����A
-�^���̎������̌�ŗp�����鎖����ԑ����B
-come to report �񍐂��邽�߂ɗ���
-����it�͈�s�ڂ̓��Ȉオ�~��ė��������w���̂ŁA
-he came down to the drawing room to report... �ނ͕񍐂��邽�߂ɋq�Ԃɍ~��ė����A
-�Ƃ����Ӗ���̌`�ł���Ύ��R�����A
-it is �̌�ɖړI�̕s�莌���Ȃ��ėǂ��̂��͂悭�킩��Ȃ������B
-�܂����̌�̓񕶂͗ߏ�̏�Ԃ����ۂɏ�����Ă���̂ŁA
-�񍐂����i���̕��j���񍐂̓��e�i��̓񕶁j�A�Ƃ����`�̎O���ɂȂ��Ă���̂��Ǝv���B
+二行目の it was to はどういう意味かという事だが、
+もしこれが be to の形だとすると、予定命令義務運命可能
+等の意味はあまりなさそうだし、
+また it reported という形が元になっている事になり、
+it は内科医を表さなくてはならないからおかしい。
+It is reported that... ...という話だ、という形もあるが、
+その場合 it was to be reported とならないといけないのでおかしい。
+従って be to の形ではなく、to 以下は目的の不定詞。
+彼の患者について非常に順調と報告するために。
+目的の不定詞はどんな動詞の後で用いても良いが、
+運動の自動詞の後で用いられる事が一番多い。
+come to report 報告するために来る
+今のitは一行目の内科医が降りて来た事を指すので、
+he came down to the drawing room to report... 彼は報告するために客間に降りて来た、
+という意味上の形であれば自然だが、
+it is の後に目的の不定詞をつなげて良いのかはよくわからなかった。
+またこの後の二文は令嬢の状態が実際に書かれているので、
+報告した（この文）→報告の内容（後の二文）、という形の三文になっているのだと思う。
 with this permission
 I sent, forthwith, to know whether she would allow me
-�܂���������send�́A�g�������Ƃ����Ӗ��B
-���̕��Ŏg���̐l���Ԏ��������ċA���Ă��Ă���B
-would�͊Ԑڋ^���whether�ȉ��̖����ߓ��ŉߋ��`�ɂȂ��Ă��āA
-�Ӗ��Ƃ��Ă�will�̈Ӗ����Ǝv���B
-He asked whether he could help. ����`���ł��܂��傤���Ɛq�˂�
-����Ɠ������Ǝv���B
-�������Ƃ���ƁAwill�͓����̌��f��\���Ӗ��ŁA
-Will you pass me the salt? ���̉����������։񂵂ĉ������܂���
-��������������A�˗��ɂ����ẮA���́u������v�Ƃ���������will�̈Ӗ����Ǝv���B
-�����ĉ����邩�ǂ����A�Ɩ󂵂��B
-with this permission�͂��̋����𓾂āA�Ƃ������ŁA
-�g���𑗂��Ă��ǂ��ƈ�t���猾��ꂽ�A�Ƃ����Ӗ����Ǝv�����A
-�ǂ�������Ȃ������B
+まず自動詞のsendは、使いをやるという意味。
+次の文で使いの人が返事を持って帰ってきている。
+wouldは間接疑問のwhether以下の名詞節内で過去形になっていて、
+意味としてはwillの意味だと思う。
+He asked whether he could help. お手伝いできましょうかと尋ねた
+これと同じだと思う。
+そうだとすると、willは動作主の決断を表す意味で、
+Will you pass me the salt? その塩をこっちへ回して下さいませんか
+今回もそうだが、依頼においては、この「下さる」という部分がwillの意味だと思う。
+許して下さるかどうか、と訳した。
+with this permissionはこの許しを得て、という事で、
+使いを送っても良いと医師から言われた、という意味かと思うが、
+良く分からなかった。
 there was gold carving, and rich and varied color enough
 in the other decorations of the room,
 to more than redeem the gloom of the old tapestry.
-�܂�enough to... ��...����̂ɏ\���ɁB
-was ���C�����ď\���ɂ������A�Ƃ��������ł͂Ȃ����Ǝv���B
-more than �͌`�e���E�����E�����E�����Ȃǂ̑O�ɓY����...�ȏ�́A�Ƃ����Ӗ��B
-He has more than repaid my kindness. ���̐e�؂ɕ񂢂�ȏ�̂��Ƃ����Ă��ꂽ
-�Â��^�y�X�g���[�̈Â����₤�ȏ�̂��Ƃ�����̂ɏ\���ɁA�Ƃ����`�Ȃ̂ŁA
-����ė]�肠��A�Ɩ󂵂��B
+まずenough to... で...するのに十分に。
+was を修飾して十分にあった、という副詞ではないかと思う。
+more than は形容詞・副詞・動詞・名詞などの前に添えて...以上の、という意味。
+He has more than repaid my kindness. 私の親切に報いる以上のことをしてくれた
+古いタペストリーの暗がりを補う以上のことをするのに十分に、という形なので、
+補って余りある、と訳した。
 soft silk dressing gown, ... which her mother had thrown over her feet
-���̉��ϒ��ɕ�܂�Ă������A����͔ޏ��̕�e���|�����A�Ƃ����`������A
-which�ȉ��͂Ȃ������������ϒ��𒅂Ă���̂��̗��R���q�ׂĂ���̂��Ǝv���B
-�񐧌��p�@�̊֌W���͐ڑ����Ƒ㖼���ƍl���ėǂ��̂���������A
-�ڑ����Ƃ��Ă͌ォ��v������������ǉ�����for���ǂ��Ǝv���B
-�Ƃ����͔̂ޏ��̕�e���|��������B
+絹の化粧着に包まれていたが、それは彼女の母親が掛けた、という形だから、
+which以下はなぜそうした化粧着を着ているのかの理由を述べているのだと思う。
+非制限用法の関係詞は接続詞と代名詞と考えて良いのだったから、
+接続詞としては後から思いついた説明を追加するforが良いと思う。
+というのは彼女の母親が掛けたから。
 recoil a step or two from before her
-�O�u��from����before her���X�Ɏx�z���A
-from before �ƑO�u������d�ɂȂ��Ă���B
-�ʑO����A�Ƃ����Ӗ����Ǝv���B
+前置詞fromが句before herを更に支配し、
+from before と前置詞が二重になっている。
+面前から、という意味かと思う。
