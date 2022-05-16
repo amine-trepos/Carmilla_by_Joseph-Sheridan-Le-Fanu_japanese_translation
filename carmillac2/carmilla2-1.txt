@@ -1,142 +1,149 @@
-Carmilla 2.1. Chapter 2 2��
-A Guest �����ꂽ�q
+/*  [amine, translation of chapter2-1, 2018.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 2.1. Chapter 2 2章
+A Guest 招かれた客
 I am now going to tell you something so strange
-���Ď���
+さて私は
 that it will require all your faith in my veracity to believe my story.
-���̘b��{�����Ǝv���ɂ͎��̐���������������M����K�v�����邾�낤�قǊ�Ȃ��Ƃ�ł������悤�Ǝv���Ă���B
+私の話を本当だと思うには私の正直さをあらん限り信じる必要があるだろうほど奇妙なことを打ち明けようと思っている。
 It is not only true, nevertheless,
-����ł��A����͐^���Ȃ΂���łȂ��A
+それでも、それは真実なばかりでなく、
 but truth of which I have been an eyewitness.
-�܂������ڌ��҂ł���Ƃ���̐^���ł�����B
+また私が目撃者であるところの真実でもある。
 
 It was a sweet summer evening,
-����͉����Ă̔ӂŁA
+それは快い夏の晩で、
 and my father asked me,
-���͎��ɁA
+父は私に、
 as he sometimes did,
-�ނ͎��܂��������̂����A
+彼は時折そうしたのだが、
 to take a little ramble with him
-�ꏏ�ɂ������
+一緒にちょっと
 along that beautiful forest vista which I have mentioned as lying in front of the schloss.
-�V�����X�̑O�ɍL�����Ă���Ə��������Ƃ̂��邠�̔������X�т̌��ʂ��̂��铹�ɉ����ĎU�����Ȃ����ƌ������B
+シュロスの前に広がっていると書いたことのあるあの美しい森林の見通しのある道に沿って散歩しないかと言った。
 
 "General Spielsdorf cannot come to us so soon as I had hoped," said my father,
-�uSpielsdorf���R�͎v���Ă����قǑ����͂����ɗ����Ȃ��v�ƁA
+「Spielsdorf将軍は思っていたほど早くはうちに来られない」と、
 as we pursued our walk.
-�U���𑱂��Ȃ���A���͌������B
+散歩を続けながら、父は言った。
 
 He was to have paid us a visit of some weeks,
-�ނ͐��T�Ԃ����ɑ؍݂���\�肾�������A
+彼は数週間うちに滞在する予定だったが、
 and we had expected his arrival next day.
-��X�͔ނ̓����͗������Ǝv���Ă����B
+我々は彼の到着は翌日だと思っていた。
 He was to have brought with him a young lady, his niece and ward, Mademoiselle Rheinfeldt,
-�ނ͗ߏ�A�ނ̂߂��Ŕ�㌩�l�ARheinfeldt���A��ė���\�肾�������A
+彼は令嬢、彼のめいで被後見人、Rheinfeldt嬢を連れて来る予定だったが、
 whom I had never seen,
-���̐l�Ɏ��͉���������Ȃ���������ǁA
+その人に私は会った事がなかったけれど、
 but whom I had heard described as a very charming girl,
-���ɔ������������ƌ����Ă���̂𕷂�����������A
+非常に美しい少女だと言われているのを聞いた事があり、
 and in whose society I had promised myself many happy days.
-�ޏ��Ƃ̌��ۂŊ������̊y�������X�����҂��Ă����B
+彼女との交際で幾日もの楽しい日々を期待していた。
 I was more disappointed
-����
+私は
 than a young lady living in a town, or a bustling neighborhood can possibly imagine.
-�����A�G�������ߕӂɏZ��ł���ߏ�ɂ͂ƂĂ��z���ł��Ȃ��قǎ��]�����B
+町か、雑踏した近辺に住んでいる令嬢にはとても想像できないほど失望した。
 This visit, and the new acquaintance it promised,
-���̑؍݂ƁA���ꂪ�O������V�������ۂ́A
+この滞在と、それが前兆する新しい交際は、
 had furnished my day dream for many weeks.
-��T�Ԃ����ɋ�z��^���Ă����B
+幾週間も私に空想を与えていた。
 
 "And how soon does he come?" I asked.
-�u�܂��A�ނ͂��܂łɗ���́H�v�Ǝ��͐q�˂��B
+「まあ、彼はいつまでに来るの？」と私は尋ねた。
 "Not till autumn.
-�u�H�܂ł͂Ȃ��B
+「秋まではない。
 Not for two months, I dare say," he answered.
-���炭�A�񂩌��̊Ԃ͂Ȃ��Ǝv���v�ƁA�ނ͓������B
+恐らく、二か月の間はないと思う」と、彼は答えた。
 "And I am very glad now, dear,
-�u�����č��ƂȂ��ẮA����͂�A
+「そして今となっては、いやはや、
 that you never knew Mademoiselle Rheinfeldt."
-�N��Rheinfeldt��ƒm�荇���łȂ��Ė{���ɂ悩�����B�v
+君がRheinfeldt嬢と知り合いでなくて本当によかった。」
 
 "And why?"
-�u�܂��ǂ����āH�v
+「まあどうして？」
 I asked, both mortified and curious.
-���͂��₵��������m�肽���������āA�q�˂��B
+私はくやしくもあり知りたくもあって、尋ねた。
 
 "Because the poor young lady is dead," he replied.
-�u�Ȃ��Ȃ�ߏ�͕s�K�ɂ��S���Ȃ��Ă��邩��v�ƁA�ނ͓������B
+「なぜなら令嬢は不幸にも亡くなっているから」と、彼は答えた。
 "I quite forgot I had not told you,
-�u�N�ɓ`���Ă��Ȃ�����������������Y��Ă�������ǁA
+「君に伝えていなかった事をすっかり忘れていたけれど、
 but you were not in the room when I received the General's letter this evening."
-���ӏ��R�̎莆���󂯎�������N�͕����ɂ��Ȃ������B�v
+今晩将軍の手紙を受け取った時君は部屋にいなかった。」
 
 I was very much shocked.
-���͑�ς��܂����B
+私は大変たまげた。
 General Spielsdorf had mentioned in his first letter, six or seven weeks before,
-Spielsdorf���R���A�Z���T�ԑO�ɁA�ނ̍ŏ��̎莆�Ō����y��ł����̂�
+Spielsdorf将軍が、六七週間前に、彼の最初の手紙で言い及んでいたのは
 that she was not so well as he would wish her,
-�ޏ��͔ނ��]�ނقǌ��N�ł͂Ȃ��Ƃ��������������A
+彼女は彼が望むほど健康ではないという事だったが、
 but there was nothing to suggest the remotest suspicion of danger.
-�댯��Ԃ̋^�����v�킹�镨�͑S���Ȃ������B
+危険状態の疑いを思わせる物は全くなかった。
 
-���@����. truth of which I have been an eyewitness
-�܂� of which �ȉ���
-I have been an eyewitness of it ���͂����ڌ��������Ƃ�����
-���֌W�߂ɂ��� truth ���C���������́B
-���݊��������Ƃ́u���݂ɂ��Ẳ��炩�̏���`���邽�߂�
-�ߋ��̏o�����Ɍ��y���鎖�v�ł���A
-���铮��̌��ʂ����炩�̌`�Ō��݂Ɏc���Ă��鎖�������B
-����� (a) �����Ɏc���Ă��钼�ڂ̌��ʂ��A
-(b) �l�Ɏc���Ă���Ԑڂ̌��ʂł���B
-(a) �����Ɏc���Ă��钼�ڂ̌���
-����͓��삻�ꎩ�̂��I����Ă����ԁi�`���Ă��܂����j��\���A
-��ʓI�ɓ����Ȍ��ݎ����̕\���Ɏߋ`���鎖���o����B
-I have lost my knife. �i�C�t�͂Ȃ����Ă��܂���
-= I have no knife. �i�C�t�͎����Ă��Ȃ�
-���ʏI������΂���̓���������B
-(b) �l�Ɏc���Ă���Ԑڂ̌���
-����͓����ɁA�m���A�o���A�����Ƃ��Ďc���Ă��铮��̌��ʁi�`�������Ƃ�����j��\���A
-���삻�ꎩ�͉̂ߋ��̂��I������̂ł��ǂ��B
-I have seen a tiger. �Ղ��������Ƃ�����
-(Therefore I know what it is like. �䂦�ɂ��ꂪ�ǂ�Ȃ��̂����m���Ă���B) 
-I have been an eyewitness of it ���͂����ڌ��������Ƃ�����A��
-������Ȃ̂ŁA���͖ڌ��҂ł���A�ƌ��݂̓����ɒ����Ė󂵂��B
+文法メモ. truth of which I have been an eyewitness
+まず of which 以下は
+I have been an eyewitness of it 私はそれを目撃したことがある
+を関係節にして truth を修飾したもの。
+現在完了時制とは「現在についての何らかの情報を伝えるために
+過去の出来事に言及する事」であり、
+ある動作の結果が何らかの形で現在に残っている事を示す。
+それは (a) 物事に残っている直接の結果か、
+(b) 人に残っている間接の結果である。
+(a) 物事に残っている直接の結果
+これは動作それ自体が終わっている状態（～してしまった）を表し、
+一般的に等価な現在時制の表現に釈義する事が出来る。
+I have lost my knife. ナイフはなくしてしまった
+= I have no knife. ナイフは持っていない
+普通終わったばかりの動作を言う。
+(b) 人に残っている間接の結果
+これは動作主に、知識、経験、特質として残っている動作の結果（～したことがある）を表し、
+動作それ自体は過去のいつ終わったのでも良い。
+I have seen a tiger. 虎を見たことがある
+(Therefore I know what it is like. ゆえにそれがどんなものだか知っている。) 
+I have been an eyewitness of it 私はそれを目撃したことがある、は
+こちらなので、私は目撃者である、と現在の特質に直して訳した。
 mentioned as lying in front of the schloss
-as �͏]���ڑ���������A�߁i���A�q���L����j����ɑ����Ȃ���΂Ȃ�Ȃ��B
-�������A���̂悤�ɒP���傪��ɑ������Ƃ����΂��΂���B
-���̂悤�ȏꍇ�ɂ́A��ɏȗ����Ȃ���Ă���B
+as は従属接続詞だから、節（主語、述語を有する）が後に続かなければならない。
+しかし、このように単語や句が後に続くことがしばしばある。
+そのような場合には、常に省略がなされている。
 He is represented as [one who is] kneeling before a crucifix.
-�ނ͏\���˂̑O�ɂЂ��܂����Ă���҂Ƃ��ĕ`�ʂ����B
-as �͐ڑ����Ƃ��Ă͎�ɒ��x�E�l�ԁE���E�����E�����̌܂̈Ӗ�������A
-�����ł͗l�ԁA���̂̂������s���̂��肳�܂̈Ӗ��B
-�]���Ă��̏ꍇ�́A
+彼は十字架の前にひざまずいている者として描写される。
+as は接続詞としては主に程度・様態・時・原因・譲歩の五つの意味があり、
+ここでは様態、もののあり方や行動のありさまの意味。
+従ってこの場合は、
 mention that beautiful forest vista as [one which is] lying in front of the schloss
-�V�����X�̑O�ɍL�����Ă��镨�Ƃ��Č��y����A�ƂȂ�B
+シュロスの前に広がっている物として言及する、となる。
 "General Spielsdorf cannot come to us so soon as I had hoped,"
-�ߋ������͉��炩�̖��L���ꂽ�ߋ��̎��ȑO�ɓ��삪�������Ă��鎖��\���B
-���݊����͌��݈ȑO�ɓ��삪�������Ă��镨���������A���̌��݂��ߋ��Ɋ��������̂��ߋ������B
-���̏ꍇ�́A���ӎ莆���󂯎���������A��ɏ�����Ă͂��邪���L���ꂽ�ߋ��̎��ŁA
-�����ɗ���Ǝv���Ă��� �i�󂯎��܂ł́B���݊����ł����ƒm���̈Ӗ��j
+過去完了は何らかの明記された過去の時以前に動作が完了している事を表す。
+現在完了は現在以前に動作が完了している物だったが、その現在を過去に換えたものが過去完了。
+この場合は、今晩手紙を受け取った時が、後に書かれてはいるが明記された過去の時で、
+翌日に来ると思っていた （受け取るまでは。現在完了でいうと知識の意味）
 we had expected his arrival next day
-������ƑS�������B�܂�����ȉ��̉ߋ��������S�ē����ŁA�Ⴆ��
+もそれと全く同じ。またそれ以下の過去完了も全て同じで、例えば
 whom I had never seen
-���͂��̐l�ɉ���������Ȃ������A�]���Ăǂ�Ȑl�����ڂ����͒m��Ȃ����� �i���݊����ł����ƒm���̈Ӗ��j
+私はその人に会った事がなかった、従ってどんな人だか詳しくは知らなかった （現在完了でいうと知識の意味）
 General Spielsdorf had mentioned that she was not so well as he would wish her,
-�ޏ��͂��܂茒�N�ł͂Ȃ��ƌ��y���ꂽ��������A�]���Č��N�ł͂Ȃ����͒m���Ă��� �i���݊����ł����ƒm���̈Ӗ��j
+彼女はあまり健康ではないと言及された事がある、従って健康ではない事は知っていた （現在完了でいうと知識の意味）
 He was to have paid us a visit of some weeks,
-�����s�莌 to have �ߋ����� �́A
-"wished," "hoped," "intended," "expected," ���̂悤��
-�����̏�Ԃ�o�����̈Ӗ����܂ޓ����̉ߋ������̌�ł́A
-���̔ے��������Ȃ����������Î����邽�߂̂��̂ł���B
-He intended to have gone abroad. �ނ͊C�O�ɍs�����肾���� �i�������������Ȃ������B�j
-He was to have come. �ނ͗���\�肾���� �i���������Ȃ������B�j
-�����ł� "was to" ���`����\�肾�����A�Ƃ��������̏o�������܂ޓ����̉ߋ������ɂȂ��Ă���A
-�ނ͐��T�Ԃ����ɑ؍݂���\�肾���� �i����������͎������Ȃ������B�j
+完了不定詞 to have 過去分詞 は、
+"wished," "hoped," "intended," "expected," 等のような
+未来の状態や出来事の意味を含む動詞の過去時制の後では、
+その否定や実現しなかった事を暗示するためのものである。
+He intended to have gone abroad. 彼は海外に行くつもりだった （しかし実現しなかった。）
+He was to have come. 彼は来る予定だった （しかし来なかった。）
+ここでは "was to" が～する予定だった、という未来の出来事を含む動詞の過去時制になっており、
+彼は数週間うちに滞在する予定だった （しかしそれは実現しなかった。）
 I asked, both mortified and curious
-�܂� both...and... �Ł`�ł�����`�ł�����B
-mortified �͓��� mortify �̎󂯐g�̌`�ŁAbe mortified �ł��₵����Ƃ����Ӗ��B
-�]���āAI asked, mortified �͕����\��
-I asked, being mortified �̏ȗ��łȂ��Ă͂Ȃ炸�A
-�����\�������̂悤�Ɍ�ɑ����ꍇ�͓����̓����\���B
-���₵�����āA�q�˂��B
+まず both...and... で～でもあり～でもある。
+mortified は動詞 mortify の受け身の形で、be mortified でくやしがるという意味。
+従って、I asked, mortified は分詞構文
+I asked, being mortified の省略でなくてはならず、
+分詞構文がこのように後に続く場合は同時の動作を表す。
+くやしがって、尋ねた。
 the remotest suspicion of danger
-remote �͂킸���́A�Ƃ����`�e���Ȃ̂ŁA�ł��킸���ȋ^�����Ȃ��A���Ȃ킿�^���͑S���Ȃ��B
+remote はわずかの、という形容詞なので、最もわずかな疑いもない、すなわち疑いは全くない。
