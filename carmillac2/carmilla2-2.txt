@@ -1,198 +1,205 @@
-Carmilla 2.2. 2�͑���
+/*  [amine, translation of chapter2-2, 2018.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 2.2. 2章続き
 "Here is the General's letter,"
-�u�����ɏ��R�̎莆������v�ƁA
+「ここに将軍の手紙がある」と、
 he said, handing it to me.
-�ނ́A��������ɓn���Ȃ��猾�����B
+彼は、それを私に渡しながら言った。
 "I am afraid he is in great affliction;
-�u�ނ����ɒQ���Ă���̂ł͂Ȃ����ƐS�z���B
+「彼が非常に嘆いているのではないかと心配だ。
 the letter appears to me
-���̎莆�͎��ɂ�
+その手紙は私には
 to have been written very nearly in distraction."
-�܂��ƂɂقƂ�ǋC�������΂���ŏ����ꂽ�Ǝv����B�v
+まことにほとんど気も狂わんばかりで書かれたと思われる。」
 
 We sat down on a rude bench,
-��X��
+我々は
 under a group of magnificent lime trees.
-�s��ȃ����f���i���Ȃ̂��E�ڂ�������̗ނ̗��t���؁A�t���������Ԃ͍��C�����A�X�H���ɂ���j
-�̌Q�̉��ŁA�e���̃x���`�ɍ������B
+壮麗なリンデン（しなのき・ぼだいじゅの類の落葉喬木、葉が美しく花は香気高い、街路樹にする）
+の群の下で、粗製のベンチに座った。
 The sun was setting with all its melancholy splendor behind the sylvan horizon,
-���z�͂��̕��߂����P���S����؂̖΂����n�����̌��ɂ��Ē��݂������Ă��āA
+太陽はその物悲しい輝き全部を木の茂った地平線の後ろにして沈みかかっていて、
 and the stream that flows beside our home,
-��X�̉Ƃ̖T�ŗ���A
+我々の家の傍で流れ、
 and passes under the steep old bridge I have mentioned,
-���y�������Ƃ̂���}���z�̌Â����̉���ʂ闬��́A
+言及したことのある急勾配の古い橋の下を通る流れは、
 wound through many a group of noble trees,
-�����Ȗ؁X�̊����̌Q��ʂ蔲���āA
+見事な木々の幾多の群を通り抜けて、
 almost at our feet,
-�قƂ�ǉ�X�̑����ɁA
+ほとんど我々の足元に、
 reflecting in its current the fading crimson of the sky.
-���̗����ɋ�̐F�������i��⎇�ɋ߂��j�[�g�F���f���Ȃ��炤�˂�i��ł����B
+その流動に空の色あせた（やや紫に近い）深紅色を映じながらうねり進んでいた。
 General Spielsdorf's letter was so extraordinary,
-Spielsdorf���R�̎莆�͔��ɓr�����Ȃ��A
+Spielsdorf将軍の手紙は非常に途方もなく、
 so vehement,
-���ɔM���I�ŁA
+非常に熱狂的で、
 and in some places so self-contradictory,
-��炩�̉ӏ��ł͔��Ɏ��Ȗ����������̂ŁA
+幾らかの箇所では非常に自己矛盾だったので、
 that I read it twice over--
-���͂������J��Ԃ��ā\�\
+私はそれを二回繰り返して――
 the second time aloud to my father--
-��x�ڂ͕��Ɍ������Đ����o���ā\�\�ǂ񂾂��A
+二度目は父に向かって声を出して――読んだが、
 and was still unable to account for it,
-����ł�����́A
+それでもそれは、
 except by supposing that grief had unsettled his mind.
-�[���߂��݂��ނ̐S�𗐂��Ă��܂����̂��Ǝv�����ɂ��ȊO�́A�����ł��Ȃ������B
+深い悲しみが彼の心を乱してしまったのだと思う事による以外は、説明できなかった。
 
 It said "I have lost my darling daughter,
-�u���̂��Ƃ������������Ă��܂����A
+「私のいとしい娘を失ってしまった、
 for as such I loved her.
-�����뎄�͔ޏ��𖺂Ƃ��Ĉ���������B
+何しろ私は彼女を娘として愛したから。
 During the last days of dear Bertha's illness
-���킢��Bertha�̕a�C�̖����̊Ԃ�
+かわいいBerthaの病気の末期の間は
 I was not able to write to you.
-�N�Ɏ莆���������Ƃ��ł��Ȃ������B�v�Ə����Ă������B
+君に手紙を書くことができなかった。」と書いてあった。
 
 "Before then I had no idea of her danger.
-�u����ȑO�ɂ͔ޏ����댯�ɂȂ�Ƃ͎v��Ȃ������B
+「それ以前には彼女が危険になるとは思わなかった。
 I have lost her,
-�ޏ��������Ă��܂��A
+彼女を失ってしまい、
 and now learn ALL, too late.
-���ł͖����A�x������Ƃ킩�����B
+今では万事、遅すぎるとわかった。
 She died in the peace of innocence,
-�ޏ��͖��׋C�̈��炩���ƁA
+彼女は無邪気の安らかさと、
 and in the glorious hope of a blessed futurity.
-�j�����󂯂������̎Wࣂ����]�̂����ɖS���Ȃ����B
+祝福を受けた未来の燦爛たる希望のうちに亡くなった。
 The fiend who betrayed our infatuated hospitality has done it all.
-��X�������ɂȂ��Č����������𗠐؂����a���͂��������萋���Ă��܂����B
+我々が夢中になって厚遇した事を裏切った病魔はすっかりやり遂げてしまった。
 I thought I was receiving into my house innocence, gaiety, a charming companion for my lost Bertha.
-���͖��׋C�ƁA�z�C�ƁA�����Ƃ肷��悤�ȑ����S���Ȃ���Bertha�Ƃ��ĉƂ̒��֌}������Ă���Ǝv���Ă����B
+私は無邪気と、陽気と、うっとりするような相手を亡くなったBerthaとして家の中へ迎え入れていると思っていた。
 Heavens! what a fool have I been!
-�܂��I���Ƃ��������҂ł��낤���I
+まあ！何という愚か者であろうか！
 
 "I thank God my child died without a suspicion of the cause of her sufferings.
-�_�l�Ɋ��ӂ���͎̂��̎q�ǂ��������̍Г�̌����ɋC�t�����S���Ȃ����Ƃ��������B
+神様に感謝するのは私の子どもが自分の災難の原因に気付かず亡くなったという事だ。
 She is gone without so much as conjecturing the nature of her illness,
-�ޏ��͎����̕a�C�A
+彼女は自分の病気、
 and the accursed passion of the agent of all this misery.
-���̕s�K�S���̓����̎􂤂ׂ��a��̎�ނ𐄑����点���Ɏ��񂾁B
+この不幸全部の動因の呪うべき病苦の種類を推測すらせずに死んだ。
 I devote my remaining days to tracking and extinguishing a monster.
-���͎c��̈ꐶ��������ǐՂ��鎖�Ə��ł����鎖�ɓ��Ă�B
+私は残りの一生を怪物を追跡する事と消滅させる事に当てる。
 I am told I may hope to accomplish my righteous and merciful purpose.
-���͎��̐��������ߐ[���ړI���Ȃ��Ƃ��鎖��]��ł��悢�Ƌ������Ēm���Ă���B
+私は私の正しく慈悲深い目的をなしとげる事を望んでもよいと教えられて知っている。
 At present there is scarcely a gleam of light to guide me.
-���͎��𓱂����̋P���͂قƂ�ǂȂ��B
+今は私を導く光の輝きはほとんどない。
 I curse my conceited incredulity,
-���͎��̂��ʂڂ�̋����^���[���A
+私は私のうぬぼれの強い疑い深さ、
 my despicable affectation of superiority,
-�ڂ��ނׂ��D�z�C���A
+卑しむべき優越気取り、
 my blindness, my obstinacy--all--too late.
-���m�A��ł�����Ă���\�\�����\�\�x������B
+無知、頑固を呪っている――万事――遅すぎる。
 I cannot write or talk collectedly now.
-���͍����������ď�������b������ł��Ȃ��B
+私は今落ち着いて書いたり話したりできない。
 I am distracted.
-���͐S����藐���Ă���B
+私は心を取り乱している。
 So soon as I shall have a little recovered,
-�����͕��Â����߂��Ă��܂����炷���A
+少しは平静を取り戻してしまったらすぐ、
 I mean to devote myself for a time to enquiry,
-�����͒����ɁA
+当分は調査に、
 which may possibly lead me as far as Vienna.
-����ɂ���Ă��邢�̓E�B�[���܂ōs�����ƂɂȂ邩���m��Ȃ����A����ɐ�O������肾�B
+これによってあるいはウィーンまで行くことになるかも知れないが、それに専念するつもりだ。
 Some time in the autumn,
-�H�̓��̂����A
+秋の内のいつか、
 two months hence,
-������񂩌���ɁA
+今から二か月後に、
 or earlier if I live,
-����������������Ă���΂�葁���ɁA
+いやもし私が生きていればより早くに、
 I will see you--
-�N��q�˂���肾�\�\
+君を尋ねるつもりだ――
 that is,
-���Ȃ킿�A
+すなわち、
 if you permit me;
-�����N�������΁B
+もし君が許せば。
 I will then tell you all
-���̎�
+その時
 that I scarce dare put upon paper now.
-�������ĂقƂ�Ǐ����Ă��Ȃ��S�Ă�ł���������肾�B
+今あえてほとんど書いていない全てを打ち明けるつもりだ。
 Farewell.
-����΁B
+さらば。
 Pray for me,
-���̂��߂ɋF���Ă���A
+私のために祈ってくれ、
 dear friend."
-�e���Ȃ�F��B�v
+親愛なる友よ。」
 
 
-���b�Ƃ͂����A�߂����b��ǂނƏ����h���C���ɂȂ�܂��ˁB
-���ɋN�����Ă��鎖���Ǝv���΂���ȂɊȒP�ɂ͍ς܂����Ȃ��Ƃ������B
+お話とはいえ、悲しい話を読むと少し辛い気持になりますね。
+現に起こっている事だと思えばそんなに簡単には済ませられないというか。
 
 
-���@����. the letter appears to me to have been written very nearly in distraction
-���ݎ����̒蓮���i���̒��ŏq��Ƃ��Ă̓�����S���Ă��铮���B�����ł�appears�j
-�̌�ł́A�����s�莌�͊����������ߋ������ɑ�������B
+文法メモ. the letter appears to me to have been written very nearly in distraction
+現在時制の定動詞（文の中で述語としての働きを担っている動詞。ここではappears）
+の後では、完了不定詞は完了時制か過去時制に相当する。
 = it appears to me that the letter was written very nearly in distraction
-�����ł͉ߋ������B
+ここでは過去時制。
 lime tree
-�����f���̉Ԃ͕��ׁA�P�A���M�A�����ǁA���ǁA�������A���Ɂi���ɕГ��Ɂj�A
-���A��i�A���������j�A���z��i�����ǂɉ������������z���̌y���j���Í܂Ƃ��ė��p�����B
-�`���I�ȃI�[�X�g���A��w�ł̃V�i�m�L��̉Ԃ̒��́A�ċz�̕a�C�╗�ׁA���M�̎��ÂɌ��ʂ�����Ƃ��Ă���B
-�V���������ɂ��ƁA�Ԃɂ͊̑��ی��p������\����������Ă���B
-�C�M���X�ł�lime tree�ƌĂ΂�邪�A���C���ilime�j�Ƃ͊֌W�Ȃ��B�i�E�B�L�y�f�B�A���j
-���Ȃ킿�A�I�[�X�g���A�ŗL���Ȗ؂��o�ꂵ�Ă���B
+リンデンの花は風邪、咳、発熱、感染症、炎症、高血圧、頭痛（特に片頭痛）、
+利尿薬（尿生成増加）、鎮痙薬（消化管に沿った平滑筋痙攣の軽減）鎮静剤として利用される。
+伝統的なオーストリア医学でのシナノキ種の花の茶は、呼吸の病気や風邪、発熱の治療に効果があるとしている。
+新しい研究によると、花には肝臓保護作用もある可能性が示されている。
+イギリスではlime treeと呼ばれるが、ライム（lime）とは関係ない。（ウィキペディアより）
+すなわち、オーストリアで有名な木が登場している。
 The sun was setting
-�u�Ԃ̓�����Ӗ����铮���ł́A�i�s�`�͎n�܂�̈Ӗ������B
-The man is dying. ���ɂ������Ă���
-���ނ͈̂�u�Ȃ̂ŁA���݂������Ă���B
+瞬間の動作を意味する動詞では、進行形は始まりの意味を持つ。
+The man is dying. 死にかかっている
+沈むのは一瞬なので、沈みかかっている。
 many a group
-many a[an] �͕��w�I�\���ŁA�����́B
-many a day ������������
+many a[an] は文学的表現で、幾多の。
+many a day 幾日も幾日も
 as such
-�����������̂Ƃ��āB
+そういうものとして。
 He is a child, and must be treated as such.
-�q��������q���̂悤�Ɏ�舵��Ȃ���΂Ȃ�Ȃ��B
-Rheinfeldt��͔ނ̖{���̖��ł͂Ȃ��̂ŁB
+子供だから子供のように取り扱わなければならない。
+Rheinfeldt嬢は彼の本当の娘ではないので。
 receiving into my house innocence, gaiety, a charming companion for my lost Bertha
-receive �̖ړI��� innocence �� gaiety, a charming companion �ŁA
-�O�̓�͖��׋C�Ɨz�C�Ƃ������ۓI���t�ŁA�O�ڂ͂����Ƃ肷��悤�ȑ��肾����A
-���̎O�͑S��Rheinfeldt��̎��������Ă��錾�t���Ƃ킩��B
-���׋C���Ƃ̒��֌}�������B�iRheinfeldt����}�������Ƃ������ƁB�j
-��ł��ߏ삪���׋C�Ȑl���Ƃ����̂������Ă���B
-���Ƃ���΁Afor�́A���i�E�����i�`�Ƃ��āj�̈Ӗ��ɂȂ�Ǝv���B
-take the doe for a buck ������Y�����Ǝv���Ⴄ
-���׋C���ARheinfeldt��Ƃ����`�Ŏ󂯓��ꂽ�A�Ƃ����Ӗ����B
+receive の目的語は innocence と gaiety, a charming companion で、
+前の二つは無邪気と陽気という抽象的言葉で、三つ目はうっとりするような相手だから、
+この三つは全てRheinfeldt嬢の事を言っている言葉だとわかる。
+無邪気を家の中へ迎え入れる。（Rheinfeldt嬢を迎え入れるということ。）
+上でも令嬢が無邪気な人だというのが書いてある。
+だとすれば、forは、資格・相当（～として）の意味になると思う。
+take the doe for a buck 雌鹿を雄鹿だと思い違う
+無邪気を、Rheinfeldt嬢という形で受け入れた、という意味か。
 her illness, and the accursed passion of the agent of all this misery
-�܂�the agent of all this misery�͂��̕s�K�S���̓����A
-accursed�͎􂤂ׂ��Ƃ����Ӗ��Ȃ̂ŁApassion�͌���Ȃǂ̈Ӗ��ł͂Ȃ��āA
-�Â��Ӗ��ŕa��Ƃ����Ӗ��������āA���ꂩ�Ǝv���B
-��������ƁA�O�҂̕a�C�ƁA��҂̕a��͓���̕��Ȃ̂ŁA
-and�͓�҈�̂̈Ӗ��A
-He is a statesman and poet. �����ƂŎ��l
-�Ƃ����Ӗ���������Ȃ��Ǝv�����A�����͗ǂ�������Ȃ������B
+まずthe agent of all this miseryはこの不幸全部の動因、
+accursedは呪うべきという意味なので、passionは激情などの意味ではなくて、
+古い意味で病苦という意味があって、これかと思う。
+そうすると、前者の病気と、後者の病苦は同一の物なので、
+andは二者一体の意味、
+He is a statesman and poet. 政治家で詩人
+という意味かもしれないと思うが、ここは良く分からなかった。
 I devote my remaining days
-���ݎ����Ői�s�`�łȂ������i���ݕs�莞���j��
-���������̑���ɁA���܂����s�ׂ�\�����߁A
-"go," "come," "start," "leave," "depart," "return," ���̂悤�ȓ����Ƌ��ɗp������B
-My brother returns from abroad next year. �킪���N�C�O����߂�܂��B
-�����ł͎c��̐l���𓖂Ă鎖�����ӂ��Ă���Ӗ���\���Ǝv���B
+現在時制で進行形でない時制（現在不定時制）は
+未来時制の代わりに、決まった行為を表すため、
+"go," "come," "start," "leave," "depart," "return," 等のような動詞と共に用いられる。
+My brother returns from abroad next year. 弟が来年海外から戻ります。
+ここでは残りの人生を当てる事を決意している意味を表すと思う。
 I am told
-�܂����ݕs�莞���͂��������k�b�̂ł͌��݊����̑���ɁA
-"say," "tell," "hear," "be told," "write," "read," "forget," ���̑����̓����Ƌ��ɗp������B
-My father writes (=has written) to say that...... ���̕��͈ӌ��Ƃ��ā`�Ə����Ă���
-I have been told ������ꂽ��������B�̂ɒm���Ă���B
+また現在不定時制はくだけた談話体では現在完了の代わりに、
+"say," "tell," "hear," "be told," "write," "read," "forget," 他の多少の動詞と共に用いられる。
+My father writes (=has written) to say that...... 私の父は意見として～と書いている
+I have been told 教えられた事がある。故に知っている。
 I curse
-���ݕs�莞���́A���ɍ��N�����Ă��铮���\�����߂ɗp�����鎖�͂߂����ɂȂ��A
-���ݐi�s���������̖ړI�̂��߂ɗp������B
-���ɑ����Ă��铮���\�����߂Ɍ��ݕs�莞�����g�����̈�́A
-�����ł̂悤�ɁA�i�s�`�������Ȃ������̎��ł���B
-�i�s�`�͓���̌p����\������A�ЂƂ�łɘA���I�ȓ���܂��͏�Ԃ�\���悤�ȓ����ł͗p�����Ȃ��B
-����ɂ͐F�X���邪�A�����ł�
+現在不定時制は、現に今起こっている動作を表すために用いられる事はめったになく、
+現在進行時制がその目的のために用いられる。
+現に続いている動作を表すために現在不定時制が使われる例の一つは、
+ここでのように、進行形を持たない動詞の時である。
+進行形は動作の継続を表すから、ひとりでに連続的な動作または状態を表すような動詞では用いられない。
+それには色々あるが、ここでは
 (a) "Be."
-(b) "Love," "Hate," "Respect," "Esteem," "Despise" ��
-�����̓����͊��������I�ŁA���ӂɂ�߂���܂���������ł����A
-����̂ɘA���I�ł���B
-�􂤂������Ɠ����悤�ȕ�������A�i�s�`���Ȃ��̂��Ǝv���B
+(b) "Love," "Hate," "Respect," "Esteem," "Despise" 等
+これらの動詞は幾分自動的で、随意にやめたりまた続けたりできず、
+それ故に連続的である。
+呪うも嫌うと同じような物だから、進行形がないのだと思う。
 
-���Ȃ݂ɁA�����p���׋����鎞�Ƃ��ɎQ�l�ɂ��Ă���{�ł��B
-���j�����ɎQ�l�ɂȂ�B
-�����͌����АV�p�a�厫�T�B
-�ދ`��Ƃ�������������肵�Ă��Ȃ���A���ʂȂ��܂Ƃ܂��Ă��܂��B
-���@���͍֓��G�O�Y�搶��Practical English Grammar(1898)��p���Ă��܂��B
-���܂ŕ��@�����̒��ŏ������ڂ������@�̐����Ȃǂ͂����Œ��ׂēǂ݁A����������Ŗ󂵂ď����Ă��܂��B
-�ŋߘa�󂪏o�������ł��B
+ちなみに、私が英語を勉強する時とかに参考にしている本です。
+方針が非常に参考になる。
+辞書は研究社新英和大辞典。
+類義語とか解説がしっかりしていながら、無駄なくまとまっています。
+文法書は斎藤秀三郎先生のPractical English Grammar(1898)を用いています。
+今まで文法メモの中で書いた詳しい文法の説明などはここで調べて読み、それを自分で訳して書いています。
+最近和訳が出たそうです。
