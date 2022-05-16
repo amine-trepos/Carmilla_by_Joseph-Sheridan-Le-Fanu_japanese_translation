@@ -1,0 +1,159 @@
+Carmilla 2.3. 2章続き
+In these terms ended this strange letter.
+これらの言い方でこの妙な手紙は終わっていた。
+Though I had never seen Bertha Rheinfeldt
+Bertha Rheinfeldt に会った事はなかったけれど
+my eyes filled with tears at the sudden intelligence;
+急な情報を見て目が涙で一杯になった。
+I was startled,
+私は
+as well as profoundly disappointed.
+深く失望し、かつまたびっくりした。
+
+The sun had now set,
+太陽はその時すでに沈んでしまっていて、
+and it was twilight by the time I had returned the General's letter to my father.
+将軍の手紙を私の父に返してしまったころはもうたそがれ時だった。
+
+It was a soft clear evening,
+さわやかな曇りなく晴れた晩で、
+and we loitered,
+我々は
+speculating upon the possible meanings of the violent and incoherent sentences which I had just been reading.
+私が読んでいたばかりの激情的かつ筋の通っていない文章の考えられる意味について考え込みながら、ぶらついた。
+We had nearly a mile to walk before reaching the road that passes the schloss in front,
+シュロスの前を通る道に着く前にほとんど一マイル歩かなくてはならなかったが、
+and by that time the moon was shining brilliantly.
+その時は既に月がきらきらと輝いていた。
+At the drawbridge
+跳ね橋で
+we met Madame Perrodon and Mademoiselle De Lafontaine,
+我々はPerrodon夫人とDe Lafontaine嬢に出会ったが、
+who had come out,
+彼女らは
+without their bonnets,
+ボンネットもかぶらず、
+to enjoy the exquisite moonlight.
+この上なく見事な月光を楽しむために、出て来ていた。
+
+We heard their voices gabbling in animated dialogue as we approached.
+近づくにつれ活発な対話を早口にしゃべっている彼女らの声が聞こえた。
+We joined them at the drawbridge,
+我々は跳ね橋で彼女らと落ち合い、
+and turned about to admire with them the beautiful scene.
+振り返って彼女らと共に美しい景色を感心してながめた。
+
+The glade through which we had just walked lay before us.
+我々が通り抜けて歩いて来たばかりの林間の小道は目の前に通じていた。
+At our left the narrow road wound away under clumps of lordly trees,
+我々の左手で狭い道は堂々たる喬木の木立の下にうねり去り、
+and was lost to sight amid the thickening forest.
+密になった森林の中に見えなくなった。
+At the right the same road crosses the steep and picturesque bridge,
+右手で同じ道は急勾配で絵のように美しい橋を渡り、
+near which stands a ruined tower which once guarded that pass;
+その近くにかつてその隘路を見張った荒廃した塔がある。
+and beyond the bridge an abrupt eminence rises,
+そして橋の向こうに切り立った小高い所が、
+covered with trees,
+樹木に覆われ、
+and showing in the shadows some grey ivyclustered rocks.
+暗がりにつたの群生したいくらかの灰色の岩々を見せて、そびえている。
+
+Over the sward and low grounds
+芝生と低地の上に
+a thin film of mist was stealing like smoke,
+もやの薄い層が、
+marking the distances with a transparent veil;
+透き通ったベールで遠方を特徴付けながら、いつの間にか煙のように広がっていた。
+and here and there
+そしてそこここに
+we could see the river faintly flashing in the moonlight.
+月光を受けてかすかにきらめいている川が見えた。
+
+No softer, sweeter scene could be imagined.
+これより穏やかな、快い景色は想像できなかった。
+The news I had just heard made it melancholy;
+聞き知ってしまったばかりの消息はそれを物悲しく見せた。
+but nothing could disturb its character of profound serenity,
+しかし何事も深いのどけさ、
+and the enchanted glory and vagueness of the prospect.
+魔法にかけられた壮観と視界がはっきりしないというその特徴を乱すことはできなかった。
+
+My father, who enjoyed the picturesque,
+私の父、彼は絵のような美しさを楽しんだが、
+and I, stood looking in silence over the expanse beneath us.
+そして私は、我々の下に広げられたものを黙って見渡して立っていた。
+The two good governesses,
+二人の尊敬すべき家庭教師は、
+standing a little way behind us,
+我々の少し後ろに立っていて、
+discoursed upon the scene,
+景色について談論し、
+and were eloquent upon the moon.
+月について能弁だった。
+
+文法メモ. we loitered, speculating
+分詞が主動詞（従属部の動詞に対し主部の動詞のこと）に先立つ時は、
+それは普通「先の動作」を表す。
+分詞が主動詞の次に来る時は、
+それは普通「同時の動作」を表す。
+考え込みながら。
+We had nearly a mile to walk
+まず walk a mile 一マイル歩くという表現があるようなので、
+この不定詞 walk は他動詞である。
+この時、目的語 a mile は不定詞の後に続く場合もあれば、先立つ場合もある。
+もし後に続いていたら
+We had to walk a mile　一マイル歩かなければならなかった
+と must の（過去の）意味になる。
+今回のように先立つ場合、同じ意味になる事もあればそうでない事もある。
+例えば、
+I have a composition to write 書かなくてはならない作文がある
+であれば I have to write a composition 作文を書かなくてはならないと同じだが、
+I have something to say 言える事がある
+は、
+I have to say something 何か言わなければならない
+とは異なる。
+can の意味か must の意味かのどちらかになる理由は、
+a composition to write = a composition to be written
+であり、名詞を修飾する受動不定詞は can か must によって釈義されるから、だと思う。
+a composition that must be written
+something that can be said
+そこで、a mile to walk = a mile that [must, can] be walked
+歩くことができた一マイルがあったのか、
+歩かなければならない一マイルがあったのか、となる。
+歩こうと思えば歩ける一マイルの道があったがどうしたかは不明、
+という can はわざわざ書く意味がないので、
+must の方だと考えた。
+glade
+林間の空き地という意味と小道という意味があり、
+一章の初めにシュロスの周辺が描かれていた際に空き地と訳してしまったのだが、
+ここで左右に伸びている道は、今散歩してきた小道ではないと書いてあるので、
+このgladeは小道という意味で、一章では間違えて訳してしまった。
+シュロスの前に林間を散歩する事ができる小道があり、
+（一マイル以上歩いたとあるので森の中かなり遠くまで続いている）
+それとは別に外界とを繋ぐ街道のような道が左右に伸びているという事がわかった。
+an irregular and very picturesque glade
+と書かれていたが、形の整っていない小道、の方が正しい意味だったと思う。
+the picturesque
+"the"によって先立たれた形容詞は一種の抽象名詞として用いられる事がある。
+The beautiful = that which is beautiful; beauty 美しさ
+ここでは絵のような美しさ。
+stood looking in silence over the expanse
+まず in silence 黙って、が、look over 見渡すと組み合わされている。
+不完全自動詞（補語を伴わなければ叙述の完成しない自動詞）
+stand が、現在分詞 looking を補語に取っている。
+進行形 be ...ing はこの組み合わせの代表である。
+be が一般の不完全自動詞に変わっている場合は、
+色々な「あり方」（sit, stand, lie, keep, remainのような）を表す。
+is looking だと単に見ているだったのが、
+stand looking では見て立っている、という意味になる。
+standing a little way behind us
+不完全自動詞の補語は名詞のこともあり、
+way は（behind us 我々からの）距離を表している。
+立っている位置が補われている。
+我々の少し後ろに立っている。
+
+
+Carmillaを読み始めてからずっと英語がわかるようになって、とても良かった。
+Practical English Grammar をちゃんと使えるようになったのもうれしかった。

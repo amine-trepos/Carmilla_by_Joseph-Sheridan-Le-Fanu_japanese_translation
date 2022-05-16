@@ -1,0 +1,120 @@
+Carmilla 3. 1章続き
+I have said "the nearest inhabited village,"
+「最も近い人の住んでいる村」と言ったが、
+because there is, only three miles westward, that is to say in the direction of General Spielsdorf's schloss,
+と言うのも、たった3マイル（約4.8km）西方に、すなわちSpielsdorf将軍のシュロスの方向に、
+a ruined village, with its quaint little church, now roofless,
+滅びた村が、今は屋根を失った、風変りで面白い小さな教会と共にあり、
+in the aisle of which are the moldering tombs of the proud family of Karnstein, now extinct,
+その教会の側廊には、今は絶えた、名誉あるKarnstein家の崩れかかった地下納骨所があり、
+who once owned the equally desolate chateau which, in the thick of the forest, overlooks the silent ruins of the town.
+彼らは、深い森の中で、静かな村の廃墟を見下ろしている、同様に打ち捨てられた城をかつて所有していた。
+
+Respecting the cause of the desertion of this striking and melancholy spot,
+この印象的で物悲しい場所が捨てられた原因については、
+there is a legend which I shall relate to you another time.
+いつか話すつもりの言い伝えがある。
+
+I must tell you now, how very small is the party who constitute the inhabitants of our castle.
+さて、我々の城の居住者を構成する一団がどれほどひどく少人数か言っておかなければならない。
+I don't include servants, or those dependents who occupy rooms in the buildings attached to the schloss.
+シュロスの付属建造物内の部屋に住んでいる雇い人や、その家族は数えない。
+Listen, and wonder!
+聞いて驚け。
+My father, who is the kindest man on earth, but growing old;
+私の父、彼はこの世で最も優しい男だが、だんだん老いている。
+and I, at the date of my story, only nineteen.
+そして、その出来事の年では、19に過ぎなかった私。
+Eight years have passed since then.
+その時以来8年が過ぎている。
+
+I and my father constituted the family at the schloss.
+私と私の父がシュロスでの家庭を構成していた。
+My mother, a Styrian lady, died in my infancy,
+私の母、スティリア人の淑女は、私が幼い頃亡くなったが、
+but I had a good-natured governess,
+私には気立ての良い住み込みの家庭教師がいた。
+who had been with me from, I might almost say, my infancy.
+彼女は、ほとんど、私の幼少期から一緒だったと言えるかもしれない。
+I could not remember the time when her fat, benignant face was not a familiar picture in my memory.
+彼女の太った、慈悲深い顔つきが記憶の中で見慣れた心像でなかった頃は思い出せなかった。
+
+This was Madame Perrodon, a native of Berne,
+この人はPerrodon夫人、ベルン生まれの人で、
+whose care and good nature now in part supplied to me the loss of my mother,
+彼女の配慮とやさしい性質がその時すでに母の喪失を幾分補っていた。
+whom I do not even remember, so early I lost her.
+母の事は覚えさえない、それほど早くに失った。
+She made a third at our little dinner party.
+彼女は我々の小さな晩餐会での三人目だった。
+There was a fourth, Mademoiselle De Lafontaine,
+四人目、フランス人家庭教師のDe Lafontaine嬢、
+a lady such as you term, I believe, a "finishing governess."
+「花嫁修業の家庭教師」と呼ぶべきと思われる淑女がいた。
+She spoke French and German,
+彼女はフランス語とドイツ語を話し、
+Madame Perrodon French and broken English,
+Perrodon夫人はフランス語とあやしげな英語を、
+to which my father and I added English,
+それに父と私は英語を付け加えていたが、
+which, partly to prevent its becoming a lost language among us,
+英語は、一つにはそれが我々の間で死語にならないように、
+and partly from patriotic motives,
+また一つには愛国的な動機から、
+we spoke every day.
+毎日話した。
+The consequence was a Babel,
+その結果はバベルの都の混乱で、
+at which strangers used to laugh,
+聞いて客は笑ったものだが、
+and which I shall make no attempt to reproduce in this narrative.
+それはこの物語で再現を試みるつもりはない。
+And there were two or three young lady friends besides, pretty nearly of my own age,
+そしてその上に私とほとんど同じ年齢の、二三人の若い女友達がいて、
+who were occasional visitors, for longer or shorter terms;
+彼女らは折々の、長期だったり短期だったりの滞在客だったが、
+and these visits I sometimes returned.
+そのあと時には答礼訪問した。
+
+These were our regular social resources;
+これらが我々のいつもの社交上の退屈しのぎだったが、
+but of course there were chance visits from "neighbors" of only five or six leagues distance.
+しかし勿論ただ5, 6リーグ（約24～29km）だけ隔てた「近隣の人」の通りがかりの訪問はあった。
+My life was, notwithstanding, rather a solitary one, I can assure you.
+私の生活は、それでも、むしろ孤独なものだった、本当ですよ。
+
+文法メモ. with its quaint little church, now roofless
+一行下の now extinct も同じで、修飾表現により詳述された形容詞は名詞の後に置かれる。
+形容詞 roofless 屋根のない、が、今はそうだ、と副詞 now により詳述されている。
+with は村と共にその教会があるという意味に取って訳した。
+そうでなく上の with は付帯状況として書かれているのではないかという疑問だが、
+付帯状況はある事がなされる仕方や方法の事で、主文が動作であれば明らかにそうだと言えるが、
+there is で、村があるという形なので、よくわからなかった。
+と言うのは、village とは教区教会を有し、それを居住中核とした一教区をなす規模の村の事なので、
+There is a ruined village. It has its church now roofless.
+村の教会は屋根を失わされている、という付帯状況として書かれているのかもしれない。
+aisle 側廊は教会の中央の広くて屋根の高い通路（身廊）の両側に、
+柱などで仕切られた屋根の低くなった通路の事。
+そこに地下納骨所への階段があるが、下はほぼ崩れているという状態だと思う。
+ruins of the town はtheが付いているので上のvillageと同じ物だと思うが、
+townの一般の意味はvillageより大きいという区別があり、おかしくなってしまう。
+しかし多分これは、歴史学用語で城壁に囲まれた村落villageの事をtownと言い、
+下ではchateauが支配する城下町として描かれているので、
+その意味で同じ村でもここではtownと書くべきだったのかなと思う。
+この手書きの物語の著者のシュロスも封建時代のものと言う事だったが、
+封建時代はヨーロッパでは9-15世紀であり、この辺り一帯の城やシュロスは
+全て四五百年は経っているという事になる。
+村の教会に葬られていると言う事から考えても、
+その村がKarnstein家の封建領主としての領地で、
+城を中心とした城壁に囲まれた村だったのだろう。
+molderは今ではアメリカ式の綴りで、イギリスではmoulderだが、
+古い形がアメリカに残る場合がある事と、
+語源の形はmoldなので、この当時はイギリス英語でもmolderだったのだろうか。
+now 物語中でその時、それから、次に、その時すでに。ここでは8年前の時点の事。
+a third, a fourth
+a second が他の人という意味なので、三人目、四人目の人という意味かと思う。
+only five or six leagues distance
+5, 6リーグはonlyというべき距離ではないはずだが、
+「近隣の人」が遠くにいるので、それに合わせて書いてあるのだろうか。
+longer or shorter
+この形が探してもよくわからなかった。

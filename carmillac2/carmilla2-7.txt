@@ -1,0 +1,103 @@
+Carmilla 2.7. 2章続き
+There was something in this lady's air and appearance
+この貴婦人の様子と外見には何か
+so distinguished and even imposing,
+非常にきわ立った堂々としてさえいるところが、
+and in her manner so engaging,
+そして物腰には非常に愛想のいいところがあったので、
+as to impress one, quite apart from the dignity of her equipage,
+完全装備の馬車の威厳は全く別として、
+with a conviction that she was a person of consequence.
+彼女は重要な人物だという確信を強く感じさせるものだった。
+
+By this time the carriage was replaced in its upright position,
+この時は既に馬車はもとのまっすぐな状態に戻され、
+and the horses, quite tractable, in the traces again.
+馬は、全くおとなしくて、またもと通りに引き革につながれていた。
+
+The lady threw on her daughter a glance
+貴婦人は彼女の娘に
+which I fancied was not quite so affectionate as one might have anticipated from the beginning of the scene;
+私が何となく思った事だが、場面の初めからひょっとすると予期された事だろうほどには情愛のあまり深くない、一瞥を投げた。
+then she beckoned slightly to my father,
+それからすぐ彼女は私の父に少しばかり合図して、
+and withdrew two or three steps with him out of hearing;
+彼と二歩か三歩声の聞こえないところに下がった。
+and talked to him with a fixed and stern countenance, not at all like that with which she had hitherto spoken.
+そしてこれまで話していたのとは全然似つかない、じっとして動かない厳格な表情で彼に話しかけた。
+
+I was filled with wonder
+私は
+that my father did not seem to perceive the change,
+父がその変化を看取したように見えなかったのが不思議で仕方がなくて、
+and also unspeakably curious to learn what it could be that she was speaking, almost in his ear,
+彼女が、ほとんどささやくように、
+with so much earnestness and rapidity.
+それほど真剣にかつ迅速に伝えていた事が何だったのかもまた言いようもなく知りたかった。
+
+Two or three minutes at most I think she remained thus employed,
+思うに多くとも二分か三分彼女はそうしていたが、
+then she turned,
+その後振り返り、
+and a few steps brought her to where her daughter lay, supported by Madame Perrodon.
+二三歩進んで彼女の娘が、Perrodon夫人に支えられて横たわっている所に来た。
+She kneeled beside her for a moment and whispered, as Madame supposed,
+彼女はちょっとの間そばにひざまずき、夫人が思った所では、
+a little benediction in her ear;
+いくらかの祝福をささやいた。
+then hastily kissing her she stepped into her carriage,
+それから急いでくちづけて彼女は馬車に乗り込み、
+the door was closed,
+扉は閉じられ、
+the footmen in stately liveries jumped up behind,
+威厳のある定服を着た従僕はうしろに飛び上がり、
+the outriders spurred on,
+先駆（騎馬で行列を先導する乗馬従者）は馬に拍車をかけ、
+the postilions cracked their whips,
+（四頭立て馬車の）第一列左馬騎手はむちをぴしゃりと鳴らし、
+the horses plunged and broke suddenly into a furious canter
+馬は後足を上げて飛び上がり急に
+that threatened soon again to become a gallop,
+またじきにギャロップになりそうな猛烈な普通駆け足（gallopとtrotの中間の速度）をし出し、
+and the carriage whirled away,
+そして馬車は、
+followed at the same rapid pace by the two horsemen in the rear.
+後に二人の乗馬者に同じ速い速度で付き従われて、たちまち走り去った。
+
+
+文法メモ.
+the carriage was replaced in its upright position,
+and the horses, quite tractable, in the traces again.
+二行目について、まず was replaced が一行目と同じだから省略されているので、
+the horses was replaced in the traces 馬は引き革につながれた状態に戻されていた
+tractable はおとなしいという意味だから、
+being tractable, おとなしくて、という分詞構文のbeingの省略かと思う。
+a glance which I fancied was not quite so affectionate 
+as one might have anticipated from the beginning of the scene
+まず一行目の関係節は、
+I fancied (that) the glance was not quite so affectionate
+私は何となく思ったのだが、その一瞥は情愛があまり深くなかった
+→ a glance which I fancied (that) was not quite so affectionate
+私が何となく思った事だが、情愛があまり深くない、一瞥
+という事だと思う。
+not so affectionate as...は、...ほど情愛が深くはない。
+might have+過去分詞は条件法と可能法現在完了（～した事だろう）が合わさった物 (conditional potential perfect) で、
+過去の否定を意味する。
+I might have been... 私はひょっとすると...だった事であろう
+実際にはそうではなかった。
+場面の初めからひょっとすると予期された事であろうほどには。
+場面の初めを知っている人からすれば、今は情愛の深い一瞥を投げるだろう、と予期するだろうが、
+しかし実際には情愛は深くなかった、という意味だろうか。
+withdrew two or three steps with him out of hearing
+step は名詞なので、withdraw は他動詞の意味でなくてはならず、
+引っ込める、退かせるという意味だが、
+二三歩引く、という事だと思う。
+out of hearing は聞こえないところで。
+聞こえないところに下がる、という意味だろうか。
+postilions
+postilion は馬車を引く馬に乗って導く騎手の事だが、
+国葬（大統領および副大統領の告別式）のような国家的に重要な時に儀式用の車を引く。
+二列あると、馬は左から乗るため、左側の列に乗る。
+今は四頭立てだから、二人の騎手が左側の二頭に乗っている状態だと思う。
+それで複数形になっている。
+辞書では第一列左馬騎手とあったが、そういう意味だろうか。

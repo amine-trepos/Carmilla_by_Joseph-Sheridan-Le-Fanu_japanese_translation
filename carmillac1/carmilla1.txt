@@ -1,0 +1,57 @@
+Carmilla 1. Prologue 序詞
+Upon a paper attached to the Narrative which follows,
+以下の物語に貼り付けた紙の上に、
+Doctor Hesselius has written a rather elaborate note,
+Hesselius医師はやや念入りのメモを書いている。
+which he accompanies with a reference to his Essay on the strange subject which the MS. illuminates.
+そこにはこの手書きの物語が明らかにする奇妙な論題についての、彼の小論文への参照が書き添えられている。
+
+This mysterious subject he treats, in that Essay,
+この不可思議な論題を、彼はその小論文の中で、
+with his usual learning and acumen, and with remarkable directness and condensation.
+彼の常とする学識と鋭敏、また驚くべき率直さと簡約さをもって扱っている。
+It will form but one volume of the series of that extraordinary man's collected papers.
+それもあの非凡な人の一連の論文集のほんの一巻をなすにすぎないだろう。
+
+As I publish the case, in this volume, simply to interest the "laity,"
+私はその事件を、この本で、単に「非専門家」の関心を喚起するために発表するので、
+I shall forestall the intelligent lady, who relates it, in nothing;
+この聡明な淑女、この方がそれを物語る訳だが、その方に何ら先んじる事にはならない。
+and after due consideration, I have determined, therefore,
+それ故に、十分考えた上で、
+to abstaiin from presenting any precis of the learned Doctor's reasoning,
+その学識ある医師の推論の如何なる要約も、
+or extract from his statement on a subject which he describes as "involving, not improbably, some of the profoundest arcana of our dual existence, and its intermediates."
+あるいは彼が「ことによったら、我々の二重存在性と、その介在物の最も深遠な秘密が、少し含まれているかもしれない」と言っているある論題についての彼の言説からの抜粋も、述べるのは控えることに決めた。
+
+I was anxious on discovering this paper,
+私はこの紙を発見した時すぐに、
+to reopen the correspondence commenced by Doctor Hesselius, so many years before,
+ずっと以前に、Hesselius医師によって始められた、
+with a person so clever and careful as his informant seems to have been.
+ある人、利発で注意深い人だったらしい、との文通を再開する事を切望した。
+Much to my regret, however,
+しかし、大変遺憾ながら、
+I found that she had died in the interval.
+彼女はその間に亡くなっていた事を知った。
+
+She, probably, could have added little to the Narrative which she communicates in the following pages,
+もしそうでなかったとしても、彼女は、多分、以下のページで彼女が共にする事になる、
+with, so far as I can pronounce, such conscientious particularity.
+私の判断できる限りでは、これほど良心的な詳細を備えた物語には、ほとんど何も言い足し得なかっただろう。
+
+文法メモ. his informant seems to have been = it seems that his informant was
+で、彼の受け取った手紙は気の利いた注意深い物だったらしい、
+それと同様に（よって）本人もそういう人だったろう、という形だと思うので、そのように書いた。
+in the interval は以前の文通が行われていた頃から、私が気付くまでの空白期間の間に、という意味だと思うが、
+簡単にその間にと書いた。
+communicate は他動詞でなければならず、伝えるという第一義は、物語を伝えているのは彼女ではなくて
+上のladyなので（personはlady, woman, girlの別の明らかでない不明な女性を指す）
+おかしくなってしまう。他動詞では分かつ、共にする=shareという古い意味があるので、
+物語を共にする、すなわち登場人物と考え、そのように訳した。
+in the following pages で現在形なので確定した未来の現在形、以下のページ中で登場する事になっている、となる。
+この序詞は私のレベルでは非常に難しく、短い中に人物が
+医師、物語の作成者、再発見者である"I"、医師と文通をしていた人物と四人も出て来るので、
+どういう意味なのかとかなり考える部分が多かった。
+先を読めばもう少し確定もできるが、フェアさを確保するためそうしなかった。
+数行後から確定した事をもとにした修正は行っています。
