@@ -1,71 +1,79 @@
-Carmilla 2. Chapter 1 1��
-An Early Fright �����̋��|
+/*  [amine, translation of chapter1-1, 2018.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+
+Carmilla 2. Chapter 1 1章
+An Early Fright 早朝の恐怖
 In Styria, we, though by no means magnificent people,
-�X�e�B���A�i�V���^�C�A�[�}���N�B�̉p��\�L�B�I�[�X�g���A9�B�̈�j�ŁA��X�́A�����ė��h�ȊK���ł͂Ȃ����A
+スティリア（シュタイアーマルク州の英語表記。オーストリア9州の一）で、我々は、決して立派な階級ではないが、
 inhabit a castle, or schloss.
-�镗�̑�@��A���Ȃ킿�V�����X�i�h�C�c��j�ɏZ��ł���B
+城風の大邸宅、すなわちシュロス（ドイツ語）に住んでいる。
 A small income, in that part of the world, goes a great way.
-�����΂���̎������A���̒n���ł́A�ƂĂ��債�����̂Ȃ̂ł���B
+少しばかりの収入が、その地方では、とても大したものなのである。
 Eight or nine hundred a year does wonders.
-�N8, 900�|���h�������قǂ̓���������B
+年8, 900ポンドが驚くほどの働きをする。
 Scantily enough ours would have answered among wealthy people at home.
-���̉Ƃɂ��ďZ��ł����T���Ȑl�X�̊ԂȂ�A�قƂ�ǉ�X�̎������͊Ԃɍ���Ȃ��������낤�B
+この家にかつて住んでいた裕福な人々の間なら、ほとんど我々の持ち物は間に合わなかっただろう。
 My father is English, and I bear an English name, although I never saw England.
-���͉p���l�ŁA���͉p���ɍs���������Ȃ����A�p��̖��O�������Ă���B
+父は英国人で、私は英国に行った事がないが、英語の名前を持っている。
 But here, in this lonely and primitive place, where everything is so marvelously cheap,
-�����������ł́A���̐l�ՋH�Ŗ����B�Ȓn���ł́A�������������ꂾ�����ٓI�Ɉ������A
+しかしここでは、この人跡稀で未発達な地方では、何もかもがそれだけ驚異的に安いが、
 I really don't see how ever so much more money would at all materially add to our comforts, or even luxuries.
-���������Ƒ��z�̂������������Ƃ��Ă���̂ǂꂾ�������I�Ɋy���݂��A���邢���ґ򂳂�������̂��S���킩��Ȃ��B
+もしもっと多額のお金があったとしても一体どれだけ物質的に楽しみが、あるいは贅沢さえ増えるのか全くわからない。
 
 My father was in the Austrian service, and retired upon a pension and his patrimony,
-���̓I�[�X�g���A�R�ɂ��āA�ސE���ĉ����Ǝ����̐��P���Y�ł̐����ɓ���A
+父はオーストリア軍にいて、退職して恩給と自分の世襲財産での生活に入り、
 and purchased this feudal residence, and the small estate on which it stands, a bargain.
-���̕�������̓@��ƁA���̏����ȓy�n���A�����ōw�������B
+この封建時代の邸宅と、その小さな土地を、安くで購入した。
 
 Nothing can be more picturesque or solitary.
-�����ȏ�ɊG�̂悤�ɔ������A���邢�͐Î�ȏ��͂Ȃ��B
+ここ以上に絵のように美しい、あるいは静寂な所はない。
 It stands on a slight eminence in a forest.
-����͐X�̒��̂�����Ƃ�������ɂ���B
+それは森の中のちょっとした高台にある。
 The road, very old and narrow, passes in front of its drawbridge, never raised in my time, 
-���ɌÂ��ċ��������A���̍��ɂ͏グ��ꂽ���߂��̂Ȃ����̒��ˋ��ƁA
+非常に古くて狭い道が、私の頃には上げられたためしのないその跳ね橋と、
 and its moat, stocked with perch, and sailed over by many swans, and floating on its surface white fleets of water lilies.
-�p�[�`�i���B�E�k�ĎY�̂������ނ̐H�p�̒W�����j��������A��R�̔������j���i�݁A���ʂɐ��@�̔����Q�𕂂��ׂ��A���̖x�̑O��ʂ��Ă���B
+パーチ（欧州・北米産のすずき類の食用の淡水魚）が放たれ、沢山の白鳥が泳ぎ進み、水面に睡蓮の白い群を浮かべた、その堀の前を通っている。
 
 Over all this the schloss shows its many-windowed front; its towers, and its Gothic chapel.
-���̒[����[�܂ŃV�����X�͑�R���̕t�������ʂƁA���A�S�V�b�N���̗�q���������Ă���B
+この端から端までシュロスは沢山窓の付いた正面と、塔、ゴシック式の礼拝堂を見せている。
 
 The forest opens in an irregular and very picturesque glade before its gate,
-�X�͖�̑O�ŕs���Ȃ܂��ƊG�̂悤�ɔ�������n�ɂȂ��ĊJ���Ă���A
+森は門の前で不整なまこと絵のように美しい空地になって開けており、
 and at the right a steep Gothic bridge carries the road over a stream that winds in deep shadow through the wood.
-�E�ł͋}�ȃS�V�b�N���̋����ؗ��̒�����������e�ɂȂ��Ă��˂�i�ޗ�����z���ē������΂��Ă���B
+右では急なゴシック式の橋が木立の中をすっかり影になってうねり進む流れを越えて道を延ばしている。
 I have said that this is a very lonely place.
-�����͂���߂Đl�ՋH�ȏꏊ���ƌ����Ă����B
+ここはきわめて人跡稀な場所だと言っていた。
 Judge whether I say truth.
-���������������Ă��邩�ǂ������f���Ă��炢�����B
+私が事実を言っているかどうか判断してもらいたい。
 Looking from the hall door towards the road,
-���֔����瓹�̌����ŁA
+玄関扉から道の向きで、
 the forest in which our castle stands extends fifteen miles to the right, and twelve to the left.
-��X�̏�̂���X�͉E����15�}�C���i��24km�j�A������12�}�C���i��19km�j�����Ă���B
+我々の城のある森は右側に15マイル（約24km）、左側に12マイル（約19km）続いている。
 The nearest inhabited village is about seven of your English miles to the left.
-�ł��߂��l�̏Z��ł��鑺�͍����ɂ�����C���O�����h�}�C���i1593�N�@��̖@��}�C���B��1.6km�j��7�}�C���i��11km�j������ɂ���B
+最も近い人の住んでいる村は左側にいわゆるイングランドマイル（1593年法定の法定マイル。約1.6km）で7マイル（約11km）あたりにある。
 The nearest inhabited schloss of any historic associations,
-�ł��߂��l�̏Z��ł�����j��̘A�z�L���ȃV�����X�́A
+最も近い人の住んでいる歴史上の連想豊かなシュロスは、
 is that of old General Spielsdorf, nearly twenty miles away to the right.
-�����RSpielsdorf�̂���ŁA�E���ɂقƂ��20�}�C���i��32km�j������Ă���B
+元将軍Spielsdorfのそれで、右側にほとんど20マイル（約32km）も離れている。
 
-���@����. never �͉ߋ��ƌ��݊����ǂ���Ŏg���Ă��ǂ��A
+文法メモ. never は過去と現在完了どちらで使っても良く、
 I never saw England = I have never seen England.
-�����\�� Looking �̎��� the forest �Ȃ̂ŁA����Ƃ����Ӗ��ł͂Ȃ��A
-�ƂȂǂ��`�����ł���AThe house looks towards the south. �Ƃ͓�������A
-�̈Ӗ��łƂ�Ȃ��Ă͂Ȃ�Ȃ��̂ŁA�啶�̉E���A�����̐������炵�āA
-�X�̊��������镶���ƍl�����̂悤�ɖ󂵂��B
-about seven of your English miles �܂�your�͈�ʓI�ȈӖ��ŁA
-�ǂ��m���Ă���A������A��́B
-�@��}�C��7��=7�}�C���Ƃ������������Ǝv�����A
-�S��12�}�C���̓��A�Ƃ����Ӗ����A���܂ł̋����͖@��}�C���ő����Ă��邩��Ȃ̂��A
-���̌`�����ׂĂ�������ꂸ�A�ǂ��킩��Ȃ������B
-�@��}�C���Ƃ�1760���[�h�̎������A���[�h�̒�`���ϑJ�������ߒ������ϑJ�����B
-����1872�N�ł͒鍑�W�����[�h�����0.914398416m�ɂ�������߁A
-���݂̍��ۃ��[�h0.9144m,���ۃ}�C��1609.344m�Ƃ͌����ɂ͈قȂ�B
-about�͑O�u���łȂ��Ă͂Ȃ�Ȃ��̂ŁA
-��̈Ӗ��ł͂Ȃ��ā`�̂������=somewhere near.
+分詞構文 Looking の主語は the forest なので、見るという意味ではなく、
+家などが～向きである、The house looks towards the south. 家は南向きだ、
+の意味でとらなくてはならないので、主文の右側、左側の説明からして、
+森の基準方向を取る文だと考えそのように訳した。
+about seven of your English miles まずyourは一般的な意味で、
+良く知られている、いわゆる、例の。
+法定マイル7つ分=7マイルという書き方だと思うが、
+全体12マイルの内、という意味か、村までの距離は法定マイルで測ってあるからなのか、
+この形が調べても見つけられず、良くわからなかった。
+法定マイルとは1760ヤードの事だが、ヤードの定義が変遷したため長さも変遷した。
+当時1872年では帝国標準ヤード原器約0.914398416mによったため、
+現在の国際ヤード0.9144m,国際マイル1609.344mとは厳密には異なる。
+aboutは前置詞でなくてはならないので、
+約の意味ではなくて～のあたりに=somewhere near.
