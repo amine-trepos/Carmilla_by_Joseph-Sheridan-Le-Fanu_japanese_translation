@@ -49,4 +49,4 @@ Directory structure:<br>
 I will translate each chapter page by page,<br>
 and present it on twitter first as usual;<br>
 and finally, release it in this repository under the Free Art License.<br>
-Please look forward to it;)
+Please look forward to it ;)
