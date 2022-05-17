@@ -6,10 +6,10 @@ Carmilla(1872) by Joseph Sheridan Le Fanu(1814-1873).<br>
 References:<br>
 - a copy of the original text<br>
 (CARMILLA, JOSEPH LE FANU, ISBN 9781548816209, sourced from https://gutenberg.org).<br>
-I also wrote this original text at the top of the each line.
+I also write this original text at the top of the each line.
 - H. SAITO, 1898,1899, *PRACTICAL ENGLISH GRAMMAR*, VOL.I--IV, TŌKYŌ: KŌBUNSHA, PUBLISHERS.<br>
 H.SAITO(1866-1929)'s masterpiece written in English.<br>
-I use these for the grammatical study of the original text,<br>
+I employ this for the grammatical study of the original text,<br>
 and sometimes translate SAITO's explanations into Japanese,<br>
 and use them in my memorandum added at the bottom of the each file.
 - KENKYUSHA, 1960, *KENKYUSHA'S NEW ENGLISH-JAPANESE DICTIONARY*.<br>
@@ -46,6 +46,6 @@ Directory structure:<br>
 |   |-- carmilla*n*-3.txt   ....... 3rd page of chapter *n*
 |   :
 </pre>
-I will translate each chapter page by page,
-and present it on twitter first as usual;
+I will translate each chapter page by page,<br>
+and present it on twitter first as usual;<br>
 and finally, release it in this repository under the Free Art License.
