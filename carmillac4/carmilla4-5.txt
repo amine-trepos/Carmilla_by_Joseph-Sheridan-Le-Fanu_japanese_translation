@@ -136,12 +136,18 @@ in the rear of... は...のうしろに、という意味だから、
 そのうしろに現れた、と訳した。
 I turned surprised
 現在分詞と同様に、過去分詞も動詞の補語になれる。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.190
+ * より引用
+ */
 受動形 (Be + 過去分詞) はこの組み合わせの型である。
 過去分詞は様々な**あり方**(自動詞),
 **なり方**(自動詞), **させ方**(他動詞)
 を示すような動詞の意味を完全にするために用いられる。
 I *stood enraptured* at the sight. 私はその光景にうっとりとして立っていた
 enraptureはうっとりさせるという意味。
+/* 引用ここまで 
+ */
 同様にsurpriseが驚かすという意味だから、
 驚いて振り返った、という意味。
 I answered, vexed at the interruption, 
@@ -186,9 +192,15 @@ on の部分は、ここでは馬車に乗って、という意味になる。
 今も go on to the churchyard だから同じ形ではないかと思われ、
 私の父は牧師と一緒に墓地へ馬車で行ってしまった、と訳した。
 I thought you knew she was to be buried today
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.100
+ * より引用
+ */
 時制の一致
 主節の動詞 (thought) が過去時制であれば、
 従属節 (you knew 以下) の動詞も過去時制にならなくてはならない。
+/* 引用ここまで 
+ */
 意味としては、まず従属節を現在時制の意味でとって、
 you *know* she *is* to be buried today 
 今日彼女の埋葬式が*行われることになっている*とあなたは*ご承知だ*
@@ -200,8 +212,14 @@ there is no plague or fever coming
 まず最後の現在分詞 coming は、
 plague or fever which is coming
 の簡約化。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.76
+ * より引用
+ */
 そして、動詞 "go," "come," "leave," "start"
 の現在進行時制は口語では未来時制の代わりに使われる。
+/* 引用ここまで 
+ */
 従って、やって来る、という意味。
 all this
 all that がそういうことは皆、すべてそれは、
@@ -211,6 +229,10 @@ all that がそういうことは皆、すべてそれは、
 that はやや離れた物「それ」、または向こうにある物「あれ」
 で良いのだが、
 話の内容、述べる事、を表す時は違う意味になるので注意が必要。
+/* 以下 KENKYUSHA'S NEW ENGLISH-JAPANESE DICTIONARY
+ * p.1874, 1884
+ * より引用
+ */
 that は既に述べた、今述べた事、という意味。
 That's what I want to know. それが私の知りたいことです
 （知りたいことが何なのかは、この文の前に既に言ってある。）
@@ -218,5 +240,7 @@ That's what I want to know. それが私の知りたいことです
 this は、 これから述べることをさす。
 Do it like this. これから私が言う通りにしなさい
 The question is this that... 問題はこうだ、すなわち...
+/* 引用ここまで 
+ */
 なので、すべてこれは、こういうことは皆、とは今から言う事をさすはず。
 それで、すべてこれは…すなわち、と訳した。
