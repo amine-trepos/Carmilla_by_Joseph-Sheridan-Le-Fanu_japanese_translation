@@ -101,10 +101,16 @@ and were eloquent upon the moon.
 月について能弁だった。
 
 文法メモ. we loitered, speculating
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II p.179
+ * より引用
+ */
 分詞が主動詞（従属部の動詞に対し主部の動詞のこと）に先立つ時は、
 それは普通「先の動作」を表す。
 分詞が主動詞の次に来る時は、
 それは普通「同時の動作」を表す。
+/* 引用ここまで 
+ */
 考え込みながら。
 We had nearly a mile to walk
 まず walk a mile 一マイル歩くという表現があるようなので、
@@ -143,16 +149,28 @@ glade
 an irregular and very picturesque glade
 と書かれていたが、形の整っていない小道、の方が正しい意味だったと思う。
 the picturesque
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.I, p.159,160
+ * より引用
+ */
 "the"によって先立たれた形容詞は一種の抽象名詞として用いられる事がある。
 The beautiful = that which is beautiful; beauty 美しさ
+/* 引用ここまで 
+ */
 ここでは絵のような美しさ。
 stood looking in silence over the expanse
 まず in silence 黙って、が、look over 見渡すと組み合わされている。
 不完全自動詞（補語を伴わなければ叙述の完成しない自動詞）
 stand が、現在分詞 looking を補語に取っている。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.187
+ * より引用
+ */
 進行形 be ...ing はこの組み合わせの代表である。
 be が一般の不完全自動詞に変わっている場合は、
 色々な「あり方」（sit, stand, lie, keep, remainのような）を表す。
+/* 引用ここまで 
+ */
 is looking だと単に見ているだったのが、
 stand looking では見て立っている、という意味になる。
 standing a little way behind us
