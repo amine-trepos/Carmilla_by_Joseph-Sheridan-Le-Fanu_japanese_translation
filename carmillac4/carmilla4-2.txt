@@ -199,11 +199,17 @@ might have been は
 実際にはうまくいかなかった場合の後悔（～だっただろうに）や
 危ない所を逃れることができた場合の内心の喜び（～だったところだった）
 を表す常套句で、この場合も後悔を表している。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.17,18
+ * より引用
+ */
 as well の as は比較の指示副詞という物で、
 前あるいは念頭にある物と比べて、
 to that degree or extent　その程度まで、という意味。
 A pencil will do quite as well. 鉛筆にても全く間に合います。
 (= equally well 念頭にある筆記具と比べて同等に、立派に（役立つ）)
+/* 引用ここまで 
+ */
 may as well で...してもよい、...するのも悪くない、
 （別の方法も考えられるけれど）という意味。
 それで、might just as well を、
@@ -225,6 +231,10 @@ nor their armorial bearings
 familyは単数形なのに、
 その代名詞はtheirと複数形になっている。
 これは、familyが集合名詞という物だからである。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.I, p.5,6,7
+ * より引用
+ */
 People, nation, family, clan, mob, army,
 人々, 国家, 家族, 一族, 暴徒, 軍,
 infantry, crew, assembly, parliament, committee, cattle.
@@ -254,6 +264,8 @@ The *cavalry* *wear* scarlet trousers.
 かつまた、複数形 "families" もある。
 *Are* your *family* all well? ご家族皆様はお元気ですか。
 Three *families* live in the same house. 三家族が同じ家に住んでいる。
+/* 引用ここまで 
+ */
 従って、今のfamilyも、その代名詞は
 複数に一致し、their 彼らの、となる。
 You are not to suppose that
@@ -265,6 +277,10 @@ watched opportunity
 機会をうかがう、という意味。
 opportunity には単数なのに冠詞が何もないが、
 これは抽象名詞という物だからである。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.I, p.13
+ * より引用
+ */
 抽象名詞は性質や活動の名称である。
 性質や活動の名称が抽象的と言われるのは、
 性質や活動はその属する対象から離れている、
@@ -301,10 +317,16 @@ Expos*ure* 暴露 (to expose 暴露する)
 Speech ものを言う力 (to speak 話す)
 Life 命 (to live 生きている)
 Proof 証明 (to prove 証明する)
+/* 引用ここまで 
+ */
 今のopportunity 機会、も、
 opportune （時が）好都合の、という
 形容詞から出ている抽象名詞ではないかと思う。
 時が好都合であること = 機会、好機。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.I, p.15--17
+ * より引用
+ */
 抽象名詞は物質名詞と同様の特性がある。
 複数がなく、不定冠詞を取らない。
 性質の名称が必ず単数でなければならないのは、
@@ -337,6 +359,8 @@ The *colours* of the rainbow. (普通名詞)
 変化に富むことは楽しみの源
 This is *a variety* of the camellia. (普通名詞)
 これはつばきの一種です。 (変化に富むことの実例)
+/* 引用ここまで 
+ */
 この中ではwatch opportunity 機会をうかがう、は
 強いて言えばseek truthと似ているだろうか。
 provide opportunities for... だと、...の機会を与える、という事で、
@@ -355,12 +379,18 @@ indeed
 indeed..., but で、なるほど...だがしかし
 という意味。
 But no matter what my tactics,
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.I, p.222
+ * より引用
+ */
 no matter what は接続代名詞 whatever の
 言い換えで、"though" のような譲歩の意味を持つ。
 普通助動詞 "may" が後に続く。
 *Whatever* the consequences may be,...
 *No matter what* the consequences may be,...
 結果が何であろうとも、…
+/* 引用ここまで 
+ */
 従って、今の場合も、
 no matter what my tactics may be,
 私の策略が何であろうとも、
@@ -374,6 +404,10 @@ She promised that I should at last know all.
 動作主が外部の制御あるいは強制のもとにある事を意味する、
 I shall go. = 私は行くが、なぜならばそれが必要だから、あるいはそれが私の義務だから。
 という事は以前メモした。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.237
+ * より引用
+ */
 第二人称と第三人称での"Shall"は普通、話者が動作主を制御している事を表す。 
 ここではその動作を決めるのは話者である。
 そして "shall" の意味は動作主がしなければならない必要性、
@@ -382,6 +416,8 @@ I shall go. = 私は行くが、なぜならばそれが必要だから、ある
 主語はそれに関して受動的に知覚する人に過ぎない。
 *You shall* see.
 (=I will show you. 私がお見せします。)
+/* 引用ここまで 
+ */
 今回の、彼女が「あなたはついに万事を知る事になるでしょう」、と言ったのも、
 =She said, "I will finally tell you everything."
 私は結局はあなたに万事を教えます、という約束。
