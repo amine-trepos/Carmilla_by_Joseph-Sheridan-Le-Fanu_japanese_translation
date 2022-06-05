@@ -144,8 +144,14 @@ lime tree
 イギリスではlime treeと呼ばれるが、ライム（lime）とは関係ない。（ウィキペディアより）
 すなわち、オーストリアで有名な木が登場している。
 The sun was setting
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II p.76
+ * より引用
+ */
 瞬間の動作を意味する動詞では、進行形は始まりの意味を持つ。
 The man is dying. 死にかかっている
+/* 引用ここまで 
+ */
 沈むのは一瞬なので、沈みかかっている。
 many a group
 many a[an] は文学的表現で、幾多の。
@@ -173,17 +179,33 @@ andは二者一体の意味、
 He is a statesman and poet. 政治家で詩人
 という意味かもしれないと思うが、ここは良く分からなかった。
 I devote my remaining days
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II p.74
+ * より引用
+ */
 現在時制で進行形でない時制（現在不定時制）は
 未来時制の代わりに、決まった行為を表すため、
 "go," "come," "start," "leave," "depart," "return," 等のような動詞と共に用いられる。
 My brother returns from abroad next year. 弟が来年海外から戻ります。
+/* 引用ここまで 
+ */
 ここでは残りの人生を当てる事を決意している意味を表すと思う。
 I am told
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II p.75
+ * より引用
+ */
 また現在不定時制はくだけた談話体では現在完了の代わりに、
 "say," "tell," "hear," "be told," "write," "read," "forget," 他の多少の動詞と共に用いられる。
 My father writes (=has written) to say that...... 私の父は意見として～と書いている
+/* 引用ここまで 
+ */
 I have been told 教えられた事がある。故に知っている。
 I curse
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II p.72,73,76,77
+ * より引用
+ */
 現在不定時制は、現に今起こっている動作を表すために用いられる事はめったになく、
 現在進行時制がその目的のために用いられる。
 現に続いている動作を表すために現在不定時制が使われる例の一つは、
@@ -194,6 +216,8 @@ I curse
 (b) "Love," "Hate," "Respect," "Esteem," "Despise" 等
 これらの動詞は幾分自動的で、随意にやめたりまた続けたりできず、
 それ故に連続的である。
+/* 引用ここまで 
+ */
 呪うも嫌うと同じような物だから、進行形がないのだと思う。
 
 ちなみに、私が英語を勉強する時とかに参考にしている本です。
