@@ -124,12 +124,18 @@ be born to calamity は悲運、不幸に生まれつく、という意味で、
 進行形にすると、（今）不幸にあっている、という意味になるのかと思った。
 そこで運命という意味を残し、巡り合っている、と訳した。
 in prosecuting which to lose an hour is possibly to lose all.
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.210
+ * より引用
+ */
 動名詞の前の"In"は動作そのものに注意を促す。
 難しいのだが、例文に書かれているのは
 In calling in the aid of the Saxons,
 the Britons had invited a worse enemy.
 = Their calling in the aid of the Saxons was inviting a worse enemy.
 ブリトン人がサクソン人の助けを求めた事はもっと悪い敵を招く事だった。
+/* 引用ここまで 
+ */
 すなわち、In ～ing...,―― で、～する事は、―― という事だ、という意味。
 which は前のjourneyを先行詞とする関係節を作っていると思うので、
 それを遂行する事は、と前半部分を訳した。
@@ -146,6 +152,10 @@ further on がもっと先で、もっと進んでから、という意味だが
 far on だと先で、という意味になるのだろうか。
 調べたがわからなかったので、この先どの位に、とした。
 shall not see my darling, or even hear of her
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.228,229
+ * より引用
+ */
 "Shall" と "Will" の意味
 これらの語は規則変化の未来時制を作る際に
 用いられる。
@@ -163,6 +173,8 @@ I shall go. = 私は行くが、なぜならばそれが必要だから、ある
 動作主の意志あるいは選択に依存する未来を表す。
 "Will" は、それゆえに、普通動作を動作主の自由意志、選択、決断に帰する。
 I will go. = 私は行くことに決める、あるいはこころよく行く。
+/* 引用ここまで 
+ */
 （なお、現代英語、特にアメリカ英語では、
 あらゆる意義用法を通じて shall は will に統一されようとする傾向がある。）
 今この婦人は行かなくてはならないので、
@@ -201,11 +213,17 @@ If 節に形式上過去形の動詞を置き、（意味は現在）
 2s. if you would grant my request. もし私の願いを許容してもらえるならば。
 主節には普通に条件法の助動詞 "should," "would," "could," "might" を置く。
 2c. I should esteem it a particular favour 誠にありがたく存じます
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.270
+ * より引用
+ */
 If 節の仮定法のWouldは動作主(you)の自発性を意味しており、
 動作主が今動作（許容するか否か）を決める。
 これも仮定法過去と考えられている。
 この If you would は話しかけられている人が
 望むか望まないかについての不確かさを意味する。
+/* 引用ここまで 
+ */
 従ってここでは2の動作主の意思の不確かさを表す仮定法・条件法である。
 If she would let her stay with us, もし彼女が令嬢を我々の所に泊めてくれるならば、
 it would be so delightful. 本当に楽しいでしょうに。
