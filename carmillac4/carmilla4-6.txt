@@ -125,12 +125,18 @@ her hymn (has been) sung 彼女の讃美歌は歌われた
 (and は結果を表す場合もある。ここでは従って、とした。)
 1行目のisから変えて省略していいのかは良くわからなかった。
 she stared down upon the ground
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.221
+ * より引用
+ */
 "upon," "on" は動作が向けられた対象を表すが、
 "at" とは違い益や害を付加的に示唆する。
 When we *look at* a thing, 物を見るとは、
 we simply direct our sight to it. 単にそれに視線を向けるということである。
 We *look upon* (=regard) a thing with favour or disfavour.
 物を遇するというのは好意または疎外をもって見るということ。
+/* 引用ここまで 
+ */
 従って、ここでは地面を憎しみをもってじっと見降ろした、と訳した。
 That comes of strangling people with hymns
 まず、come of... は、
@@ -149,8 +155,14 @@ peopleの前にあるので、
 B級映画のようであるが、
 讃美歌絞め殺し人間と訳した。
 the spectacle had left upon me
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.224
+ * より引用
+ */
 "On," "Upon" は何らかの力や影響が及ぼされる対象を示すのに
 用いられる。
 *Influence* of weather *on* the mind 天気が精神に及ぼす影響
+/* 引用ここまで 
+ */
 ここでは顔色の変化が主人公に対して残した印象、
 という意味。
