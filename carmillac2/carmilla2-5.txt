@@ -150,12 +150,18 @@ before you reach the castle drawbridge
 木や十字標が立っているという事は、今も変わらない事実なので。
 その中で彼らが来ている部分だけは過去なので、そうなっている。
 I knew what was coming
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.I, p.219
+ * より引用
+ */
 このwhatは従属疑問詞（疑問名詞節を導入するために使われる時の疑問詞、何が起こりかかっているか）から
 先行詞のない関係詞（起こりかかっている事）への変わり目で、
 どちらの意味の時もある。
 He asked me what I wanted. 彼は何がほしいかと尋ねた
 He knew what I wanted. 彼は私が何を欲しいか（欲しい物が）わかっていた
 He gave me what I wanted. 彼は私が欲しい物をくれた
+/* 引用ここまで 
+ */
 man 召使い、下男、従者という意味。
 had got out
 完了時制の内、(a) 物事に残っている直接の結果
