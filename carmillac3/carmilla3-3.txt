@@ -200,8 +200,14 @@ I tell you all that passed
 の目的語を倒置して強調した形。
 私は打ち明けよう、I will tell you となるべきに見える未来の事なのに、
 tell が現在時制になっているのは、
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.75
+ * より引用
+ */
 現在不定時制は生き生きした言葉づかいでは未来時制の代わりに使われる:
 Stop! or you are a dead man. 止まれ！さもないと死人になる。
+/* 引用ここまで 
+ */
 これだと思う。
 起こった事の全てを、
 それは本当にわずかだが、
