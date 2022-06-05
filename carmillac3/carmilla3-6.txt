@@ -183,6 +183,10 @@ I don't know which should be most afraid of the other
 I should be very much afraid of you
 と全く同じ形で用いられているので、
 仮定法の条件節が省略されているのだと思う。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.124, 265
+ * より引用
+ */
 これは条件法未来という形で、
 "Should" と "Would" の主な使われ方の一つ。
 実際の時間は現在か未来のどちらか。
@@ -192,6 +196,8 @@ I should be very much afraid of you
 この場合も、"Should" と "Would" は "Shall" と "Will"
 の規則に従う。
 I should be able to do it, if I tried. もし試みたならば、できる事でしょうけれど。
+/* 引用ここまで 
+ */
 条件節は恐らくもしあなたがそれ程可愛らしくなかったならば、
 のような言葉で良いと思うので、shallの自分の意志によらない意味を
 ～のはずだったと訳して、
@@ -201,10 +207,16 @@ but being as you are, and you and I both so young,
 まずbutの後に分詞構文になっているが、
 butは前の文とこの分詞構文を含む後の文全体を
 大きくつないでいるだけだと思う。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.181--183
+ * より引用
+ */
 分詞構文は時間、原因や理由、条件や譲歩を意味する場合があり、
 原因や理由の場合は"as"に導かれる挿入句的な節が後に伴う事がある。
 Living, as I do, (= As I live) at such a distance from town, I rarely have visitors.
 町からこれほど遠方に住んでいるので、私にはめったに来客がありません。
+/* 引用ここまで 
+ */
 但し今回は分詞構文の意味上の主語(you, you and I)と主節の主語 I が異なるけれど、
 そういう例文もあったので、独立分詞構文のように許されるのだと思う。
 being as you are (so pretty), and you and I (are) both so young,
