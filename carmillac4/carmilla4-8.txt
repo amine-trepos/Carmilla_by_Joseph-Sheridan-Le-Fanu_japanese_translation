@@ -190,6 +190,10 @@ May plague take the dog! この犬のろわれちまえ！
 と訳した。 
 as I look up, I have seen it distinctly
 look が現在時制になっているのはなぜなのか。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.75
+ * より引用
+ */
 現在不定時制は、くつろいだ談話体では、
 "say," "tell," "hear," "be told," "write," "read," "forget," などで、
 現在完了時制の代わりに用いられる。
@@ -197,6 +201,8 @@ I have just received your publisher's catalogue,
 and *find* that your new grammar is out.
 あなたの出版書店のカタログをたった今受け取ったばかりですが、
 あなたの新しい文法書が出ていることを知りました。
+/* 引用ここまで 
+ */
 従って、今のも、
 as I have looked up, 見上げた時、
 という意味だと思う。
