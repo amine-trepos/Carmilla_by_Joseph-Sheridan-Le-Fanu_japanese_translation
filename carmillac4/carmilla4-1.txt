@@ -281,10 +281,16 @@ What harm could it do anyone
 to tell me what I so ardently desired to know?
 前半がcouldで条件法になっているから、
 不定詞の節は仮定法を表しているはず。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.144
+ * より引用
+ */
 これは条件不定詞というもので、不定詞はしばしば条件を表す。
 It would have afforded me the greatest pleasure
 *to have been present*. (=*If I had been* present)
 もしも居合わせていたならば、それによってこの上ない楽しさが得られたでしょうに。
+/* 引用ここまで 
+ */
 条件節の主語は主節の me になっている。
 また、元々形式主語のItの内容であった不定詞の名詞節が、
 副詞節のようになり、形式主語のItがその事、という意味を回復しているように思う。
@@ -311,6 +317,15 @@ that I would not divulge one syllable of what she told me to any mortal breathin
 最初のwouldは、willの過去時制で、
 というのはshouldと違いwouldは間接話法でなくても
 willの過去時制として使われるからだったが、
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.264
+ * より引用
+ *
+ * 最後の例文は
+ * KENKYUSHA'S NEW ENGLISH-JAPANESE DICTIONARY
+ * p.2113
+ * より引用
+ */
 (a) 喜んでしたまたは気が進まなかった事
 I said "Go on," but he *would not* go on.
 私は「進め」と言ったが、彼は進みたくなかった。
@@ -356,6 +371,8 @@ but I *would* have a definite answer, yes or no.
 "Would" はここではほとんど "used to" と同意義である。
 He *would* sit for hours doing nothing.
 何時間も何もしないですわっていることがあった。
+/* 引用ここまで 
+ */
 ここでは、Why would she not believe meは
 (c) の一文目によく似ているから、信じない事に決めた、
 信じる事はなかった、という意味だと思う。
