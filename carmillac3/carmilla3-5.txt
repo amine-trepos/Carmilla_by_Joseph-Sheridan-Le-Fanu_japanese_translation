@@ -225,6 +225,10 @@ veinは気持ちという意味だから、
 となる。そこで、態度で気持ちを示して、と訳した。
 it is so very strange that you and I should have had,
 each of the other so vivid a dream
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.274
+ * より引用
+ */
 "Should"は我々の予期に反して偶然起こる事に対する驚きや遺憾の意を
 表わすために用いられる。
 現実 (what is) が予期 (what should be, きっとそうなる事) に反している
@@ -235,6 +239,8 @@ each of the other so vivid a dream
 これらの節の後でも直説法を用いても良いが、
 "should" を付加する事によって驚きや遺憾の概念を強調する。
 ～するとは、と訳す。
+/* 引用ここまで 
+ */
 shouldがなければhave had a dreamで現在完了時制だから、
 夢を見た事がある、という意味で良いと思う。
 但し、間にeach of the otherという名詞句がはさまっている。
@@ -267,6 +273,10 @@ which I should certainly know again,
 直説法のshouldは間接話法で用いられるもので、
 I said that we should do it the next day. 翌日しようと言った。
 間接話法でない場合はwouldにしかない。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.263,264
+ * より引用
+ */
 wouldは直接話法の用法もある。
 I offered him money, but he would not take it. 
 私は彼にお金を申し出たが、受け取ろうとしなかった。
@@ -281,6 +291,8 @@ I offered him money, but he would not take it.
 （現代英語では直接話法はwouldのみに淘汰されてしまったという事だろうか。）
 "he (Christ) knew who should betray him" (John 13:11 KJV(1611))
 「彼（キリスト）は自分を裏切る事になるのは誰かを知っていた」
+/* 引用ここまで 
+ */
 従って、関係節の元の形の
 I should know again the iron candlestick
 だと、私はその鉄の燭台を再び認める事になった、
