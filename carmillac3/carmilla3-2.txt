@@ -101,10 +101,16 @@ who had peeped for a moment into the stranger's room.
 文法メモ. 
 My father in the meantime had sent a servant...,
 and a bedroom was being prepared for the young lady's reception.
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.79
+ * より引用
+ */
 過去進行(progressive past)は普通もう一つの過去時制の動詞を伴い、
 前者（過去進行形の動詞）が占める時間は
 後者（もう一つの過去時制の動詞）が占める時間を包含する。
 I was studying when he came. 彼が来た時私は勉強していた。
+/* 引用ここまで 
+ */
 勉強していた期間に、彼が来訪した時が内包されている。
 今の場合では、寝室が準備されていた期間に、
 父が雇い人を使いに出した時が内包されている、という事になるだろう。
