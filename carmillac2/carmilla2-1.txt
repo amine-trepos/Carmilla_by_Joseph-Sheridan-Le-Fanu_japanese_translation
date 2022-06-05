@@ -89,6 +89,10 @@ but there was nothing to suggest the remotest suspicion of danger.
 まず of which 以下は
 I have been an eyewitness of it 私はそれを目撃したことがある
 を関係節にして truth を修飾したもの。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II p.81,83,84
+ * より引用
+ */
 現在完了時制とは「現在についての何らかの情報を伝えるために
 過去の出来事に言及する事」であり、
 ある動作の結果が何らかの形で現在に残っている事を示す。
@@ -105,6 +109,8 @@ I have lost my knife. ナイフはなくしてしまった
 動作それ自体は過去のいつ終わったのでも良い。
 I have seen a tiger. 虎を見たことがある
 (Therefore I know what it is like. ゆえにそれがどんなものだか知っている。) 
+/* 引用ここまで 
+ */
 I have been an eyewitness of it 私はそれを目撃したことがある、は
 こちらなので、私は目撃者である、と現在の特質に直して訳した。
 mentioned as lying in front of the schloss
@@ -130,12 +136,18 @@ whom I had never seen
 General Spielsdorf had mentioned that she was not so well as he would wish her,
 彼女はあまり健康ではないと言及された事がある、従って健康ではない事は知っていた （現在完了でいうと知識の意味）
 He was to have paid us a visit of some weeks,
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II p.136,137
+ * より引用
+ */
 完了不定詞 to have 過去分詞 は、
 "wished," "hoped," "intended," "expected," 等のような
 未来の状態や出来事の意味を含む動詞の過去時制の後では、
 その否定や実現しなかった事を暗示するためのものである。
 He intended to have gone abroad. 彼は海外に行くつもりだった （しかし実現しなかった。）
 He was to have come. 彼は来る予定だった （しかし来なかった。）
+/* 引用ここまで 
+ */
 ここでは "was to" が～する予定だった、という未来の出来事を含む動詞の過去時制になっており、
 彼は数週間うちに滞在する予定だった （しかしそれは実現しなかった。）
 I asked, both mortified and curious
