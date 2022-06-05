@@ -189,8 +189,14 @@ A *good* temper 上機嫌
 A temper *not naturally good* ありのままではない上機嫌 
 better German から、このようになったのかと思う。
 not better は、ほとんど同じという意味。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.I, p.172
+ * より引用
+ */
 He is *not better* than a beggar.
 (= He is much the same as a beggar. 彼はこじきとほとんど同じだ)
+/* 引用ここまで 
+ */
 それに much がついているので、
 これも比較級と共に用いてほとんどという意味なので、
 訳さなかった。
@@ -240,10 +246,16 @@ we were smiling down upon him, amused
 upon は、
 前にあったように、
 "at" とは違い益や害を付加的に示唆するのだった。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.221
+ * より引用
+ */
 She smiled *at* him (with pity or comtempt).
 哀れみや軽蔑して一笑に付した
 She smiled *on* him (with favour or tenderness).
 好意を持ってあるいはやさしく微笑みかけた
+/* 引用ここまで 
+ */
 最後の amused は、
 受動態の完了分詞
 having been amused
