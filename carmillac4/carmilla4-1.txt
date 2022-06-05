@@ -112,6 +112,10 @@ that I would not divulge one syllable of what she told me to any mortal breathin
 
 文法メモ.
 I shall begin by describing her.
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.231
+ * より引用
+ */
 純粋未来を表すために "I shall" を用いるのは、
 礼儀の考慮に起因する事がある。
 "I will" と言うよりも "I shall" と言う方がより丁寧と考えられているが、
@@ -124,6 +128,8 @@ I shall begin by describing her.
 「さて.........への言及に移らなくてはなりませんが」
 "*I shall* next consider........."
 「次に.........を考察する事になりますが」
+/* 引用ここまで 
+ */
 彼女を描写する事から始めることになります、と訳した。
 I never saw hair so magnificently thick and long 
 when it was down about her shoulders;
@@ -153,6 +159,10 @@ as I tumbled (it) with its own weight
 as, in her room,
 she lay back in her chair talking in her sweet low voice,
 I used to fold and braid it,
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.298
+ * より引用
+ */
 As は、時間関係を表すのに使われる場合は、
 二つの動作の同時性を表す。
 (a) = While (～しながら)
@@ -160,6 +170,8 @@ He trembled as he spoke. 話しながら身震いした
 (b) = When
 The train arrived as the clock struck six.
 時計が六時を打った時列車が着いた
+/* 引用ここまで 
+ */
 (a) は主節と従属節の主語が同じでなければならないから、
 今の場合はもちろん(b)の意味。
 従って、lay back は後ろにもたれている時、という意味ではなくて、
@@ -240,6 +252,10 @@ that hers should be baffled by another.
 仮定法未来のshouldで、未来の不定さを表わしている。
 仮定法は条件節(if節など)で用いるものだが、
 このshouldはlest, till, that節でも使われる。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.255
+ * より引用
+ */
 なぜかというと、古くは(今となっては古文体だけれども)
 従属節内の "Shall" (条件節、条件の意味を持つ関係節、
 条件を示唆する時間の副詞節内の)
@@ -251,6 +267,8 @@ Any member who *shall* absent himself without notice,
 いかなる会員でも無断で欠席しようものならば、
 shall be fined one yen.
 一円の罰金を科される事になる。
+/* 引用ここまで 
+ */
 who の関係代名詞節がもし欠席しようものならば、
 という条件の意味を持っている。
 従ってこのthat hers should be baffled by anotherも、
