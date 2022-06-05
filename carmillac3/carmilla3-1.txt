@@ -150,10 +150,16 @@ much people 多数の人々
 この頃はこの意味が生きていたのではないかと思う。
 一度に一人が談話をかわす事のできる人数だ、と訳した。
 a very little excitement would possibly overpower her now
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.128
+ * より引用
+ */
 仮定法のif節は、時にはただ一語句で含蓄される。
 A judicious father would have treated him otherwise. 賢明な父親だったらば彼を別のやり方で扱っただろうに。
 = If he had been a judicious father, he would have treated him otherwise.
 もし彼が賢明な父親だったならば、彼（こちらは息子）を別のやり方で扱っただろうに。
+/* 引用ここまで 
+ */
 "judicious"が仮定法のif節を含蓄している。
 実際には賢明な父親ではなかったのだから。
 従って、"a very little excitement"が仮定法のif節を含蓄している。
@@ -171,10 +177,20 @@ I will run up to her room and see her.
 As soon as she is comfortably in bed, I will run up to her room and see her.
 彼女が安らかに寝床についたらすぐ、彼女の部屋へ急いで上がってお見舞いしよう。
 as soon as の後のisが現在時制になっているのは、
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.74
+ * より引用
+ */
 "if," "when," "while," "before," "after," "till," "as soon as," 等の接続詞によって
 導かれる節では、現在不定時制が未来時制の代わりに用いられるからである（意味は未来）。
 You will let me know as soon as you hear from him. 彼から便りがありましたらすぐお知らせください。
+/* 引用ここまで 
+ */
 ただ、今は過去の話で、それなのに未来時制になってる点について。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.74
+ * より引用
+ */
 現在時制であれば、時には生き生きした話術では過去時制の代わりに用いられる。
 これは「史的現在」 (historic present, historical present, dramatic present) と称され、
 過去の事実の叙述を生動させるために用いる現在時制である。
@@ -209,6 +225,8 @@ She leaves the beach in haste
 彼女は急いで浜を去り
 and seeks her lonely home."
 ひとりぼっちの家へ向かった。」
+/* 引用ここまで 
+ */
 今はas soon asの後が現在時制になっているからか、
 未来時制でも過去時制の代わりに用いられる事があるのか、
 それは良く分からなかった。
