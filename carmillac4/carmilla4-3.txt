@@ -161,6 +161,10 @@ then turn away and drop my hand.
 文法メモ.
 she would press me more closely in her trembling embrace
 最後のinは長い時間を表す用法ではないかと思う。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.IV, p.48
+ * より引用
+ */
 "In" と "During" は lifetime 一生, absence 不在, illness 病気, reign 治世, 等の
 単語と共に用いられる。
 **In** は*物事の状態*に注意を促し、
@@ -171,6 +175,8 @@ Some one called *in* your absence. だれかがあなたの不在中に電話を
 Many things happened *during* your absence. あなたのいない間はいろんな事がありましたよ。
 または何かがその期間中ずっと続く時に普通用いられる。
 Who took your place *during* your absence? あなたのいない間は誰があなたの席にいたのか。
+/* 引用ここまで 
+ */
 今の場合も、令嬢が震えて抱擁する間に、一層しっかりと主人公を抱きしめた、
 という意味だと思う。
 次の行の in soft kisses も同じで、そっとしたくちづけの間に。
@@ -184,6 +190,10 @@ while such scenes lasted
 （後に書いてある事がぼんやりしている。
 はっきり思う所はなかったとか、いろんな事があったとか。）
 which were not of very frequent occurrence
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.187
+ * より引用
+ */
 形容詞性の "Of."――
 大抵の形容詞句は "Of" によって導かれる。
 A gem *of price* = a precious gem 価値のある（高価な）宝石
@@ -192,22 +202,36 @@ A gem *of price* = a precious gem 価値のある（高価な）宝石
 This is a matter *of great importance*. これは重大な事柄だ。
 叙述詞.
 The matter is *of great importance*. その事は重大だ。
+/* 引用ここまで 
+ */
 今の場合だと、of frequent occurrence で、しばしば起る、という意味。
 very は否定語と共に用いて、余り、さほど、大して...ではない、という意味だから、
 それは余りよくあることではなかったけれども。
 from which I only seemed to recover myself when she withdrew her arms
 この only は何を修飾していて、どういう意味なのか。
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.88
+ * より引用
+ */
 副詞の位置.
 副詞の配置は英作文での最大の困難の一つである。
 文中でほとんどどんな位置でも取れる副詞もあり、
 意味の大きな違いが時には副詞の取る位置によって表わされる。
 最良の解法は副詞を修飾させるつもりの単語に
 できるだけ近く配置するという事である。
+/* 引用ここまで 
+ */
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.III, p.95
+ * より引用
+ */
 "Only" の位置.
 単語 "only" の位置は特別な注意を必要とする。
 多義性が起こらないようにするために用心が必要である。
 最良の実践的な解法は修飾させるつもりの単語または語群の
 直前に配置するという事である。
+/* 引用ここまで 
+ */
 この原則に従って考えると、今の only は seemed を修飾している、
 と考えるのが良さそうなので、
 私は彼女が腕を引っ込めた時ただそこから正気に立ち返る気がするだけだった、
@@ -216,6 +240,10 @@ from which I only seemed to recover myself when she withdrew her arms
 私の行動力はいざという時に役に立たないようだった、
 という内容にも合っている。
 I now write
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.72
+ * より引用
+ */
 現在不定時制 (I *write*, I *go*) は
 今起っている動作を表すためにはめったに使われず、
 その目的では現在進行形が使われる。
@@ -225,6 +253,8 @@ I now write
 現在不定時制をこの意味で使う一例は、
 観ている人が眼前に見える事を叙述する時である。
 There *comes* my brother. 私の兄が来ました。
+/* 引用ここまで 
+ */
 今回の I write は、自分が字を書いているのに、
 傍観者のように述べている事になるが、
 それはこれが読者を想定した文章だからで、
@@ -258,6 +288,10 @@ and she was renewed again and again
 Then she had thrown herself back in her chair,
 with her small hands over her eyes,
 leaving me trembling.
+/* 以下 PRACTICAL ENGLISH GRAMMAR
+ * VOL.II, p.94--96
+ * より引用
+ */
 過去完了時制は、ある動きが
 何らかの明確に記された過去の時刻の前に
 完了していることを表す。
@@ -284,6 +318,8 @@ I **had eaten nothing** all day. 一日中何も食べていなかったから�
 I **had eaten** something *before dinner*. 晩餐の前にちょっと食べていた。
 (Therefore I *felt* no appetite at dinner. ゆえに食事中には食欲を感じなかった。
 晩餐の時刻における、空腹ではないという状態を表している。)
+/* 引用ここまで 
+ */
 では、今回の場合、まず明確に記された時刻とはどれのことだろうか。
 おそらく leaving me trembling が、
 when she left me trembling 私の震えているのを放っておきながら
