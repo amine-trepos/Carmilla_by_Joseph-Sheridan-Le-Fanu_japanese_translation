@@ -1,106 +1,113 @@
-Carmilla 4.10. 4�͑���
+/*  [amine, translation of chapter4-10, 2022.].
+ *
+ * Copyleft: This is a free work, you can copy, distribute, and modify it
+ * under the terms of the Free Art License
+ * http://artlibre.org/licence/lal/en/
+ */
+
+Carmilla 4.10. 4章続き
 Later in the day the doctor came,
-���̓���ň�t���������A
+その日後で医師が到着し、
 and was closeted with papa for some time.
-���΂炭�p�p�Ɣ閧�Ɉ��������B
+しばらくパパと秘密に引見した。
 
 He was a skilful man, of sixty and upwards,
-�ނ�60�Έȏ�́A�n�������l�ŁA
+彼は60歳以上の、熟練した人で、
 he wore powder,
-�ނ́i18���I����A����ɐU�肩�����j���������Ă��āA
+彼は（18世紀ごろ、かつらに振りかけた）髪粉をつけていて、
 and shaved his pale face as smooth as a pumpkin.
-������������悤���ڂ���Ɠ����ʂ��ׂ��ׂɂ������B
+青白い顔をせいようかぼちゃと同じ位すべすべにそった。
 He and papa emerged from the room together,
-�ނƃp�p�͕�������A�ꗧ���Č���A
+彼とパパは部屋から連れ立って現れ、
 and I heard papa laugh,
-���ꂩ��p�p�����𗧂Ăď΂��̂��A
+それからパパが声を立てて笑うのが、
 and say as they came out:
-�����ďo�ė��������������̂����������B
+そして出て来た時こう言うのが聞こえた。
 
 "Well,
-�u�܂��A
+「まあ、
 I do wonder at a wise man like you.
-���Ȃ��̂悤�Ȍ��l�ɂ͖{���ɋ����B
+あなたのような賢人には本当に驚く。
 What do you say to hippogriffs and dragons?"
-�q�b�|�O���t(�h�̓��Ɨ���n�̑̂Ɏ����������B
-�O���t�H�����܂��A���C�I���̓��̂ɘh�̓��Ɨ������̂ŁA
-���̕��������C�I���Ȃ̂��O���t�H���ŁA�n�Ȃ̂��q�b�|�O���t�����A
-���Ƃ��Ƃ̃O���t�H���͋���n�𐔓��͂�Ŕ�ׂ�قǔ��ɑ傫���B
-�̒����S���Ⴄ���߁A�q�b�|�O���t�Ƃ͕s�\�̔�g�������Ƃ����B
-�i�E�F���M���E�X�w�A�G�l�[�C�X�x�j
-�O���t�H���͗y���ɌÂ����̂ŁA
-Scythia�ɏZ��ł��̒n�̉��������ƐM����ꂽ�B
-���̕ӂ�̃C�����_�b�i�I���O2000�N�`�I���O1500�N���j�ɂ͑��݂��A
-�I���O�O��N�I�������̉~����͂ɂ͊��ɂ������B
+ヒッポグリフ(鷲の頭と翼を馬の体に持った怪物。
+グリフォンもまた、ライオンの胴体に鷲の頭と翼を持つので、
+胴体部分がライオンなのがグリフォンで、馬なのがヒッポグリフだが、
+もともとのグリフォンは牛や馬を数頭掴んで飛べるほど非常に大きい。
+体長が全く違うため、ヒッポグリフとは不可能の比喩だったとされる。
+（ウェルギリウス『アエネーイス』）
+グリフォンは遥かに古いもので、
+Scythiaに住んでその地の黄金を守ると信じられた。
+その辺りのイラン神話（紀元前2000年～紀元前1500年頃）には存在し、
+紀元前三千年紀初期頃の円筒印章には既にあった。
 GRANGER HISTORICAL PICTURE ARCHIVE,
 PERSIAN GRIFFIN. From an antique cylinder seal, c3000 B.C., found at Susa, Iran.
 https://www.granger.com/results.asp?image=0018458&screenwidth=977
-�������G�ł��ˁB
-��������̂ł��邩��A��͂Ɏg��ꂽ�̂ł͂Ȃ����낤���B)
-�◳�͂ǂ��ł����H�v
+美しい絵ですね。
+宝を守るものであるから、印章に使われたのではないだろうか。)
+や竜はどうですか？」
 
 The doctor was smiling,
-��t�͔��΂��Ă��āA
+医師は微笑していて、
 and made answer, shaking his head--
-�������ɐU��A�Ԏ��������\�\
+頭を横に振りつつ、返事をした――
 "Nevertheless life and death are mysterious states,
-�u����ł����Ǝ��͕s�v�c�ȏ�ԂŁA
+「それでも生と死は不可思議な状態で、
 and we know little of the resources of either."
-��X�͂ǂ���̍��̎������قƂ�ǒm��Ȃ��B�v
+我々はどちらの国の資源もほとんど知らない。」
 
 And so they walked on,
-�����Ŕނ�͂ǂ�ǂ�����čs���āA
+そこで彼らはどんどん歩いて行って、
 and I heard no more.
-����ȏ�̂��Ƃ͕������Ȃ������B
+それ以上のことは聞こえなかった。
 I did not then know what the doctor had been broaching,
-���̎��͈�t�������i�V�����j�񏥂����̂��킩��Ȃ���������ǂ��A
+その時は医師が何を（新説を）提唱したのかわからなかったけれども、
 but I think I guess it now.
-������������������Ǝv���܂��B
+それを今推測したいと思います。
 
-���@����.
+文法メモ.
 shaking his head
-shake the head �͓������ɐU��i�ے�Ȃǁj�Ƃ����Ӗ��ŁA
-nod the head ���Ɠ������Ȃ�������i�����Ȃǁj�Ƃ����Ӗ��ɂȂ�B
-He shook his head at the idea. ���̈Ăɓ������ɐU����
+shake the head は頭を横に振る（否定など）という意味で、
+nod the head だと頭をうなずかせる（承諾など）という意味になる。
+He shook his head at the idea. その案に頭を横に振った
 life and death are mysterious states,
 and we know little of the resources of either
-���� resource �̈Ӗ������A
-���ʂ͕����` resources �ŁA
-�����Ƃ����Y�A�ꍑ�̎����Ƃ����Ӗ��ɂȂ�A
-either �͑O�̐߂� life and death ���Ǝ��̂ǂ���ł��A
-�̎����낤����A
-��X�͐��Ǝ��̂ǂ���̎������قƂ�ǒm��Ȃ��A
-�ƈӖ����悭�킩��Ȃ��Ȃ��Ă��܂��B
-����́A�O�̐߂� state ���A
-���⎀�̏�ԁA�Ƃ����Ӗ��̊O�ɁA
-���Ƃ����Ӗ����|���Ă���̂ł͂Ȃ����낤���B
-the resources of an organization�@�c�̂̎���
-�Ƃ����g����������̂ŁA
+この resource の意味だが、
+普通は複数形 resources で、
+財源とか資産、一国の資源という意味になり、
+either は前の節の life and death 生と死のどちらでも、
+の事だろうから、
+我々は生と死のどちらの資源もほとんど知らない、
+と意味がよくわからなくなってしまう。
+これは、前の節の state が、
+生や死の状態、という意味の外に、
+国という意味を掛けているのではないだろうか。
+the resources of an organization　団体の資源
+という使い方をするので、
 the resources of either
-�͂��̌`�ɍ����Ă���B
-���̒n���Řb��ɂȂ��Ă��鈫��͎��̍��̎҂ŁA
-�܂������ł������񂪌�����
-�q�b�|�O���t�◳�́A�����i���̍��j�̎҂ł��邪�A
-�����̐����̎��������ƌĂ񂾂̂ł͂Ȃ����낤���B
-����͎��̍��̎҂Ȃ̂ŉ�X�͂قƂ�ǒm��Ȃ��B
-�܂��q�b�|�O���t�◳�͌����ɂ���ƍl�����Ă��邪�A
-������܂���X�͂قƂ�ǒm��Ȃ��A
-�Ƃ����Ӗ��ł͂Ȃ����Ǝv���B
-���Ǝ��͕s�v�c�ȏ�ԂŁA
-��X�͂ǂ���̍��̎������قƂ�ǒm��Ȃ��A
-�Ɩ󂵂��B
+はこの形に合っている。
+この地方で話題になっている悪霊は死の国の者で、
+またここでお父さんが言った
+ヒッポグリフや竜は、現世（生の国）の者であるが、
+これらの生物の事を資源と呼んだのではないだろうか。
+悪霊は死の国の者なので我々はほとんど知らない。
+またヒッポグリフや竜は現世にいると考えられているが、
+それもまた我々はほとんど知らない、
+という意味ではないかと思う。
+生と死は不可思議な状態で、
+我々はどちらの国の資源もほとんど知らない、
+と訳した。
 I think I guess it now
-�܂��A���� I think �͒��J��\���ŁA
-�`�������Ǝv���܂��A�Ƃ����Ӗ��B
-I think I'll try. ����Ă݂����Ǝv���܂�
-�]���āA������������������Ǝv���܂��A
-�Ƃ����Ӗ����낤�Ǝv���B
+まず、この I think は丁寧語表現で、
+～したいと思います、という意味。
+I think I'll try. やってみたいと思います
+従って、それを今推測したいと思います、
+という意味だろうと思う。
 I will guess it now
-�ƁA���������ɂȂ��Ă��Ȃ����A
-�������ł͂��̂悤�Ɍ��ݕs�莞���ɂȂ��Ă��鎖��
-����悤�ȋC������B
-���܂����\���\���ɂ͌��ݕs�莞�������������̑���ɗp������̂ŁA
-What time *do* you *start*? �����o���ł���
-�������̏ꍇ�A���ɏ������͌��܂����\�肾����A
-I guess it now  ���������܂��A
-�ƌ��ݕs�莞���ɂȂ��Ă���̂ł͂Ȃ����Ǝv���B
+と、未来時制になっていないが、
+書き物ではこのように現在不定時制になっている事が
+あるような気がする。
+決まった予定を表すには現在不定時制が未来時制の代わりに用いられるので、
+What time *do* you *start*? いつご出発ですか
+書き物の場合、次に書く事は決まった予定だから、
+I guess it now  今推測します、
+と現在不定時制になっているのではないかと思う。
